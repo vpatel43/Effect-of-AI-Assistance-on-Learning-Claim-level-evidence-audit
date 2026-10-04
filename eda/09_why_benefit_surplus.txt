@@ -1,0 +1,124 @@
+
+==========================================================================================
+statistical_marking by valence (claims)
+==========================================================================================
+statistical_marking  not applicable  not significant  not stated  significant
+valence                                                                      
+beneficial                      134                8        2219          774
+harmful                          80                6         611           47
+
+==========================================================================================
+...row %
+==========================================================================================
+statistical_marking  not applicable  not significant  not stated  significant
+valence                                                                      
+beneficial                      4.3              0.3        70.8         24.7
+harmful                        10.8              0.8        82.1          6.3
+
+==========================================================================================
+AMONG CLAIMS THAT REPORT A TEST: was it significant?
+==========================================================================================
+statistical_marking  not significant  significant
+valence                                          
+beneficial                       1.0         99.0
+harmful                         11.3         88.7
+
+==========================================================================================
+...n
+==========================================================================================
+statistical_marking  not significant  significant
+valence                                          
+beneficial                         8          774
+harmful                            6           47
+
+==========================================================================================
+odds a *reported test* is non-significant, harm vs benefit
+==========================================================================================
+OR = 12.35   p = 0.000   n = 835 claims, 452 papers
+
+==========================================================================================
+n_reported availability
+==========================================================================================
+claims with a sample size: 62 of 6063 (1.0%)
+beneficial-or-harmful claims with a sample size: 43
+  of those, harmful: 10
+median n where reported: 46.0
+
+==========================================================================================
+harm rate vs how often the outcome type is measured at all
+==========================================================================================
+                         claims  corpus_share_%  harm_%
+object_type                                            
+behavioural strategy        206             8.4    39.8
+not stated                  351            15.0    29.6
+disposition or attitude     422            11.5    22.3
+cognitive process          1184            25.5    22.0
+subjective experience       434            10.5    12.4
+task performance           1259            28.4    11.8
+physiological                19             0.7    10.5
+behavioral strategy           1             0.0     0.0
+mixed                         2             0.0     0.0
+mixed or multiple             1             0.0     0.0
+
+==========================================================================================
+harm rate vs how often the horizon is measured at all
+==========================================================================================
+                     claims  corpus_share_%  harm_%
+measurement_horizon                                
+delayed                 297             5.8    16.5
+immediate               325             7.2    15.7
+longitudinal            107             2.9    37.4
+not applicable           12             1.9    83.3
+not stated             3137            82.1    18.9
+
+==========================================================================================
+harm rate under a balanced design mix
+==========================================================================================
+              variable  observed_harm_pct  balanced_harm_pct  strata
+0          object_type               18.2               21.6       5
+1  measurement_horizon               19.2               23.2       3
+2        evidence_type               19.2               17.8       3
+3   population_setting               14.5               25.3       4
+
+==========================================================================================
+valence x direction (row % within direction)
+==========================================================================================
+valence         beneficial  contested  harmful  neutral  not applicable  not stated
+direction                                                                          
+decrease              29.6        1.3     53.0     15.4             0.0         0.7
+increase              79.2        0.5      5.5     12.3             0.0         2.5
+no change              5.5        2.1      3.7     85.5             0.0         3.2
+non monotonic          1.0       33.0      1.0     54.0             0.0        11.0
+not applicable         0.7        0.7      3.5      8.3            54.9        31.9
+not stated             7.7        2.3      3.7      9.9             0.2        76.2
+
+==========================================================================================
+...how often does an increase get called harmful?
+==========================================================================================
+increase -> harmful: 5.5%
+decrease -> harmful: 53.0%
+
+==========================================================================================
+harm rate by claim position within the paper
+==========================================================================================
+          claims  harm_pct
+claim_ix                  
+1.0         1056      12.2
+2.0          891      18.9
+3.0          703      20.3
+4.0          488      22.3
+5.0          320      24.1
+6.0          421      28.0
+
+==========================================================================================
+odds of harm per additional position down the claim list
+==========================================================================================
+OR = 1.141  p = 6.63e-07
+
+==========================================================================================
+harm rate by claim_role
+==========================================================================================
+            claims  harm_pct
+claim_role                  
+mechanism      885      23.5
+signature     2994      17.9

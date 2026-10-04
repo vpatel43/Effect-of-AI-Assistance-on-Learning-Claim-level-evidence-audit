@@ -1,0 +1,185 @@
+
+==============================================================================
+subject_entity: length profile
+==============================================================================
+n=6016  distinct=3352
+words  median=2  p90=7  max=24
+share >8 words (prose, not a term): 4.9%
+
+==============================================================================
+object_entity: length profile
+==============================================================================
+n=6063  distinct=4588
+words  median=3  p90=8  max=29
+share >8 words (prose, not a term): 7.6%
+
+==============================================================================
+mediator: length profile
+==============================================================================
+n=660  distinct=602
+words  median=4  p90=9  max=19
+share >8 words (prose, not a term): 13.9%
+
+==============================================================================
+moderator: length profile
+==============================================================================
+n=615  distinct=565
+words  median=3  p90=8  max=19
+share >8 words (prose, not a term): 6.7%
+
+==============================================================================
+exact-string chaining potential (no normalisation)
+==============================================================================
+distinct subjects: 3207   distinct objects: 4581
+strings appearing as BOTH a subject and an object: 86
+claims whose object string is some other claim's subject string: 444 of 6063
+
+==============================================================================
+subject_entity: vocabulary concentration
+==============================================================================
+top 50 strings cover 24.7% of mentions
+top 200 strings cover 37.1% of mentions
+singletons: 2448 (76.3% of vocab, 40.7% of mentions)
+
+==============================================================================
+object_entity: vocabulary concentration
+==============================================================================
+top 50 strings cover 13.6% of mentions
+top 200 strings cover 23.2% of mentions
+singletons: 4103 (89.6% of vocab, 67.7% of mentions)
+
+==============================================================================
+subject_entity collapsed to 120 clusters — top 25 by mentions
+==============================================================================
+         mentions  n_terms                                                                             exemplar
+cluster                                                                                                        
+9             526      131                                                                              chatgpt
+5             511       56                                                                                   ai
+26            428      168                                                                        generative ai
+1             425      157                                                                        ai assistance
+12            273      153                                                                       ai integration
+13            205      116                                                                 cognitive offloading
+2             188       50                                                                             ai tools
+6             164       95                                                         intelligent tutoring systems
+40            136       93                                                        learning analytics dashboards
+24            125       81                                                                      ai-driven tools
+80            113       77                                                                           ai support
+62            106       69                                                                      ai applications
+4             105       80                                                                   prompt instruction
+20             99       61                                                                      ai technologies
+94             96       49                                                                      virtual reality
+11             93       59                                                                   pedagogical agents
+15             91       57                                                                 scaffolding strategy
+70             83       52                                                                                   vr
+37             76       57                                                                   automated feedback
+54             70       45                                                             ai-powered writing tools
+78             67       32                                                                          ai literacy
+0              65       55  brief, expert-led, curriculum-based videos integrated into the classroom experience
+3              63       49                                                                    augmented reality
+53             59       29                                                                 ai-enhanced learning
+60             59       41                                                                perceived ease of use
+
+==============================================================================
+subject cluster size profile
+==============================================================================
+clusters holding >=10 mentions: 89 of 120
+largest cluster: 526 mentions, 131 distinct strings
+
+==============================================================================
+object_entity collapsed to 150 clusters — top 25 by mentions
+==============================================================================
+         mentions  n_terms                                         exemplar
+cluster                                                                    
+5             482      246                                learning outcomes
+43            350      192                                      performance
+129           292      147                                       engagement
+29            223      137                                    self-efficacy
+80            220      159                              knowledge retention
+13            189      130                                   cognitive load
+59            185      109                                critical thinking
+7             138      113                                  writing quality
+3             133      116  full integration of ai in orthodontic education
+4             123       88                                    effectiveness
+118           113       63                             academic achievement
+56            100       84                                  clinical skills
+1              95       85                           feedback effectiveness
+2              91       63                                      test scores
+16             90       54                                       creativity
+36             86       58                                       offloading
+119            83       58                                        enjoyment
+20             81       61                                     overreliance
+54             81       47                                     satisfaction
+11             79       75                                learning interest
+93             78       58                              learning efficiency
+44             77       65                                       confidence
+91             74       70                         conceptual understanding
+14             71       65                               perceived learning
+37             67       65                                        usability
+
+==============================================================================
+subject cluster 9 members (top 12)
+==============================================================================
+                              term    n
+0                          chatgpt  250
+9                      ai chatbots   32
+12                        chatbots   24
+18                         chatbot   17
+39                     chatgpt use    8
+45   digital game-based ai chatbot    8
+98                    chatgpt-flga    5
+111                 use of chatgpt    5
+121                      chatgpt-4    5
+140                 genai chatbots    4
+181               ai-based chatbot    4
+209         chatgpt-based learning    4
+
+==============================================================================
+subject cluster 5 members (top 12)
+==============================================================================
+                    term    n
+1                     ai  233
+3                  genai  111
+7            genai tools   34
+14                ai use   21
+20             genai use   16
+23                gen ai   11
+30             ai and ml    9
+103           genai tool    5
+122             ai usage    5
+127        chatgpt usage    5
+147  genai use intensity    4
+287              gps use    3
+
+==============================================================================
+subject cluster 26 members (top 12)
+==============================================================================
+                          term    n
+4                generative ai  100
+11       ai-generated feedback   27
+25                    feedback   11
+28                 ai feedback    9
+33            chatgpt feedback    9
+34         gai (generative ai)    8
+42  chatgpt-generated feedback    8
+46        ai-adaptive feedback    8
+64           adaptive feedback    7
+69         generative ai tools    6
+89      llm-generated feedback    6
+91              ml-la feedback    6
+
+==============================================================================
+subject cluster 1 members (top 12)
+==============================================================================
+                                                    term   n
+5                                          ai assistance  48
+13                                  ai-assisted learning  24
+17                                  ai-assisted training  17
+32                     ai-empowered intelligent teaching   9
+36                                 gai-assisted feedback   8
+37                               ai-assisted instruction   8
+41                                         ar assistance   8
+44                                 gai-assisted teaching   8
+52                                   ai-assisted writing   7
+53                                       ai-assisted sdl   7
+55  ai-empowered scenario-based simulation teaching mode   7
+62                                                gen-ai   7

@@ -1,0 +1,433 @@
+subject_type,object_type,population_setting,obs_claims,obs_papers,expected_claims,ratio,pct_directional,pct_taxonomic,n_sig_marked
+generative ai assistant,task performance,education,425,307,443.0,0.96,66.0,14.0,156
+generative ai assistant,task performance,clinical,111,65,92.0,1.21,54.0,15.0,40
+generative ai assistant,task performance,laboratory,9,9,32.2,0.28,67.0,11.0,2
+generative ai assistant,task performance,workplace,24,16,24.5,0.98,67.0,12.0,3
+generative ai assistant,task performance,everyday or naturalistic,1,1,6.0,0.17,0.0,100.0,0
+generative ai assistant,task performance,mixed or multiple,2,1,0.9,2.22,100.0,0.0,2
+generative ai assistant,cognitive process,education,317,250,278.6,1.14,61.0,32.0,46
+generative ai assistant,cognitive process,clinical,45,38,57.8,0.78,62.0,31.0,9
+generative ai assistant,cognitive process,laboratory,1,1,20.2,0.05,100.0,0.0,0
+generative ai assistant,cognitive process,workplace,10,9,15.4,0.65,60.0,40.0,1
+generative ai assistant,cognitive process,everyday or naturalistic,1,1,3.8,0.26,0.0,100.0,0
+generative ai assistant,cognitive process,mixed or multiple,0,0,0.5,0.0,,,0
+generative ai assistant,subjective experience,education,201,154,132.3,1.52,67.0,17.0,36
+generative ai assistant,subjective experience,clinical,10,9,27.5,0.36,90.0,0.0,3
+generative ai assistant,subjective experience,laboratory,3,3,9.6,0.31,67.0,0.0,1
+generative ai assistant,subjective experience,workplace,2,2,7.3,0.27,50.0,0.0,0
+generative ai assistant,subjective experience,everyday or naturalistic,0,0,1.8,0.0,,,0
+generative ai assistant,subjective experience,mixed or multiple,0,0,0.3,0.0,,,0
+generative ai assistant,disposition or attitude,education,148,120,114.2,1.3,71.0,24.0,32
+generative ai assistant,disposition or attitude,clinical,8,7,23.7,0.34,88.0,0.0,0
+generative ai assistant,disposition or attitude,laboratory,1,1,8.3,0.12,100.0,0.0,0
+generative ai assistant,disposition or attitude,workplace,9,7,6.3,1.43,78.0,22.0,0
+generative ai assistant,disposition or attitude,everyday or naturalistic,2,1,1.5,1.33,0.0,100.0,0
+generative ai assistant,disposition or attitude,mixed or multiple,0,0,0.2,0.0,,,0
+generative ai assistant,behavioural strategy,education,68,64,79.5,0.86,44.0,50.0,2
+generative ai assistant,behavioural strategy,clinical,11,10,16.5,0.67,73.0,9.0,2
+generative ai assistant,behavioural strategy,laboratory,1,1,5.8,0.17,100.0,0.0,0
+generative ai assistant,behavioural strategy,workplace,6,6,4.4,1.36,33.0,67.0,0
+generative ai assistant,behavioural strategy,everyday or naturalistic,1,1,1.1,0.91,100.0,0.0,0
+generative ai assistant,behavioural strategy,mixed or multiple,0,0,0.2,0.0,,,0
+generative ai assistant,physiological,education,2,2,8.0,0.25,50.0,50.0,0
+generative ai assistant,physiological,clinical,6,5,1.7,3.53,50.0,17.0,2
+generative ai assistant,physiological,laboratory,1,1,0.6,1.67,100.0,0.0,0
+generative ai assistant,physiological,workplace,0,0,0.4,0.0,,,0
+generative ai assistant,physiological,everyday or naturalistic,0,0,0.1,0.0,,,0
+generative ai assistant,physiological,mixed or multiple,0,0,0.0,,,,0
+generative ai assistant,mixed or multiple,education,1,1,0.5,2.0,100.0,0.0,0
+generative ai assistant,mixed or multiple,clinical,0,0,0.1,0.0,,,0
+generative ai assistant,mixed or multiple,laboratory,0,0,0.0,,,,0
+generative ai assistant,mixed or multiple,workplace,0,0,0.0,,,,0
+generative ai assistant,mixed or multiple,everyday or naturalistic,0,0,0.0,,,,0
+generative ai assistant,mixed or multiple,mixed or multiple,0,0,0.0,,,,0
+generative ai assistant,behavioral strategy,education,0,0,0.5,0.0,,,0
+generative ai assistant,behavioral strategy,clinical,0,0,0.1,0.0,,,0
+generative ai assistant,behavioral strategy,laboratory,0,0,0.0,,,,0
+generative ai assistant,behavioral strategy,workplace,0,0,0.0,,,,0
+generative ai assistant,behavioral strategy,everyday or naturalistic,0,0,0.0,,,,0
+generative ai assistant,behavioral strategy,mixed or multiple,0,0,0.0,,,,0
+generative ai assistant,mixed,education,1,1,0.5,2.0,100.0,0.0,0
+generative ai assistant,mixed,clinical,0,0,0.1,0.0,,,0
+generative ai assistant,mixed,laboratory,0,0,0.0,,,,0
+generative ai assistant,mixed,workplace,0,0,0.0,,,,0
+generative ai assistant,mixed,everyday or naturalistic,0,0,0.0,,,,0
+generative ai assistant,mixed,mixed or multiple,0,0,0.0,,,,0
+non ai external aid,task performance,education,87,77,107.0,0.81,68.0,9.0,25
+non ai external aid,task performance,clinical,21,17,22.2,0.95,57.0,19.0,9
+non ai external aid,task performance,laboratory,31,25,7.8,3.97,90.0,0.0,7
+non ai external aid,task performance,workplace,5,3,5.9,0.85,80.0,20.0,0
+non ai external aid,task performance,everyday or naturalistic,3,3,1.4,2.14,67.0,33.0,0
+non ai external aid,task performance,mixed or multiple,1,1,0.2,5.0,100.0,0.0,0
+non ai external aid,cognitive process,education,64,55,67.3,0.95,58.0,39.0,5
+non ai external aid,cognitive process,clinical,10,9,14.0,0.71,60.0,20.0,1
+non ai external aid,cognitive process,laboratory,13,11,4.9,2.65,85.0,8.0,4
+non ai external aid,cognitive process,workplace,8,7,3.7,2.16,50.0,50.0,0
+non ai external aid,cognitive process,everyday or naturalistic,6,5,0.9,6.67,33.0,67.0,0
+non ai external aid,cognitive process,mixed or multiple,0,0,0.1,0.0,,,0
+non ai external aid,subjective experience,education,21,20,32.0,0.66,62.0,29.0,6
+non ai external aid,subjective experience,clinical,3,3,6.6,0.45,67.0,33.0,1
+non ai external aid,subjective experience,laboratory,2,2,2.3,0.87,100.0,0.0,0
+non ai external aid,subjective experience,workplace,1,1,1.8,0.56,100.0,0.0,0
+non ai external aid,subjective experience,everyday or naturalistic,0,0,0.4,0.0,,,0
+non ai external aid,subjective experience,mixed or multiple,0,0,0.1,0.0,,,0
+non ai external aid,disposition or attitude,education,32,28,27.6,1.16,75.0,25.0,4
+non ai external aid,disposition or attitude,clinical,1,1,5.7,0.18,100.0,0.0,0
+non ai external aid,disposition or attitude,laboratory,1,1,2.0,0.5,100.0,0.0,1
+non ai external aid,disposition or attitude,workplace,2,2,1.5,1.33,50.0,50.0,0
+non ai external aid,disposition or attitude,everyday or naturalistic,0,0,0.4,0.0,,,0
+non ai external aid,disposition or attitude,mixed or multiple,0,0,0.1,0.0,,,0
+non ai external aid,behavioural strategy,education,17,14,19.2,0.89,59.0,29.0,0
+non ai external aid,behavioural strategy,clinical,1,1,4.0,0.25,0.0,0.0,1
+non ai external aid,behavioural strategy,laboratory,7,7,1.4,5.0,100.0,0.0,1
+non ai external aid,behavioural strategy,workplace,3,2,1.1,2.73,67.0,33.0,1
+non ai external aid,behavioural strategy,everyday or naturalistic,1,1,0.3,3.33,0.0,0.0,0
+non ai external aid,behavioural strategy,mixed or multiple,0,0,0.0,,,,0
+non ai external aid,physiological,education,1,1,1.9,0.53,0.0,100.0,0
+non ai external aid,physiological,clinical,1,1,0.4,2.5,100.0,0.0,0
+non ai external aid,physiological,laboratory,1,1,0.1,10.0,100.0,0.0,1
+non ai external aid,physiological,workplace,0,0,0.1,0.0,,,0
+non ai external aid,physiological,everyday or naturalistic,0,0,0.0,,,,0
+non ai external aid,physiological,mixed or multiple,0,0,0.0,,,,0
+non ai external aid,mixed or multiple,education,0,0,0.1,0.0,,,0
+non ai external aid,mixed or multiple,clinical,0,0,0.0,,,,0
+non ai external aid,mixed or multiple,laboratory,0,0,0.0,,,,0
+non ai external aid,mixed or multiple,workplace,0,0,0.0,,,,0
+non ai external aid,mixed or multiple,everyday or naturalistic,0,0,0.0,,,,0
+non ai external aid,mixed or multiple,mixed or multiple,0,0,0.0,,,,0
+non ai external aid,behavioral strategy,education,1,1,0.1,10.0,0.0,100.0,0
+non ai external aid,behavioral strategy,clinical,0,0,0.0,,,,0
+non ai external aid,behavioral strategy,laboratory,0,0,0.0,,,,0
+non ai external aid,behavioral strategy,workplace,0,0,0.0,,,,0
+non ai external aid,behavioral strategy,everyday or naturalistic,0,0,0.0,,,,0
+non ai external aid,behavioral strategy,mixed or multiple,0,0,0.0,,,,0
+non ai external aid,mixed,education,0,0,0.1,0.0,,,0
+non ai external aid,mixed,clinical,0,0,0.0,,,,0
+non ai external aid,mixed,laboratory,0,0,0.0,,,,0
+non ai external aid,mixed,workplace,0,0,0.0,,,,0
+non ai external aid,mixed,everyday or naturalistic,0,0,0.0,,,,0
+non ai external aid,mixed,mixed or multiple,0,0,0.0,,,,0
+decision support system,task performance,education,54,40,58.9,0.92,72.0,13.0,14
+decision support system,task performance,clinical,47,29,12.2,3.85,47.0,9.0,22
+decision support system,task performance,laboratory,4,4,4.3,0.93,75.0,0.0,0
+decision support system,task performance,workplace,3,3,3.3,0.91,100.0,0.0,0
+decision support system,task performance,everyday or naturalistic,0,0,0.8,0.0,,,0
+decision support system,task performance,mixed or multiple,0,0,0.1,0.0,,,0
+decision support system,cognitive process,education,28,25,37.1,0.75,46.0,50.0,5
+decision support system,cognitive process,clinical,8,7,7.7,1.04,50.0,38.0,0
+decision support system,cognitive process,laboratory,2,2,2.7,0.74,100.0,0.0,1
+decision support system,cognitive process,workplace,0,0,2.0,0.0,,,0
+decision support system,cognitive process,everyday or naturalistic,0,0,0.5,0.0,,,0
+decision support system,cognitive process,mixed or multiple,0,0,0.1,0.0,,,0
+decision support system,subjective experience,education,10,10,17.6,0.57,70.0,20.0,1
+decision support system,subjective experience,clinical,1,1,3.7,0.27,0.0,0.0,0
+decision support system,subjective experience,laboratory,0,0,1.3,0.0,,,0
+decision support system,subjective experience,workplace,0,0,1.0,0.0,,,0
+decision support system,subjective experience,everyday or naturalistic,0,0,0.2,0.0,,,0
+decision support system,subjective experience,mixed or multiple,0,0,0.0,,,,0
+decision support system,disposition or attitude,education,6,6,15.2,0.39,83.0,17.0,2
+decision support system,disposition or attitude,clinical,3,3,3.2,0.94,67.0,33.0,2
+decision support system,disposition or attitude,laboratory,1,1,1.1,0.91,100.0,0.0,0
+decision support system,disposition or attitude,workplace,0,0,0.8,0.0,,,0
+decision support system,disposition or attitude,everyday or naturalistic,0,0,0.2,0.0,,,0
+decision support system,disposition or attitude,mixed or multiple,0,0,0.0,,,,0
+decision support system,behavioural strategy,education,15,13,10.6,1.42,47.0,40.0,3
+decision support system,behavioural strategy,clinical,4,4,2.2,1.82,75.0,25.0,0
+decision support system,behavioural strategy,laboratory,2,2,0.8,2.5,100.0,0.0,0
+decision support system,behavioural strategy,workplace,0,0,0.6,0.0,,,0
+decision support system,behavioural strategy,everyday or naturalistic,0,0,0.1,0.0,,,0
+decision support system,behavioural strategy,mixed or multiple,0,0,0.0,,,,0
+decision support system,physiological,education,1,1,1.1,0.91,100.0,0.0,0
+decision support system,physiological,clinical,1,1,0.2,5.0,0.0,0.0,1
+decision support system,physiological,laboratory,0,0,0.1,0.0,,,0
+decision support system,physiological,workplace,0,0,0.1,0.0,,,0
+decision support system,physiological,everyday or naturalistic,0,0,0.0,,,,0
+decision support system,physiological,mixed or multiple,0,0,0.0,,,,0
+decision support system,mixed or multiple,education,0,0,0.1,0.0,,,0
+decision support system,mixed or multiple,clinical,0,0,0.0,,,,0
+decision support system,mixed or multiple,laboratory,0,0,0.0,,,,0
+decision support system,mixed or multiple,workplace,0,0,0.0,,,,0
+decision support system,mixed or multiple,everyday or naturalistic,0,0,0.0,,,,0
+decision support system,mixed or multiple,mixed or multiple,0,0,0.0,,,,0
+decision support system,behavioral strategy,education,0,0,0.1,0.0,,,0
+decision support system,behavioral strategy,clinical,0,0,0.0,,,,0
+decision support system,behavioral strategy,laboratory,0,0,0.0,,,,0
+decision support system,behavioral strategy,workplace,0,0,0.0,,,,0
+decision support system,behavioral strategy,everyday or naturalistic,0,0,0.0,,,,0
+decision support system,behavioral strategy,mixed or multiple,0,0,0.0,,,,0
+decision support system,mixed,education,0,0,0.1,0.0,,,0
+decision support system,mixed,clinical,0,0,0.0,,,,0
+decision support system,mixed,laboratory,0,0,0.0,,,,0
+decision support system,mixed,workplace,0,0,0.0,,,,0
+decision support system,mixed,everyday or naturalistic,0,0,0.0,,,,0
+decision support system,mixed,mixed or multiple,0,0,0.0,,,,0
+none (observational),task performance,education,11,11,21.1,0.52,64.0,27.0,2
+none (observational),task performance,clinical,5,5,4.4,1.14,80.0,0.0,0
+none (observational),task performance,laboratory,6,6,1.5,4.0,67.0,33.0,1
+none (observational),task performance,workplace,0,0,1.2,0.0,,,0
+none (observational),task performance,everyday or naturalistic,1,1,0.3,3.33,100.0,0.0,0
+none (observational),task performance,mixed or multiple,0,0,0.0,,,,0
+none (observational),cognitive process,education,10,9,13.3,0.75,50.0,50.0,0
+none (observational),cognitive process,clinical,2,2,2.8,0.71,100.0,0.0,0
+none (observational),cognitive process,laboratory,7,6,1.0,7.0,86.0,14.0,1
+none (observational),cognitive process,workplace,2,2,0.7,2.86,50.0,50.0,0
+none (observational),cognitive process,everyday or naturalistic,0,0,0.2,0.0,,,0
+none (observational),cognitive process,mixed or multiple,0,0,0.0,,,,0
+none (observational),subjective experience,education,3,3,6.3,0.48,33.0,33.0,2
+none (observational),subjective experience,clinical,1,1,1.3,0.77,0.0,0.0,1
+none (observational),subjective experience,laboratory,1,1,0.5,2.0,100.0,0.0,0
+none (observational),subjective experience,workplace,0,0,0.3,0.0,,,0
+none (observational),subjective experience,everyday or naturalistic,0,0,0.1,0.0,,,0
+none (observational),subjective experience,mixed or multiple,0,0,0.0,,,,0
+none (observational),disposition or attitude,education,4,4,5.4,0.74,100.0,0.0,0
+none (observational),disposition or attitude,clinical,1,1,1.1,0.91,0.0,100.0,0
+none (observational),disposition or attitude,laboratory,1,1,0.4,2.5,100.0,0.0,0
+none (observational),disposition or attitude,workplace,1,1,0.3,3.33,0.0,100.0,0
+none (observational),disposition or attitude,everyday or naturalistic,0,0,0.1,0.0,,,0
+none (observational),disposition or attitude,mixed or multiple,0,0,0.0,,,,0
+none (observational),behavioural strategy,education,4,4,3.8,1.05,100.0,0.0,0
+none (observational),behavioural strategy,clinical,1,1,0.8,1.25,100.0,0.0,0
+none (observational),behavioural strategy,laboratory,5,5,0.3,16.67,80.0,20.0,2
+none (observational),behavioural strategy,workplace,2,2,0.2,10.0,50.0,50.0,0
+none (observational),behavioural strategy,everyday or naturalistic,0,0,0.1,0.0,,,0
+none (observational),behavioural strategy,mixed or multiple,0,0,0.0,,,,0
+none (observational),physiological,education,0,0,0.4,0.0,,,0
+none (observational),physiological,clinical,0,0,0.1,0.0,,,0
+none (observational),physiological,laboratory,0,0,0.0,,,,0
+none (observational),physiological,workplace,0,0,0.0,,,,0
+none (observational),physiological,everyday or naturalistic,0,0,0.0,,,,0
+none (observational),physiological,mixed or multiple,0,0,0.0,,,,0
+none (observational),mixed or multiple,education,0,0,0.0,,,,0
+none (observational),mixed or multiple,clinical,0,0,0.0,,,,0
+none (observational),mixed or multiple,laboratory,0,0,0.0,,,,0
+none (observational),mixed or multiple,workplace,0,0,0.0,,,,0
+none (observational),mixed or multiple,everyday or naturalistic,0,0,0.0,,,,0
+none (observational),mixed or multiple,mixed or multiple,0,0,0.0,,,,0
+none (observational),behavioral strategy,education,0,0,0.0,,,,0
+none (observational),behavioral strategy,clinical,0,0,0.0,,,,0
+none (observational),behavioral strategy,laboratory,0,0,0.0,,,,0
+none (observational),behavioral strategy,workplace,0,0,0.0,,,,0
+none (observational),behavioral strategy,everyday or naturalistic,0,0,0.0,,,,0
+none (observational),behavioral strategy,mixed or multiple,0,0,0.0,,,,0
+none (observational),mixed,education,0,0,0.0,,,,0
+none (observational),mixed,clinical,0,0,0.0,,,,0
+none (observational),mixed,laboratory,0,0,0.0,,,,0
+none (observational),mixed,workplace,0,0,0.0,,,,0
+none (observational),mixed,everyday or naturalistic,0,0,0.0,,,,0
+none (observational),mixed,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,task performance,education,7,7,16.8,0.42,57.0,14.0,4
+automation or autopilot,task performance,clinical,8,8,3.5,2.29,50.0,12.0,4
+automation or autopilot,task performance,laboratory,5,5,1.2,4.17,100.0,0.0,1
+automation or autopilot,task performance,workplace,1,1,0.9,1.11,100.0,0.0,0
+automation or autopilot,task performance,everyday or naturalistic,0,0,0.2,0.0,,,0
+automation or autopilot,task performance,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,cognitive process,education,4,4,10.5,0.38,75.0,25.0,1
+automation or autopilot,cognitive process,clinical,5,4,2.2,2.27,40.0,60.0,0
+automation or autopilot,cognitive process,laboratory,0,0,0.8,0.0,,,0
+automation or autopilot,cognitive process,workplace,3,3,0.6,5.0,67.0,33.0,0
+automation or autopilot,cognitive process,everyday or naturalistic,4,4,0.1,40.0,75.0,25.0,0
+automation or autopilot,cognitive process,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,subjective experience,education,3,3,5.0,0.6,100.0,0.0,0
+automation or autopilot,subjective experience,clinical,0,0,1.0,0.0,,,0
+automation or autopilot,subjective experience,laboratory,0,0,0.4,0.0,,,0
+automation or autopilot,subjective experience,workplace,0,0,0.3,0.0,,,0
+automation or autopilot,subjective experience,everyday or naturalistic,0,0,0.1,0.0,,,0
+automation or autopilot,subjective experience,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,disposition or attitude,education,2,1,4.3,0.47,100.0,0.0,0
+automation or autopilot,disposition or attitude,clinical,2,2,0.9,2.22,50.0,50.0,0
+automation or autopilot,disposition or attitude,laboratory,0,0,0.3,0.0,,,0
+automation or autopilot,disposition or attitude,workplace,2,2,0.2,10.0,100.0,0.0,0
+automation or autopilot,disposition or attitude,everyday or naturalistic,0,0,0.1,0.0,,,0
+automation or autopilot,disposition or attitude,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,behavioural strategy,education,1,1,3.0,0.33,100.0,0.0,0
+automation or autopilot,behavioural strategy,clinical,3,2,0.6,5.0,67.0,33.0,0
+automation or autopilot,behavioural strategy,laboratory,1,1,0.2,5.0,100.0,0.0,0
+automation or autopilot,behavioural strategy,workplace,2,2,0.2,10.0,50.0,50.0,0
+automation or autopilot,behavioural strategy,everyday or naturalistic,0,0,0.0,,,,0
+automation or autopilot,behavioural strategy,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,physiological,education,0,0,0.3,0.0,,,0
+automation or autopilot,physiological,clinical,1,1,0.1,10.0,100.0,0.0,0
+automation or autopilot,physiological,laboratory,0,0,0.0,,,,0
+automation or autopilot,physiological,workplace,0,0,0.0,,,,0
+automation or autopilot,physiological,everyday or naturalistic,0,0,0.0,,,,0
+automation or autopilot,physiological,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,mixed or multiple,education,0,0,0.0,,,,0
+automation or autopilot,mixed or multiple,clinical,0,0,0.0,,,,0
+automation or autopilot,mixed or multiple,laboratory,0,0,0.0,,,,0
+automation or autopilot,mixed or multiple,workplace,0,0,0.0,,,,0
+automation or autopilot,mixed or multiple,everyday or naturalistic,0,0,0.0,,,,0
+automation or autopilot,mixed or multiple,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,behavioral strategy,education,0,0,0.0,,,,0
+automation or autopilot,behavioral strategy,clinical,0,0,0.0,,,,0
+automation or autopilot,behavioral strategy,laboratory,0,0,0.0,,,,0
+automation or autopilot,behavioral strategy,workplace,0,0,0.0,,,,0
+automation or autopilot,behavioral strategy,everyday or naturalistic,0,0,0.0,,,,0
+automation or autopilot,behavioral strategy,mixed or multiple,0,0,0.0,,,,0
+automation or autopilot,mixed,education,0,0,0.0,,,,0
+automation or autopilot,mixed,clinical,0,0,0.0,,,,0
+automation or autopilot,mixed,laboratory,0,0,0.0,,,,0
+automation or autopilot,mixed,workplace,0,0,0.0,,,,0
+automation or autopilot,mixed,everyday or naturalistic,0,0,0.0,,,,0
+automation or autopilot,mixed,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,task performance,education,2,2,2.5,0.8,50.0,0.0,1
+calculator or single purpose tool,task performance,clinical,0,0,0.5,0.0,,,0
+calculator or single purpose tool,task performance,laboratory,2,2,0.2,10.0,100.0,0.0,0
+calculator or single purpose tool,task performance,workplace,0,0,0.1,0.0,,,0
+calculator or single purpose tool,task performance,everyday or naturalistic,0,0,0.0,,,,0
+calculator or single purpose tool,task performance,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,cognitive process,education,1,1,1.6,0.62,0.0,100.0,0
+calculator or single purpose tool,cognitive process,clinical,0,0,0.3,0.0,,,0
+calculator or single purpose tool,cognitive process,laboratory,0,0,0.1,0.0,,,0
+calculator or single purpose tool,cognitive process,workplace,0,0,0.1,0.0,,,0
+calculator or single purpose tool,cognitive process,everyday or naturalistic,0,0,0.0,,,,0
+calculator or single purpose tool,cognitive process,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,subjective experience,education,1,1,0.7,1.43,0.0,100.0,0
+calculator or single purpose tool,subjective experience,clinical,0,0,0.2,0.0,,,0
+calculator or single purpose tool,subjective experience,laboratory,0,0,0.1,0.0,,,0
+calculator or single purpose tool,subjective experience,workplace,0,0,0.0,,,,0
+calculator or single purpose tool,subjective experience,everyday or naturalistic,0,0,0.0,,,,0
+calculator or single purpose tool,subjective experience,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,disposition or attitude,education,0,0,0.6,0.0,,,0
+calculator or single purpose tool,disposition or attitude,clinical,0,0,0.1,0.0,,,0
+calculator or single purpose tool,disposition or attitude,laboratory,0,0,0.0,,,,0
+calculator or single purpose tool,disposition or attitude,workplace,0,0,0.0,,,,0
+calculator or single purpose tool,disposition or attitude,everyday or naturalistic,0,0,0.0,,,,0
+calculator or single purpose tool,disposition or attitude,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,behavioural strategy,education,0,0,0.4,0.0,,,0
+calculator or single purpose tool,behavioural strategy,clinical,0,0,0.1,0.0,,,0
+calculator or single purpose tool,behavioural strategy,laboratory,1,1,0.0,inf,100.0,0.0,0
+calculator or single purpose tool,behavioural strategy,workplace,0,0,0.0,,,,0
+calculator or single purpose tool,behavioural strategy,everyday or naturalistic,1,1,0.0,inf,100.0,0.0,0
+calculator or single purpose tool,behavioural strategy,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,physiological,education,0,0,0.0,,,,0
+calculator or single purpose tool,physiological,clinical,0,0,0.0,,,,0
+calculator or single purpose tool,physiological,laboratory,0,0,0.0,,,,0
+calculator or single purpose tool,physiological,workplace,0,0,0.0,,,,0
+calculator or single purpose tool,physiological,everyday or naturalistic,0,0,0.0,,,,0
+calculator or single purpose tool,physiological,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,mixed or multiple,education,0,0,0.0,,,,0
+calculator or single purpose tool,mixed or multiple,clinical,0,0,0.0,,,,0
+calculator or single purpose tool,mixed or multiple,laboratory,0,0,0.0,,,,0
+calculator or single purpose tool,mixed or multiple,workplace,0,0,0.0,,,,0
+calculator or single purpose tool,mixed or multiple,everyday or naturalistic,0,0,0.0,,,,0
+calculator or single purpose tool,mixed or multiple,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,behavioral strategy,education,0,0,0.0,,,,0
+calculator or single purpose tool,behavioral strategy,clinical,0,0,0.0,,,,0
+calculator or single purpose tool,behavioral strategy,laboratory,0,0,0.0,,,,0
+calculator or single purpose tool,behavioral strategy,workplace,0,0,0.0,,,,0
+calculator or single purpose tool,behavioral strategy,everyday or naturalistic,0,0,0.0,,,,0
+calculator or single purpose tool,behavioral strategy,mixed or multiple,0,0,0.0,,,,0
+calculator or single purpose tool,mixed,education,0,0,0.0,,,,0
+calculator or single purpose tool,mixed,clinical,0,0,0.0,,,,0
+calculator or single purpose tool,mixed,laboratory,0,0,0.0,,,,0
+calculator or single purpose tool,mixed,workplace,0,0,0.0,,,,0
+calculator or single purpose tool,mixed,everyday or naturalistic,0,0,0.0,,,,0
+calculator or single purpose tool,mixed,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,task performance,education,1,1,1.6,0.62,0.0,100.0,0
+search or retrieval system,task performance,clinical,2,2,0.3,6.67,50.0,0.0,1
+search or retrieval system,task performance,laboratory,0,0,0.1,0.0,,,0
+search or retrieval system,task performance,workplace,0,0,0.1,0.0,,,0
+search or retrieval system,task performance,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,task performance,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,cognitive process,education,1,1,1.0,1.0,100.0,0.0,0
+search or retrieval system,cognitive process,clinical,0,0,0.2,0.0,,,0
+search or retrieval system,cognitive process,laboratory,0,0,0.1,0.0,,,0
+search or retrieval system,cognitive process,workplace,0,0,0.1,0.0,,,0
+search or retrieval system,cognitive process,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,cognitive process,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,subjective experience,education,0,0,0.5,0.0,,,0
+search or retrieval system,subjective experience,clinical,0,0,0.1,0.0,,,0
+search or retrieval system,subjective experience,laboratory,0,0,0.0,,,,0
+search or retrieval system,subjective experience,workplace,0,0,0.0,,,,0
+search or retrieval system,subjective experience,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,subjective experience,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,disposition or attitude,education,0,0,0.4,0.0,,,0
+search or retrieval system,disposition or attitude,clinical,0,0,0.1,0.0,,,0
+search or retrieval system,disposition or attitude,laboratory,0,0,0.0,,,,0
+search or retrieval system,disposition or attitude,workplace,0,0,0.0,,,,0
+search or retrieval system,disposition or attitude,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,disposition or attitude,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,behavioural strategy,education,0,0,0.3,0.0,,,0
+search or retrieval system,behavioural strategy,clinical,0,0,0.1,0.0,,,0
+search or retrieval system,behavioural strategy,laboratory,0,0,0.0,,,,0
+search or retrieval system,behavioural strategy,workplace,0,0,0.0,,,,0
+search or retrieval system,behavioural strategy,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,behavioural strategy,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,physiological,education,1,1,0.0,inf,100.0,0.0,1
+search or retrieval system,physiological,clinical,0,0,0.0,,,,0
+search or retrieval system,physiological,laboratory,0,0,0.0,,,,0
+search or retrieval system,physiological,workplace,0,0,0.0,,,,0
+search or retrieval system,physiological,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,physiological,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,mixed or multiple,education,0,0,0.0,,,,0
+search or retrieval system,mixed or multiple,clinical,0,0,0.0,,,,0
+search or retrieval system,mixed or multiple,laboratory,0,0,0.0,,,,0
+search or retrieval system,mixed or multiple,workplace,0,0,0.0,,,,0
+search or retrieval system,mixed or multiple,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,mixed or multiple,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,behavioral strategy,education,0,0,0.0,,,,0
+search or retrieval system,behavioral strategy,clinical,0,0,0.0,,,,0
+search or retrieval system,behavioral strategy,laboratory,0,0,0.0,,,,0
+search or retrieval system,behavioral strategy,workplace,0,0,0.0,,,,0
+search or retrieval system,behavioral strategy,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,behavioral strategy,mixed or multiple,0,0,0.0,,,,0
+search or retrieval system,mixed,education,0,0,0.0,,,,0
+search or retrieval system,mixed,clinical,0,0,0.0,,,,0
+search or retrieval system,mixed,laboratory,0,0,0.0,,,,0
+search or retrieval system,mixed,workplace,0,0,0.0,,,,0
+search or retrieval system,mixed,everyday or naturalistic,0,0,0.0,,,,0
+search or retrieval system,mixed,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,task performance,education,0,0,1.2,0.0,,,0
+behavioural strategy,task performance,clinical,0,0,0.3,0.0,,,0
+behavioural strategy,task performance,laboratory,2,2,0.1,20.0,100.0,0.0,0
+behavioural strategy,task performance,workplace,0,0,0.1,0.0,,,0
+behavioural strategy,task performance,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,task performance,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,cognitive process,education,0,0,0.8,0.0,,,0
+behavioural strategy,cognitive process,clinical,0,0,0.2,0.0,,,0
+behavioural strategy,cognitive process,laboratory,2,2,0.1,20.0,50.0,50.0,0
+behavioural strategy,cognitive process,workplace,0,0,0.0,,,,0
+behavioural strategy,cognitive process,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,cognitive process,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,subjective experience,education,0,0,0.4,0.0,,,0
+behavioural strategy,subjective experience,clinical,0,0,0.1,0.0,,,0
+behavioural strategy,subjective experience,laboratory,0,0,0.0,,,,0
+behavioural strategy,subjective experience,workplace,0,0,0.0,,,,0
+behavioural strategy,subjective experience,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,subjective experience,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,disposition or attitude,education,0,0,0.3,0.0,,,0
+behavioural strategy,disposition or attitude,clinical,0,0,0.1,0.0,,,0
+behavioural strategy,disposition or attitude,laboratory,0,0,0.0,,,,0
+behavioural strategy,disposition or attitude,workplace,0,0,0.0,,,,0
+behavioural strategy,disposition or attitude,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,disposition or attitude,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,behavioural strategy,education,0,0,0.2,0.0,,,0
+behavioural strategy,behavioural strategy,clinical,0,0,0.0,,,,0
+behavioural strategy,behavioural strategy,laboratory,0,0,0.0,,,,0
+behavioural strategy,behavioural strategy,workplace,0,0,0.0,,,,0
+behavioural strategy,behavioural strategy,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,behavioural strategy,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,physiological,education,0,0,0.0,,,,0
+behavioural strategy,physiological,clinical,0,0,0.0,,,,0
+behavioural strategy,physiological,laboratory,0,0,0.0,,,,0
+behavioural strategy,physiological,workplace,0,0,0.0,,,,0
+behavioural strategy,physiological,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,physiological,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,mixed or multiple,education,0,0,0.0,,,,0
+behavioural strategy,mixed or multiple,clinical,0,0,0.0,,,,0
+behavioural strategy,mixed or multiple,laboratory,0,0,0.0,,,,0
+behavioural strategy,mixed or multiple,workplace,0,0,0.0,,,,0
+behavioural strategy,mixed or multiple,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,mixed or multiple,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,behavioral strategy,education,0,0,0.0,,,,0
+behavioural strategy,behavioral strategy,clinical,0,0,0.0,,,,0
+behavioural strategy,behavioral strategy,laboratory,0,0,0.0,,,,0
+behavioural strategy,behavioral strategy,workplace,0,0,0.0,,,,0
+behavioural strategy,behavioral strategy,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,behavioral strategy,mixed or multiple,0,0,0.0,,,,0
+behavioural strategy,mixed,education,0,0,0.0,,,,0
+behavioural strategy,mixed,clinical,0,0,0.0,,,,0
+behavioural strategy,mixed,laboratory,0,0,0.0,,,,0
+behavioural strategy,mixed,workplace,0,0,0.0,,,,0
+behavioural strategy,mixed,everyday or naturalistic,0,0,0.0,,,,0
+behavioural strategy,mixed,mixed or multiple,0,0,0.0,,,,0

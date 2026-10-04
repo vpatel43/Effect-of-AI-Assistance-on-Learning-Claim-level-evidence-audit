@@ -1,0 +1,413 @@
+
+====================================================================================================
+levels retained per field after the >=30 frequency rule
+====================================================================================================
+                     levels_before  levels_after  share_pooled_%
+subject_type                    11             8             1.1
+subject_mode                     8             7             0.0
+object_type                     10             8             0.1
+relation                         7             7             0.0
+direction                        6             6             0.0
+valence                          6             6             0.0
+population_role                 10             7             0.9
+population_setting               8             6             0.9
+measurement_horizon              5             6             0.0
+statistical_marking              4             4             0.0
+epistemic_strength               5             4             0.5
+subject_entity                3204            12            82.8
+object_entity                 4576             6            95.9
+mediator                       601             2            10.9
+moderator                      565             2            10.2
+magnitude_value                 11            11             0.0
+magnitude_unit                 146             7             8.1
+n_reported                      10             2             1.0
+evidence_span                 5921             1           100.0
+
+====================================================================================================
+indicator matrix
+====================================================================================================
+6063 claims x 112 categories across 19 fields
+
+====================================================================================================
+MCA dimensions
+====================================================================================================
+       eigenvalue  raw_%  adjusted_%  cum_adjusted_%
+dim1       0.2092    4.3        37.6            37.6
+dim2       0.1471    3.0        13.7            51.2
+dim3       0.1437    2.9        12.7            63.9
+dim4       0.1182    2.4         6.6            70.5
+dim5       0.1157    2.4         6.1            76.6
+dim6       0.1059    2.2         4.3            80.9
+dim7       0.1010    2.1         3.6            84.5
+dim8       0.0970    2.0         3.0            87.5
+dim9       0.0924    1.9         2.4            90.0
+dim10      0.0888    1.8         2.0            92.0
+dim11      0.0865    1.8         1.8            93.7
+dim12      0.0818    1.7         1.3            95.0
+
+====================================================================================================
+FIELD contribution to each MCA axis (%), summed over its categories
+====================================================================================================
+                     dim1  dim2  dim3  dim4  dim5  dim6
+direction            16.1   8.6  14.7  13.0  13.8  10.1
+valence              15.6   7.8  15.9   7.7  11.1   8.0
+relation             15.4   9.6  16.2  14.6   4.5  19.9
+subject_mode          9.7   3.1   3.3  10.6   7.3   6.5
+statistical_marking   9.2   9.7  13.6  11.5   3.6   0.3
+object_type           8.8   6.8   3.4   1.1   1.4   1.7
+measurement_horizon   7.3   6.1   3.2   2.6   2.4   2.3
+subject_type          5.7   2.0   6.4  10.5   4.2   4.6
+population_role       3.0   2.9   4.1   3.9  12.5   7.1
+population_setting    3.0   4.2   6.1   4.8  14.3   7.3
+magnitude_value       2.2  12.7   4.1   5.9   8.7   3.9
+magnitude_unit        1.9  12.7   2.9   5.2   9.0   4.0
+subject_entity        1.1   1.9   2.4   3.8   1.8   2.5
+epistemic_strength    0.7   3.7   0.9   1.7   0.8   0.9
+moderator             0.2   0.4   1.7   2.4   0.1  10.2
+object_entity         0.1   0.9   0.4   0.4   0.6   0.6
+mediator              0.1   5.2   0.0   0.0   2.0  10.2
+n_reported            0.0   1.7   0.6   0.2   1.9   0.1
+evidence_span         0.0   0.0   0.0   0.0   0.0   0.0
+
+====================================================================================================
+dim1: 12 highest-contributing categories (adjusted 37.6% of inertia)
+====================================================================================================
+                                    coord  contrib_%
+measurement_horizon=not applicable  -3.04        4.5
+direction=not applicable            -2.50        3.7
+relation=not stated                 -1.62        9.1
+statistical_marking=not applicable  -1.57        6.9
+valence=not stated                  -1.47        8.4
+direction=not stated                -1.41        8.4
+object_type=not stated              -1.31        6.5
+subject_mode=not applicable         -1.14        4.4
+direction=increase                   0.51        3.7
+subject_mode=use                     0.51        3.3
+valence=beneficial                   0.59        4.5
+relation=causes                      0.63        5.2
+
+====================================================================================================
+dim2: 12 highest-contributing categories (adjusted 13.7% of inertia)
+====================================================================================================
+                                     coord  contrib_%
+relation=mediates                    -1.19        4.1
+mediator=<rare>                      -1.09        4.6
+object_type=cognitive process        -0.59        3.1
+object_type=task performance          0.56        3.2
+statistical_marking=significant       0.71        3.0
+population_setting=clinical           1.18        3.2
+magnitude_unit=<rare>                 1.27        4.7
+direction=no change                   1.32        3.9
+relation=no relation                  1.61        4.5
+statistical_marking=not significant   2.05        4.6
+direction=not applicable              2.06        3.6
+valence=not applicable                2.71        3.5
+
+====================================================================================================
+dim3: 12 highest-contributing categories (adjusted 12.7% of inertia)
+====================================================================================================
+                                     coord  contrib_%
+measurement_horizon=not applicable   -1.89        2.5
+statistical_marking=not applicable   -1.13        5.2
+relation=not stated                  -0.91        4.2
+population_setting=education         -0.50        3.1
+valence=beneficial                   -0.36        2.5
+subject_mode=not applicable           0.66        2.1
+relation=associates                   0.72        3.1
+subject_type=none (observational)     1.26        2.6
+valence=neutral                       1.29       10.7
+relation=no relation                  1.94        6.6
+direction=no change                   2.02        9.4
+statistical_marking=not significant   2.37        6.3
+
+====================================================================================================
+dim4: 12 highest-contributing categories (adjusted 6.6% of inertia)
+====================================================================================================
+                                     coord  contrib_%
+subject_type=not applicable          -1.24        4.8
+subject_mode=not applicable          -1.14        7.9
+relation=moderates                   -1.14        3.3
+magnitude_unit=<rare>                -0.89        2.8
+statistical_marking=significant      -0.71        3.8
+valence=not stated                   -0.65        3.0
+direction=no change                   1.51        6.3
+measurement_horizon=not applicable    1.71        2.5
+direction=not applicable              1.84        3.6
+relation=no relation                  1.94        8.1
+statistical_marking=not significant   1.95        5.2
+valence=not applicable                2.25        3.0
+  LCA K= 2  BIC=180045  AIC=178790  entropy=0.900
+  LCA K= 3  BIC=176430  AIC=174545  entropy=0.871
+  LCA K= 4  BIC=173183  AIC=170667  entropy=0.912
+  LCA K= 5  BIC=171179  AIC=168032  entropy=0.927
+  LCA K= 6  BIC=170066  AIC=166289  entropy=0.914
+  LCA K= 7  BIC=169364  AIC=164956  entropy=0.916
+  LCA K= 8  BIC=168539  AIC=163500  entropy=0.918
+  LCA K= 9  BIC=167931  AIC=162261  entropy=0.932
+  LCA K=10  BIC=167816  AIC=161515  entropy=0.924
+  LCA K=11  BIC=167807  AIC=160875  entropy=0.931
+  LCA K=12  BIC=167726  AIC=160164  entropy=0.932
+  LCA K=13  BIC=168212  AIC=160019  entropy=0.926
+  LCA K=14  BIC=167774  AIC=158950  entropy=0.932
+  LCA K=15  BIC=168457  AIC=159003  entropy=0.922
+  LCA K=16  BIC=168222  AIC=158137  entropy=0.912
+  LCA K=17  BIC=168311  AIC=157595  entropy=0.911
+  LCA K=18  BIC=168870  AIC=157524  entropy=0.911
+  LCA K=19  BIC=169215  AIC=157238  entropy=0.914
+  LCA K=20  BIC=169627  AIC=157019  entropy=0.913
+
+====================================================================================================
+LCA model selection
+====================================================================================================
+ K         ll  npar        bic        aic  entropy  bic_gain
+ 2 -89208.249   187 180045.261 178790.499    0.900       NaN
+ 3 -86991.333   281 176430.165 174544.667    0.871  3615.096
+ 4 -84958.458   375 173183.150 170666.915    0.912  3247.015
+ 5 -83546.775   469 171178.521 168031.549    0.927  2004.629
+ 6 -82581.387   563 170066.481 166288.774    0.914  1112.039
+ 7 -81820.895   657 169364.233 164955.789    0.916   702.248
+ 8 -80999.088   751 168539.356 163500.176    0.918   824.877
+ 9 -80285.530   845 167930.976 162261.059    0.932   608.380
+10 -79818.641   939 167815.935 161515.282    0.924   115.041
+11 -79404.696  1033 167806.781 160875.392    0.931     9.154
+12 -78954.892  1127 167725.908 160163.783    0.932    80.873
+13 -78788.333  1221 168211.528 160018.666    0.926  -485.620
+14 -78160.196  1315 167773.989 158950.392    0.932   437.538
+15 -78092.479  1409 168457.291 159002.957    0.922  -683.302
+16 -77565.691  1503 168222.451 158137.381    0.912   234.840
+17 -77200.482  1597 168310.771 157594.964    0.911   -88.320
+18 -77070.777  1691 168870.097 157523.554    0.911  -559.326
+19 -76833.809  1785 169214.897 157237.618    0.914  -344.800
+20 -76630.585  1879 169627.184 157019.169    0.913  -412.287
+
+====================================================================================================
+selection
+====================================================================================================
+raw BIC minimum: K=12
+elbow (BIC gain < 1% of first gain): K=11
+profiling K=11
+
+====================================================================================================
+class sizes
+====================================================================================================
+    claims  share_pct
+0      704       11.6
+1     1162       19.2
+2      481        7.9
+3      434        7.2
+4      317        5.2
+5      115        1.9
+6      942       15.5
+7      569        9.4
+8      319        5.3
+9      338        5.6
+10     682       11.2
+
+====================================================================================================
+CLASS 0  (n=704, 11.6%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                   level  in_class  corpus  lift
+            valence                 harmful      60.5    12.3  4.93
+          direction                decrease      50.4    15.4  3.27
+        object_type    behavioural strategy      20.2     8.4  2.41
+           relation              associates      37.1    16.3  2.28
+ epistemic_strength                  hedged      17.8     9.5  1.86
+            valence                 neutral      32.4    17.6  1.84
+        object_type disposition or attitude      16.2    11.5  1.41
+ population_setting              not stated      73.0    54.9  1.33
+statistical_marking              not stated      90.6    69.0  1.31
+       subject_type generative ai assistant      69.5    55.8  1.25
+       subject_mode            availability      26.3    21.8  1.21
+    population_role              not stated      62.9    54.4  1.16
+     magnitude_unit          not applicable      98.6    86.9  1.13
+    magnitude_value                 missing     100.0    89.7  1.11
+
+====================================================================================================
+CLASS 1  (n=1162, 19.2%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                   level  in_class  corpus  lift
+            valence              beneficial      96.0    51.7  1.86
+           relation                  causes      88.6    51.2  1.73
+          direction                increase      89.8    57.4  1.57
+       subject_type     non ai external aid      20.1    13.1  1.53
+ population_setting              not stated      82.8    54.9  1.51
+    population_role              not stated      81.7    54.4  1.50
+        object_type       cognitive process      36.9    25.5  1.45
+       subject_mode                     use      64.9    50.2  1.29
+       subject_mode            availability      26.4    21.8  1.21
+statistical_marking              not stated      80.4    69.0  1.17
+     magnitude_unit          not applicable      99.2    86.9  1.14
+measurement_horizon              not stated      91.1    82.1  1.11
+    magnitude_value                 missing     100.0    89.7  1.11
+       subject_type generative ai assistant      61.1    55.8  1.10
+
+====================================================================================================
+CLASS 2  (n=481, 7.9%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                   level  in_class  corpus  lift
+           relation                mediates      99.4     8.1 12.25
+           mediator                  <rare>      99.4    10.9  9.10
+        object_type       cognitive process      44.3    25.5  1.73
+            valence              not stated      25.8    15.5  1.66
+          direction              not stated      26.4    16.9  1.56
+       subject_mode          not applicable      21.0    13.5  1.56
+        object_type disposition or attitude      15.2    11.5  1.32
+    population_role              not stated      68.2    54.4  1.25
+ population_setting              not stated      67.2    54.9  1.22
+statistical_marking              not stated      80.9    69.0  1.17
+measurement_horizon              not stated      93.6    82.1  1.14
+          direction                decrease      17.0    15.4  1.10
+     magnitude_unit          not applicable      94.2    86.9  1.08
+    magnitude_value                 missing      97.1    89.7  1.08
+
+====================================================================================================
+CLASS 3  (n=434, 7.2%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                   level  in_class  corpus  lift
+     magnitude_unit                  <rare>      51.2     8.1  6.29
+statistical_marking             significant      65.9    16.8  3.91
+measurement_horizon               immediate      27.4     7.2  3.83
+measurement_horizon                 delayed      19.1     5.8  3.28
+ population_setting                clinical      18.2     6.4  2.85
+        object_type        task performance      68.4    28.4  2.41
+           relation                  causes      90.3    51.2  1.76
+            valence              beneficial      84.3    51.7  1.63
+       subject_mode                     use      79.0    50.2  1.57
+          direction                increase      84.1    57.4  1.47
+ population_setting               education      42.4    33.9  1.25
+       subject_type generative ai assistant      66.4    55.8  1.19
+ epistemic_strength                asserted      98.2    84.1  1.17
+    population_role                students      40.8    35.1  1.16
+
+====================================================================================================
+CLASS 4  (n=317, 5.2%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field          level  in_class  corpus  lift
+           relation      moderates      95.6     5.7 16.70
+          moderator         <rare>     100.0    10.2  9.79
+            valence     not stated      42.0    15.5  2.70
+       subject_mode     not stated      27.4    11.1  2.46
+          direction     not stated      39.4    16.9  2.33
+        object_type     not stated      31.2    15.0  2.09
+       subject_type     not stated      19.9    11.0  1.81
+       subject_mode not applicable      20.8    13.5  1.54
+ population_setting     not stated      77.3    54.9  1.41
+    population_role     not stated      68.8    54.4  1.27
+statistical_marking     not stated      87.4    69.0  1.27
+            valence        neutral      21.1    17.6  1.20
+measurement_horizon     not stated      96.5    82.1  1.18
+           mediator not applicable      99.7    89.1  1.12
+
+====================================================================================================
+CLASS 5  (n=115, 1.9%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                 level  in_class  corpus  lift
+     magnitude_unit            percentage      22.6     0.6 36.07
+    magnitude_value      (71.48, 15000.0]      37.4     1.0 35.98
+     magnitude_unit               percent      44.3     1.4 31.27
+    magnitude_value         (30.0, 71.48]      25.2     1.0 25.06
+         n_reported                <rare>      16.5     1.0 16.16
+           relation            not stated      63.5    13.8  4.59
+        object_type subjective experience      31.3    10.5  2.99
+            valence            not stated      43.5    15.5  2.80
+          direction            not stated      44.3    16.9  2.63
+       subject_type        not applicable      18.3     7.1  2.58
+       subject_mode        not applicable      30.4    13.5  2.26
+       subject_type            not stated      22.6    11.0  2.06
+statistical_marking        not applicable      18.3    11.1  1.64
+           relation            associates      24.3    16.3  1.50
+
+====================================================================================================
+CLASS 6  (n=942, 15.5%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                   level  in_class  corpus  lift
+ population_setting               education      93.4    33.9  2.76
+    population_role                students      95.4    35.1  2.72
+            valence              beneficial      93.1    51.7  1.80
+           relation                  causes      88.5    51.2  1.73
+          direction                increase      94.8    57.4  1.65
+statistical_marking             significant      25.4    16.8  1.51
+       subject_mode                     use      73.7    50.2  1.47
+        object_type   subjective experience      15.3    10.5  1.46
+       subject_type generative ai assistant      70.8    55.8  1.27
+        object_type        task performance      33.9    28.4  1.19
+     magnitude_unit          not applicable     100.0    86.9  1.15
+    magnitude_value                 missing     100.0    89.7  1.11
+       subject_mode            availability      23.9    21.8  1.10
+           mediator          not applicable      95.1    89.1  1.07
+
+====================================================================================================
+CLASS 7  (n=569, 9.4%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                level  in_class  corpus  lift
+       subject_type none (observational)      30.4     4.6  6.63
+       subject_mode       not applicable      84.9    13.5  6.29
+       subject_type       not applicable      41.7     7.1  5.89
+           relation           associates      59.2    16.3  3.64
+        object_type behavioural strategy      17.6     8.4  2.10
+            valence              neutral      36.6    17.6  2.08
+            valence           not stated      29.9    15.5  1.92
+ population_setting           not stated      79.1    54.9  1.44
+          direction           not stated      24.1    16.9  1.43
+        object_type           not stated      20.6    15.0  1.37
+    population_role           not stated      72.1    54.4  1.33
+           relation           not stated      18.1    13.8  1.31
+          direction             decrease      19.9    15.4  1.29
+statistical_marking          significant      20.4    16.8  1.21
+
+====================================================================================================
+CLASS 8  (n=319, 5.3%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field               level  in_class  corpus  lift
+statistical_marking     not significant      49.2     3.1 16.04
+          direction           no change      88.7     6.3 14.15
+           relation         no relation      67.1     4.8 13.93
+            valence             neutral      93.1    17.6  5.30
+        object_type    task performance      53.3    28.4  1.87
+       subject_mode          not stated      17.6    11.1  1.57
+       subject_type non ai external aid      17.2    13.1  1.31
+ epistemic_strength            asserted      96.6    84.1  1.15
+    population_role          not stated      61.1    54.4  1.12
+           mediator      not applicable     100.0    89.1  1.12
+     subject_entity              <rare>      92.2    82.8  1.11
+          moderator      not applicable      95.9    89.8  1.07
+     magnitude_unit      not applicable      91.5    86.9  1.05
+    magnitude_value             missing      94.4    89.7  1.05
+
+====================================================================================================
+CLASS 9  (n=338, 5.6%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                       level  in_class  corpus  lift
+ population_setting                  laboratory      24.6     2.2 11.37
+ population_setting                    clinical      54.4     6.4  8.53
+    population_role clinicians or professionals      52.7     6.3  8.29
+measurement_horizon                   immediate      29.9     7.2  4.17
+       subject_type         non ai external aid      28.4    13.1  2.16
+          direction                    decrease      28.1    15.4  1.82
+        object_type            task performance      51.2    28.4  1.80
+           relation                      causes      83.7    51.2  1.63
+            valence                     harmful      18.0    12.3  1.47
+            valence                  beneficial      71.3    51.7  1.38
+       subject_mode                         use      66.3    50.2  1.32
+          direction                    increase      68.0    57.4  1.19
+       subject_mode                availability      25.1    21.8  1.16
+statistical_marking                  not stated      79.3    69.0  1.15
+
+====================================================================================================
+CLASS 10  (n=682, 11.2%)  — levels >=15% within class, ranked by lift
+====================================================================================================
+              field                   level  in_class  corpus  lift
+measurement_horizon          not applicable      15.7     1.9  8.13
+           relation              not stated      88.3    13.8  6.38
+statistical_marking          not applicable      67.7    11.1  6.09
+          direction              not stated      78.3    16.9  4.64
+            valence              not stated      62.8    15.5  4.04
+        object_type              not stated      56.6    15.0  3.78
+       subject_mode              not stated      27.0    11.1  2.42
+       subject_mode            availability      33.0    21.8  1.52
+       subject_type generative ai assistant      68.5    55.8  1.23
+ population_setting               education      39.1    33.9  1.16
+    magnitude_value                 missing      99.9    89.7  1.11
+           mediator          not applicable      97.7    89.1  1.10
+          moderator          not applicable      97.9    89.8  1.09
+    population_role              not stated      56.7    54.4  1.04

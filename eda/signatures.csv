@@ -1,0 +1,1295 @@
+signature,claims,papers,claims_per_paper
+generative AI assistant | use -> causes/increase -> task performance,471,324,1.45
+generative AI assistant | use -> causes/increase -> cognitive process,351,263,1.33
+generative AI assistant | use -> causes/increase -> disposition or attitude,128,105,1.22
+generative AI assistant | use -> causes/increase -> subjective experience,116,98,1.18
+non-AI external aid | use -> causes/increase -> task performance,101,85,1.19
+non-AI external aid | use -> causes/increase -> cognitive process,98,84,1.17
+generative AI assistant | availability -> causes/increase -> cognitive process,88,79,1.11
+generative AI assistant | availability -> not_stated/not_stated -> not_stated,82,66,1.24
+generative AI assistant | use -> causes/decrease -> task performance,67,58,1.16
+generative AI assistant | use -> causes/decrease -> cognitive process,59,56,1.05
+generative AI assistant | availability -> causes/increase -> task performance,63,56,1.12
+decision support system | use -> causes/increase -> task performance,66,54,1.22
+generative AI assistant | use -> mediates/increase -> cognitive process,62,52,1.19
+generative AI assistant | use -> associates/increase -> subjective experience,55,48,1.15
+generative AI assistant | not_stated -> not_stated/not_stated -> not_stated,52,45,1.16
+generative AI assistant | availability -> causes/increase -> disposition or attitude,54,45,1.2
+generative AI assistant | use -> not_stated/not_stated -> not_stated,43,41,1.05
+non-AI external aid | availability -> causes/increase -> task performance,45,41,1.1
+generative AI assistant | use -> causes/increase -> behavioural strategy,46,40,1.15
+not_applicable | not_applicable -> not_stated/not_stated -> not_stated,38,36,1.06
+non-AI external aid | availability -> causes/increase -> cognitive process,41,35,1.17
+generative AI assistant | use -> no_relation/no_change -> task performance,39,34,1.15
+generative AI assistant | use -> causes/increase -> not_stated,37,34,1.09
+generative AI assistant | use -> causes/decrease -> subjective experience,37,34,1.09
+generative AI assistant | availability -> causes/increase -> subjective experience,36,32,1.12
+generative AI assistant | use -> associates/increase -> task performance,33,30,1.1
+not_stated | use -> causes/increase -> task performance,31,30,1.03
+generative AI assistant | use -> associates/increase -> disposition or attitude,28,28,1.0
+generative AI assistant | reliance -> causes/decrease -> cognitive process,33,27,1.22
+generative AI assistant | use -> associates/increase -> cognitive process,24,24,1.0
+decision support system | use -> causes/increase -> cognitive process,27,24,1.12
+generative AI assistant | availability -> causes/increase -> not_stated,23,23,1.0
+generative AI assistant | availability -> causes/increase -> behavioural strategy,23,22,1.05
+generative AI assistant | availability -> not_stated/not_stated -> subjective experience,22,22,1.0
+none (observational) | not_applicable -> associates/increase -> behavioural strategy,24,21,1.14
+non-AI external aid | use -> causes/increase -> disposition or attitude,25,21,1.19
+generative AI assistant | use -> mediates/increase -> task performance,22,20,1.1
+generative AI assistant | availability -> causes/decrease -> cognitive process,22,20,1.1
+non-AI external aid | availability -> causes/increase -> disposition or attitude,19,19,1.0
+non-AI external aid | use -> causes/decrease -> cognitive process,19,18,1.06
+decision support system | availability -> causes/increase -> task performance,20,18,1.11
+generative AI assistant | not_stated -> not_stated/not_stated -> cognitive process,18,18,1.0
+non-AI external aid | use -> causes/increase -> subjective experience,19,17,1.12
+none (observational) | not_applicable -> associates/increase -> task performance,17,17,1.0
+generative AI assistant | use -> not_stated/not_stated -> cognitive process,17,17,1.0
+non-AI external aid | use -> causes/increase -> behavioural strategy,21,17,1.24
+non-AI external aid | use -> causes/decrease -> task performance,20,16,1.25
+non-AI external aid | availability -> causes/increase -> behavioural strategy,16,16,1.0
+generative AI assistant | use -> not_stated/not_stated -> subjective experience,21,16,1.31
+generative AI assistant | use -> associates/increase -> behavioural strategy,17,16,1.06
+generative AI assistant | not_stated -> moderates/not_stated -> not_stated,15,15,1.0
+not_stated | not_applicable -> not_stated/not_stated -> not_stated,17,15,1.13
+generative AI assistant | use -> moderates/increase -> task performance,16,15,1.07
+generative AI assistant | availability -> associates/increase -> subjective experience,15,15,1.0
+decision support system | use -> causes/increase -> behavioural strategy,14,14,1.0
+not_stated | use -> causes/increase -> cognitive process,14,14,1.0
+generative AI assistant | availability -> not_stated/not_stated -> cognitive process,14,14,1.0
+generative AI assistant | availability -> associates/increase -> disposition or attitude,14,14,1.0
+not_stated | not_stated -> causes/increase -> task performance,16,14,1.14
+generative AI assistant | availability -> mediates/increase -> cognitive process,15,14,1.07
+generative AI assistant | use -> causes/decrease -> disposition or attitude,14,14,1.0
+generative AI assistant | use -> mediates/increase -> disposition or attitude,15,14,1.07
+not_applicable | not_applicable -> not_stated/not_applicable -> not_stated,15,14,1.07
+not_applicable | not_applicable -> not_stated/not_stated -> cognitive process,14,14,1.0
+not_stated | not_stated -> not_stated/not_stated -> not_stated,14,14,1.0
+generative AI assistant | availability -> not_stated/not_applicable -> not_stated,14,13,1.08
+generative AI assistant | not_stated -> causes/increase -> task performance,13,13,1.0
+generative AI assistant | not_stated -> not_stated/not_stated -> disposition or attitude,13,13,1.0
+not_stated | availability -> causes/increase -> cognitive process,15,13,1.15
+generative AI assistant | use -> moderates/increase -> cognitive process,14,13,1.08
+generative AI assistant | use -> not_stated/not_stated -> task performance,13,13,1.0
+generative AI assistant | not_stated -> causes/increase -> cognitive process,15,13,1.15
+generative AI assistant | use -> associates/increase -> not_stated,12,12,1.0
+not_applicable | not_applicable -> associates/increase -> task performance,15,12,1.25
+automation or autopilot | use -> causes/increase -> task performance,12,12,1.0
+generative AI assistant | use -> causes/decrease -> behavioural strategy,13,12,1.08
+not_applicable | not_applicable -> associates/increase -> disposition or attitude,14,12,1.17
+generative AI assistant | availability -> causes/decrease -> not_stated,13,12,1.08
+generative AI assistant | use -> associates/no_change -> task performance,12,12,1.0
+not_stated | availability -> causes/increase -> subjective experience,11,11,1.0
+not_stated | not_stated -> causes/increase -> cognitive process,11,11,1.0
+not_stated | not_applicable -> associates/not_stated -> not_stated,11,11,1.0
+decision support system | availability -> causes/increase -> cognitive process,13,11,1.18
+generative AI assistant | availability -> causes/decrease -> task performance,13,11,1.18
+generative AI assistant | availability -> not_stated/increase -> not_stated,11,11,1.0
+non-AI external aid | use -> mediates/increase -> cognitive process,11,11,1.0
+generative AI assistant | use -> mediates/not_stated -> cognitive process,14,10,1.4
+automation or autopilot | availability -> causes/increase -> task performance,10,10,1.0
+not_stated | availability -> causes/increase -> disposition or attitude,10,10,1.0
+generative AI assistant | availability -> not_stated/not_stated -> task performance,10,10,1.0
+none (observational) | not_applicable -> associates/increase -> cognitive process,10,10,1.0
+non-AI external aid | availability -> no_relation/no_change -> task performance,10,10,1.0
+generative AI assistant | use -> no_relation/no_change -> cognitive process,11,10,1.1
+non-AI external aid | availability -> causes/increase -> subjective experience,12,10,1.2
+not_applicable | not_applicable -> associates/increase -> behavioural strategy,10,10,1.0
+generative AI assistant | not_stated -> not_stated/not_stated -> task performance,11,10,1.1
+generative AI assistant | not_stated -> not_stated/not_applicable -> not_stated,10,10,1.0
+generative AI assistant | use -> not_stated/not_applicable -> not_stated,10,10,1.0
+generative AI assistant | use -> causes/no_change -> task performance,11,9,1.22
+not_applicable | not_applicable -> mediates/not_stated -> not_stated,9,9,1.0
+generative AI assistant | not_stated -> causes/increase -> not_stated,9,9,1.0
+generative AI assistant | availability -> associates/increase -> not_stated,11,9,1.22
+generative AI assistant | availability -> associates/increase -> task performance,9,9,1.0
+not_stated | not_stated -> moderates/not_stated -> not_stated,9,9,1.0
+non-AI external aid | use -> associates/increase -> task performance,9,9,1.0
+decision support system | use -> causes/decrease -> task performance,9,9,1.0
+generative AI assistant | availability -> causes/decrease -> behavioural strategy,11,9,1.22
+generative AI assistant | use -> mediates/decrease -> cognitive process,11,9,1.22
+none (observational) | not_applicable -> associates/increase -> disposition or attitude,10,9,1.11
+not_applicable | not_applicable -> associates/not_stated -> disposition or attitude,11,9,1.22
+not_applicable | not_applicable -> associates/increase -> not_stated,9,9,1.0
+generative AI assistant | use -> causes/no_change -> cognitive process,8,8,1.0
+generative AI assistant | use -> associates/decrease -> task performance,8,8,1.0
+generative AI assistant | not_stated -> causes/increase -> disposition or attitude,10,8,1.25
+generative AI assistant | use -> associates/decrease -> subjective experience,9,8,1.12
+generative AI assistant | use -> causes/decrease -> not_stated,8,8,1.0
+not_applicable | not_applicable -> associates/not_stated -> not_stated,8,8,1.0
+not_applicable | not_applicable -> associates/increase -> cognitive process,9,8,1.12
+generative AI assistant | use -> moderates/not_stated -> task performance,8,8,1.0
+decision support system | use -> causes/increase -> subjective experience,8,8,1.0
+generative AI assistant | use -> mediates/increase -> subjective experience,7,7,1.0
+non-AI external aid | use -> associates/increase -> subjective experience,7,7,1.0
+generative AI assistant | use -> mediates/increase -> not_stated,7,7,1.0
+generative AI assistant | use -> associates/decrease -> cognitive process,8,7,1.14
+non-AI external aid | use -> causes/increase -> not_stated,7,7,1.0
+generative AI assistant | not_stated -> not_stated/increase -> not_stated,7,7,1.0
+non-AI external aid | availability -> causes/decrease -> cognitive process,8,7,1.14
+non-AI external aid | availability -> not_stated/not_stated -> cognitive process,7,7,1.0
+not_stated | availability -> causes/increase -> task performance,8,7,1.14
+none (observational) | not_applicable -> associates/not_stated -> task performance,7,7,1.0
+not_applicable | not_applicable -> associates/increase -> subjective experience,10,7,1.43
+generative AI assistant | not_stated -> associates/increase -> not_stated,7,7,1.0
+generative AI assistant | availability -> not_stated/not_stated -> disposition or attitude,7,7,1.0
+non-AI external aid | availability -> mediates/increase -> cognitive process,7,7,1.0
+not_stated | use -> causes/increase -> disposition or attitude,8,7,1.14
+generative AI assistant | use -> associates/not_stated -> cognitive process,8,7,1.14
+non-AI external aid | availability -> moderates/decrease -> cognitive process,7,7,1.0
+non-AI external aid | availability -> moderates/increase -> task performance,7,7,1.0
+generative AI assistant | use -> not_stated/not_stated -> behavioural strategy,7,7,1.0
+non-AI external aid | availability -> not_stated/not_stated -> not_stated,8,7,1.14
+decision support system | availability -> causes/increase -> behavioural strategy,7,7,1.0
+not_stated | availability -> causes/increase -> not_stated,7,7,1.0
+generative AI assistant | use -> moderates/not_stated -> not_stated,7,7,1.0
+not_applicable | not_applicable -> mediates/not_stated -> behavioural strategy,7,7,1.0
+generative AI assistant | use -> no_relation/no_change -> disposition or attitude,7,7,1.0
+not_stated | not_applicable -> not_stated/increase -> cognitive process,8,6,1.33
+decision support system | use -> causes/increase -> disposition or attitude,6,6,1.0
+generative AI assistant | use -> no_relation/no_change -> subjective experience,6,6,1.0
+non-AI external aid | availability -> causes/decrease -> task performance,10,6,1.67
+generative AI assistant | not_stated -> causes/increase -> subjective experience,6,6,1.0
+generative AI assistant | not_stated -> associates/not_stated -> not_stated,7,6,1.17
+generative AI assistant | not_stated -> associates/increase -> subjective experience,6,6,1.0
+automation or autopilot | use -> causes/decrease -> cognitive process,6,6,1.0
+not_applicable | not_applicable -> moderates/not_stated -> not_stated,6,6,1.0
+none (observational) | not_applicable -> associates/decrease -> cognitive process,6,6,1.0
+generative AI assistant | availability -> causes/decrease -> disposition or attitude,7,6,1.17
+not_applicable | not_applicable -> moderates/not_stated -> task performance,6,6,1.0
+non-AI external aid | use -> mediates/increase -> task performance,6,6,1.0
+generative AI assistant | availability -> causes/decrease -> subjective experience,6,6,1.0
+none (observational) | not_applicable -> associates/increase -> subjective experience,6,6,1.0
+non-AI external aid | use -> moderates/increase -> task performance,6,6,1.0
+not_stated | not_stated -> not_stated/not_stated -> cognitive process,6,6,1.0
+generative AI assistant | use -> mediates/not_stated -> not_stated,6,6,1.0
+generative AI assistant | use -> associates/not_stated -> behavioural strategy,6,6,1.0
+generative AI assistant | use -> mediates/not_stated -> task performance,6,6,1.0
+generative AI assistant | use -> associates/no_change -> behavioural strategy,6,6,1.0
+generative AI assistant | use -> moderates/not_stated -> cognitive process,6,6,1.0
+not_stated | not_stated -> associates/increase -> task performance,6,6,1.0
+not_stated | availability -> associates/increase -> subjective experience,6,6,1.0
+not_stated | availability -> associates/increase -> behavioural strategy,6,6,1.0
+generative AI assistant | use -> associates/decrease -> disposition or attitude,7,6,1.17
+generative AI assistant | reliance -> associates/increase -> disposition or attitude,7,6,1.17
+non-AI external aid | use -> causes/decrease -> subjective experience,6,6,1.0
+not_applicable | not_applicable -> mediates/not_stated -> disposition or attitude,6,6,1.0
+generative AI assistant | not_stated -> no_relation/no_change -> task performance,6,6,1.0
+none (observational) | not_applicable -> mediates/not_stated -> disposition or attitude,6,6,1.0
+not_applicable | not_applicable -> associates/not_stated -> task performance,7,6,1.17
+not_applicable | not_applicable -> not_stated/not_stated -> subjective experience,6,6,1.0
+generative AI assistant | availability -> associates/increase -> behavioural strategy,6,5,1.2
+not_stated | not_stated -> no_relation/no_change -> task performance,5,5,1.0
+generative AI assistant | not_stated -> moderates/not_stated -> task performance,5,5,1.0
+not_stated | not_applicable -> associates/increase -> disposition or attitude,5,5,1.0
+non-AI external aid | availability -> associates/increase -> subjective experience,5,5,1.0
+not_stated | availability -> not_stated/not_stated -> not_stated,5,5,1.0
+non-AI external aid | use -> associates/increase -> cognitive process,5,5,1.0
+generative AI assistant | not_applicable -> not_stated/not_stated -> not_stated,5,5,1.0
+generative AI assistant | not_stated -> moderates/not_stated -> cognitive process,8,5,1.6
+generative AI assistant | not_stated -> not_stated/not_stated -> subjective experience,5,5,1.0
+generative AI assistant | availability -> associates/increase -> cognitive process,5,5,1.0
+not_applicable | not_applicable -> no_relation/not_applicable -> not_stated,5,5,1.0
+not_stated | not_applicable -> not_stated/increase -> not_stated,5,5,1.0
+not_stated | not_stated -> causes/increase -> disposition or attitude,5,5,1.0
+generative AI assistant | not_stated -> associates/increase -> cognitive process,5,5,1.0
+not_stated | not_applicable -> not_stated/increase -> task performance,5,5,1.0
+not_stated | use -> causes/increase -> not_stated,6,5,1.2
+not_applicable | not_applicable -> not_stated/no_change -> not_stated,5,5,1.0
+generative AI assistant | reliance -> not_stated/not_stated -> not_stated,5,5,1.0
+not_stated | use -> associates/increase -> task performance,5,5,1.0
+not_stated | use -> causes/increase -> subjective experience,5,5,1.0
+none (observational) | not_applicable -> associates/not_stated -> behavioural strategy,5,5,1.0
+not_applicable | not_applicable -> not_stated/not_stated -> behavioural strategy,5,5,1.0
+not_stated | not_stated -> not_stated/not_applicable -> not_stated,5,5,1.0
+generative AI assistant | not_stated -> associates/increase -> disposition or attitude,6,5,1.2
+generative AI assistant | availability -> no_relation/no_change -> task performance,5,5,1.0
+non-AI external aid | use -> associates/increase -> behavioural strategy,5,5,1.0
+generative AI assistant | use -> associates/non_monotonic -> behavioural strategy,5,5,1.0
+generative AI assistant | not_stated -> mediates/not_stated -> not_stated,5,5,1.0
+not_applicable | not_applicable -> mediates/increase -> cognitive process,5,5,1.0
+decision support system | use -> causes/increase -> not_stated,5,5,1.0
+not_applicable | not_applicable -> not_stated/not_stated -> task performance,5,5,1.0
+not_applicable | not_applicable -> causes/increase -> task performance,5,5,1.0
+not_applicable | not_applicable -> moderates/increase -> not_stated,5,5,1.0
+generative AI assistant | removal or withdrawal -> causes/decrease -> task performance,5,5,1.0
+generative AI assistant | use -> not_stated/not_stated -> disposition or attitude,5,5,1.0
+generative AI assistant | reliance -> causes/increase -> cognitive process,5,5,1.0
+decision support system | use -> moderates/increase -> task performance,5,5,1.0
+non-AI external aid | use -> causes/decrease -> behavioural strategy,5,5,1.0
+none (observational) | not_applicable -> associates/not_stated -> not_stated,5,5,1.0
+generative AI assistant | not_stated -> associates/increase -> task performance,5,5,1.0
+generative AI assistant | reliance -> associates/decrease -> cognitive process,6,5,1.2
+not_applicable | not_applicable -> causes/decrease -> not_stated,6,5,1.2
+generative AI assistant | availability -> not_stated/increase -> cognitive process,4,4,1.0
+generative AI assistant | use -> moderates/increase -> not_stated,4,4,1.0
+generative AI assistant | use -> associates/decrease -> behavioural strategy,4,4,1.0
+not_stated | not_stated -> associates/decrease -> task performance,4,4,1.0
+not_stated | not_applicable -> not_stated/not_stated -> task performance,4,4,1.0
+generative AI assistant | not_stated -> not_stated/decrease -> not_stated,4,4,1.0
+not_stated | availability -> causes/increase -> behavioural strategy,4,4,1.0
+non-AI external aid | availability -> no_relation/no_change -> cognitive process,4,4,1.0
+not_stated | not_applicable -> associates/increase -> cognitive process,4,4,1.0
+non-AI external aid | availability -> associates/no_change -> task performance,4,4,1.0
+automation or autopilot | reliance -> causes/decrease -> cognitive process,4,4,1.0
+non-AI external aid | availability -> mediates/decrease -> cognitive process,4,4,1.0
+generative AI assistant | not_stated -> mediates/not_stated -> task performance,6,4,1.5
+generative AI assistant | not_stated -> mediates/not_stated -> cognitive process,6,4,1.5
+not_stated | use -> moderates/increase -> task performance,5,4,1.25
+non-AI external aid | availability -> causes/decrease -> behavioural strategy,4,4,1.0
+generative AI assistant | reliance -> associates/decrease -> task performance,4,4,1.0
+generative AI assistant | use -> no_relation/no_change -> not_stated,4,4,1.0
+not_stated | not_applicable -> moderates/not_stated -> not_stated,4,4,1.0
+generative AI assistant | not_stated -> moderates/non_monotonic -> not_stated,4,4,1.0
+not_stated | use -> moderates/increase -> not_stated,4,4,1.0
+non-AI external aid | availability -> associates/increase -> task performance,4,4,1.0
+generative AI assistant | not_stated -> causes/decrease -> cognitive process,5,4,1.25
+generative AI assistant | use -> not_stated/no_change -> behavioural strategy,4,4,1.0
+not_applicable | not_applicable -> associates/decrease -> disposition or attitude,5,4,1.25
+not_applicable | not_applicable -> not_stated/not_applicable -> subjective experience,4,4,1.0
+none (observational) | not_applicable -> causes/decrease -> cognitive process,4,4,1.0
+not_stated | not_stated -> not_stated/not_stated -> task performance,4,4,1.0
+not_applicable | not_applicable -> not_stated/not_applicable -> disposition or attitude,4,4,1.0
+none (observational) | not_applicable -> mediates/increase -> cognitive process,4,4,1.0
+generative AI assistant | availability -> moderates/not_stated -> not_stated,5,4,1.25
+generative AI assistant | availability -> mediates/increase -> subjective experience,6,4,1.5
+not_stated | not_stated -> causes/increase -> behavioural strategy,4,4,1.0
+none (observational) | not_applicable -> associates/decrease -> behavioural strategy,4,4,1.0
+generative AI assistant | use -> causes/decrease -> physiological,5,4,1.25
+generative AI assistant | availability -> associates/decrease -> subjective experience,4,4,1.0
+decision support system | use -> not_stated/not_stated -> not_stated,4,4,1.0
+not_stated | not_stated -> mediates/increase -> cognitive process,4,4,1.0
+none (observational) | not_stated -> associates/increase -> task performance,4,4,1.0
+automation or autopilot | availability -> causes/increase -> cognitive process,6,4,1.5
+automation or autopilot | availability -> causes/increase -> behavioural strategy,4,4,1.0
+none (observational) | not_stated -> causes/increase -> cognitive process,4,4,1.0
+decision support system | use -> causes/decrease -> behavioural strategy,4,4,1.0
+decision support system | use -> associates/no_change -> task performance,4,4,1.0
+not_stated | not_stated -> moderates/increase -> not_stated,5,4,1.25
+not_stated | not_stated -> moderates/non_monotonic -> not_stated,4,4,1.0
+generative AI assistant | use -> causes/no_change -> disposition or attitude,4,4,1.0
+non-AI external aid | use -> causes/decrease -> physiological,5,4,1.25
+not_applicable | not_applicable -> causes/increase -> behavioural strategy,5,4,1.25
+not_applicable | not_applicable -> causes/increase -> cognitive process,4,4,1.0
+not_applicable | not_applicable -> mediates/not_stated -> cognitive process,4,4,1.0
+non-AI external aid | use -> mediates/decrease -> cognitive process,4,4,1.0
+decision support system | availability -> causes/increase -> subjective experience,5,4,1.25
+decision support system | availability -> causes/increase -> disposition or attitude,4,4,1.0
+non-AI external aid | use -> no_relation/no_change -> task performance,4,4,1.0
+not_stated | not_stated -> not_stated/not_stated -> disposition or attitude,4,4,1.0
+non-AI external aid | use -> no_relation/no_change -> cognitive process,4,4,1.0
+generative AI assistant | use -> causes/not_stated -> cognitive process,4,4,1.0
+not_stated | not_stated -> causes/increase -> subjective experience,4,4,1.0
+not_stated | not_applicable -> associates/increase -> task performance,5,4,1.25
+not_applicable | not_applicable -> no_relation/no_change -> task performance,4,4,1.0
+generative AI assistant | availability -> mediates/increase -> disposition or attitude,5,4,1.25
+not_stated | not_stated -> associates/not_stated -> task performance,4,4,1.0
+not_applicable | not_applicable -> not_stated/no_change -> cognitive process,3,3,1.0
+not_stated | use -> no_relation/no_change -> task performance,3,3,1.0
+not_stated | not_applicable -> mediates/not_stated -> disposition or attitude,3,3,1.0
+decision support system | availability -> not_stated/not_stated -> task performance,3,3,1.0
+decision support system | availability -> not_stated/not_stated -> not_stated,3,3,1.0
+generative AI assistant | not_stated -> not_stated/increase -> task performance,3,3,1.0
+decision support system | availability -> not_stated/not_stated -> cognitive process,3,3,1.0
+not_stated | not_applicable -> mediates/not_stated -> not_stated,3,3,1.0
+generative AI assistant | use -> moderates/increase -> subjective experience,3,3,1.0
+generative AI assistant | removal or withdrawal -> no_relation/not_applicable -> not_stated,3,3,1.0
+not_applicable | not_applicable -> causes/increase -> disposition or attitude,3,3,1.0
+non-AI external aid | use -> causes/no_change -> task performance,3,3,1.0
+not_stated | not_applicable -> mediates/decrease -> cognitive process,3,3,1.0
+generative AI assistant | use -> associates/no_change -> not_stated,3,3,1.0
+not_stated | not_stated -> no_relation/no_change -> cognitive process,3,3,1.0
+automation or autopilot | availability -> causes/decrease -> cognitive process,3,3,1.0
+generative AI assistant | use -> not_stated/increase -> subjective experience,3,3,1.0
+non-AI external aid | availability -> associates/increase -> cognitive process,3,3,1.0
+not_applicable | not_applicable -> mediates/not_stated -> task performance,4,3,1.33
+generative AI assistant | use -> associates/decrease -> not_stated,3,3,1.0
+non-AI external aid | use -> causes/decrease -> disposition or attitude,3,3,1.0
+non-AI external aid | availability -> associates/increase -> not_stated,3,3,1.0
+not_stated | not_stated -> associates/not_stated -> not_stated,3,3,1.0
+not_stated | not_stated -> moderates/not_stated -> task performance,3,3,1.0
+not_stated | not_applicable -> moderates/decrease -> cognitive process,3,3,1.0
+non-AI external aid | availability -> mediates/increase -> task performance,3,3,1.0
+non-AI external aid | use -> associates/no_change -> task performance,3,3,1.0
+non-AI external aid | availability -> moderates/increase -> disposition or attitude,4,3,1.33
+generative AI assistant | availability -> mediates/decrease -> cognitive process,3,3,1.0
+not_applicable | not_applicable -> causes/increase -> not_stated,3,3,1.0
+not_stated | not_applicable -> causes/increase -> task performance,3,3,1.0
+generative AI assistant | use -> moderates/increase -> disposition or attitude,3,3,1.0
+none (observational) | not_applicable -> causes/increase -> task performance,3,3,1.0
+generative AI assistant | use -> moderates/decrease -> task performance,3,3,1.0
+generative AI assistant | use -> mediates/decrease -> disposition or attitude,7,3,2.33
+none (observational) | not_applicable -> mediates/increase -> task performance,3,3,1.0
+not_stated | availability -> causes/decrease -> not_stated,3,3,1.0
+not_applicable | not_applicable -> not_stated/decrease -> not_stated,3,3,1.0
+generative AI assistant | reliance -> mediates/decrease -> cognitive process,3,3,1.0
+not_applicable | not_applicable -> mediates/decrease -> task performance,3,3,1.0
+not_stated | not_stated -> not_stated/not_stated -> behavioural strategy,3,3,1.0
+generative AI assistant | use -> mediates/decrease -> behavioural strategy,3,3,1.0
+not_stated | not_stated -> associates/increase -> subjective experience,3,3,1.0
+generative AI assistant | reliance -> causes/increase -> behavioural strategy,3,3,1.0
+not_stated | use -> causes/increase -> behavioural strategy,3,3,1.0
+generative AI assistant | use -> mediates/decrease -> subjective experience,3,3,1.0
+not_applicable | not_applicable -> associates/decrease -> task performance,3,3,1.0
+not_applicable | not_applicable -> mediates/increase -> disposition or attitude,3,3,1.0
+generative AI assistant | use -> no_relation/not_stated -> cognitive process,3,3,1.0
+not_stated | not_applicable -> causes/increase -> behavioural strategy,3,3,1.0
+generative AI assistant | use -> mediates/decrease -> task performance,4,3,1.33
+generative AI assistant | use -> no_relation/not_stated -> task performance,3,3,1.0
+not_applicable | not_applicable -> causes/increase -> subjective experience,4,3,1.33
+not_stated | availability -> associates/increase -> not_stated,3,3,1.0
+decision support system | availability -> mediates/increase -> cognitive process,3,3,1.0
+not_stated | availability -> associates/increase -> disposition or attitude,3,3,1.0
+none (observational) | not_applicable -> mediates/not_stated -> cognitive process,3,3,1.0
+generative AI assistant | use -> not_stated/increase -> not_stated,3,3,1.0
+non-AI external aid | use -> mediates/increase -> behavioural strategy,3,3,1.0
+not_stated | not_stated -> not_stated/increase -> not_stated,3,3,1.0
+decision support system | use -> associates/increase -> task performance,3,3,1.0
+non-AI external aid | use -> associates/not_stated -> task performance,3,3,1.0
+generative AI assistant | availability -> no_relation/decrease -> not_stated,4,3,1.33
+decision support system | use -> no_relation/no_change -> task performance,4,3,1.33
+not_applicable | not_applicable -> moderates/non_monotonic -> not_stated,3,3,1.0
+not_stated | not_stated -> associates/decrease -> behavioural strategy,3,3,1.0
+generative AI assistant | availability -> no_relation/no_change -> not_stated,3,3,1.0
+not_stated | not_stated -> associates/decrease -> not_stated,3,3,1.0
+non-AI external aid | not_stated -> no_relation/no_change -> task performance,3,3,1.0
+not_applicable | not_applicable -> moderates/not_stated -> behavioural strategy,3,3,1.0
+generative AI assistant | availability -> associates/decrease -> not_stated,3,3,1.0
+not_applicable | not_applicable -> associates/decrease -> cognitive process,3,3,1.0
+not_applicable | not_applicable -> moderates/not_stated -> cognitive process,3,3,1.0
+not_stated | not_applicable -> not_stated/decrease -> not_stated,3,3,1.0
+generative AI assistant | availability -> causes/no_change -> task performance,3,3,1.0
+none (observational) | not_applicable -> no_relation/no_change -> task performance,3,3,1.0
+generative AI assistant | not_applicable -> not_stated/not_applicable -> not_stated,3,3,1.0
+not_stated | not_stated -> causes/increase -> not_stated,3,3,1.0
+none (observational) | not_applicable -> associates/decrease -> not_stated,4,3,1.33
+none (observational) | not_applicable -> associates/decrease -> task performance,3,3,1.0
+none (observational) | not_applicable -> associates/increase -> not_stated,3,3,1.0
+automation or autopilot | use -> causes/decrease -> task performance,4,3,1.33
+generative AI assistant | availability -> causes/no_change -> cognitive process,3,3,1.0
+non-AI external aid | not_stated -> causes/increase -> not_stated,3,3,1.0
+not_stated | not_applicable -> not_stated/not_applicable -> not_stated,4,3,1.33
+not_stated | use -> causes/decrease -> subjective experience,3,3,1.0
+generative AI assistant | availability -> not_stated/increase -> subjective experience,3,3,1.0
+not_stated | use -> causes/decrease -> task performance,3,3,1.0
+generative AI assistant | use -> associates/not_stated -> subjective experience,3,3,1.0
+not_stated | not_applicable -> no_relation/no_change -> task performance,3,3,1.0
+non-AI external aid | removal or withdrawal -> causes/decrease -> task performance,3,3,1.0
+decision support system | use -> mediates/increase -> task performance,3,3,1.0
+not_stated | use -> mediates/increase -> cognitive process,3,3,1.0
+non-AI external aid | availability -> causes/decrease -> not_stated,3,3,1.0
+not_applicable | not_applicable -> no_relation/not_applicable -> disposition or attitude,3,3,1.0
+behavioural strategy | use -> causes/increase -> task performance,3,3,1.0
+not_applicable | not_applicable -> not_stated/increase -> cognitive process,3,3,1.0
+automation or autopilot | reliance -> mediates/decrease -> cognitive process,3,3,1.0
+generative AI assistant | use -> moderates/decrease -> cognitive process,3,3,1.0
+decision support system | use -> mediates/increase -> cognitive process,3,3,1.0
+generative AI assistant | availability -> no_relation/no_change -> cognitive process,3,3,1.0
+not_applicable | not_applicable -> associates/not_stated -> subjective experience,4,3,1.33
+generative AI assistant | not_stated -> causes/increase -> behavioural strategy,3,3,1.0
+non-AI external aid | availability -> causes/decrease -> subjective experience,3,3,1.0
+generative AI assistant | not_stated -> mediates/increase -> task performance,3,3,1.0
+generative AI assistant | not_stated -> causes/decrease -> subjective experience,3,3,1.0
+not_stated | not_stated -> mediates/increase -> task performance,3,3,1.0
+generative AI assistant | not_stated -> associates/not_stated -> task performance,3,3,1.0
+none (observational) | not_stated -> associates/decrease -> task performance,3,3,1.0
+not_applicable | not_applicable -> not_stated/not_stated -> disposition or attitude,3,3,1.0
+not_stated | not_applicable -> moderates/not_stated -> behavioural strategy,3,3,1.0
+generative AI assistant | not_stated -> causes/decrease -> disposition or attitude,3,3,1.0
+decision support system | use -> causes/decrease -> subjective experience,3,3,1.0
+none (observational) | use -> causes/increase -> cognitive process,2,2,1.0
+none (observational) | not_applicable -> moderates/not_stated -> behavioural strategy,2,2,1.0
+generative AI assistant | use -> mediates/decrease -> not_stated,2,2,1.0
+none (observational) | not_applicable -> no_relation/no_change -> disposition or attitude,2,2,1.0
+none (observational) | not_stated -> causes/decrease -> disposition or attitude,2,2,1.0
+none (observational) | not_applicable -> not_stated/increase -> behavioural strategy,2,2,1.0
+none (observational) | removal or withdrawal -> associates/increase -> cognitive process,2,2,1.0
+none (observational) | removal or withdrawal -> causes/increase -> task performance,2,2,1.0
+none (observational) | use -> associates/increase -> task performance,2,2,1.0
+generative AI assistant | use -> moderates/non_monotonic -> task performance,2,2,1.0
+generative AI assistant | use -> moderates/non_monotonic -> subjective experience,2,2,1.0
+none (observational) | not_applicable -> mediates/not_stated -> behavioural strategy,2,2,1.0
+none (observational) | not_applicable -> not_stated/increase -> cognitive process,2,2,1.0
+none (observational) | not_stated -> no_relation/no_change -> cognitive process,2,2,1.0
+generative AI assistant | use -> moderates/non_monotonic -> behavioural strategy,2,2,1.0
+none (observational) | not_applicable -> not_stated/not_applicable -> not_stated,2,2,1.0
+none (observational) | not_stated -> causes/increase -> task performance,2,2,1.0
+not_stated | availability -> mediates/increase -> cognitive process,2,2,1.0
+generative AI assistant | use -> mediates/increase -> behavioural strategy,2,2,1.0
+none (observational) | not_applicable -> no_relation/not_applicable -> not_stated,2,2,1.0
+none (observational) | not_applicable -> no_relation/not_applicable -> behavioural strategy,2,2,1.0
+generative AI assistant | use -> moderates/no_change -> disposition or attitude,2,2,1.0
+not_applicable | not_applicable -> associates/decrease -> not_stated,2,2,1.0
+generative AI assistant | use -> moderates/decrease -> not_stated,2,2,1.0
+non-AI external aid | use -> no_relation/no_change -> behavioural strategy,2,2,1.0
+not_stated | availability -> causes/decrease -> task performance,2,2,1.0
+non-AI external aid | reliance -> associates/decrease -> task performance,2,2,1.0
+non-AI external aid | not_stated -> not_stated/not_stated -> task performance,2,2,1.0
+not_applicable | not_applicable -> moderates/non_monotonic -> behavioural strategy,2,2,1.0
+not_applicable | not_applicable -> associates/not_stated -> cognitive process,3,2,1.5
+not_applicable | not_applicable -> associates/not_stated -> behavioural strategy,2,2,1.0
+not_applicable | not_applicable -> associates/non_monotonic -> disposition or attitude,2,2,1.0
+not_applicable | not_applicable -> moderates/not_stated -> subjective experience,2,2,1.0
+none (observational) | not_applicable -> associates/decrease -> disposition or attitude,2,2,1.0
+not_applicable | not_applicable -> associates/no_change -> not_stated,2,2,1.0
+none (observational) | not_applicable -> associates/no_change -> behavioural strategy,2,2,1.0
+not_applicable | not_applicable -> no_relation/decrease -> not_stated,2,2,1.0
+not_applicable | not_applicable -> no_relation/decrease -> task performance,2,2,1.0
+not_applicable | not_applicable -> no_relation/no_change -> cognitive process,2,2,1.0
+not_applicable | not_applicable -> no_relation/no_change -> disposition or attitude,2,2,1.0
+non-AI external aid | not_stated -> associates/increase -> disposition or attitude,2,2,1.0
+non-AI external aid | not_stated -> associates/increase -> behavioural strategy,2,2,1.0
+not_applicable | not_applicable -> moderates/increase -> task performance,2,2,1.0
+non-AI external aid | reliance -> associates/increase -> behavioural strategy,2,2,1.0
+not_stated | availability -> causes/decrease -> disposition or attitude,3,2,1.5
+non-AI external aid | reliance -> causes/decrease -> cognitive process,2,2,1.0
+non-AI external aid | use -> moderates/non_monotonic -> task performance,2,2,1.0
+not_applicable | not_applicable -> mediates/decrease -> behavioural strategy,2,2,1.0
+not_applicable | not_applicable -> mediates/decrease -> not_stated,2,2,1.0
+non-AI external aid | use -> moderates/increase -> cognitive process,2,2,1.0
+not_applicable | not_applicable -> mediates/increase -> task performance,2,2,1.0
+non-AI external aid | use -> mediates/decrease -> disposition or attitude,2,2,1.0
+non-AI external aid | use -> causes/no_change -> cognitive process,2,2,1.0
+not_applicable | not_applicable -> causes/decrease -> subjective experience,2,2,1.0
+non-AI external aid | use -> not_stated/not_stated -> cognitive process,2,2,1.0
+not_applicable | not_applicable -> causes/decrease -> cognitive process,2,2,1.0
+not_applicable | not_applicable -> causes/decrease -> behavioural strategy,2,2,1.0
+not_applicable | not_applicable -> moderates/decrease -> not_stated,2,2,1.0
+non-AI external aid | use -> associates/decrease -> task performance,2,2,1.0
+not_applicable | not_applicable -> moderates/increase -> behavioural strategy,2,2,1.0
+non-AI external aid | removal or withdrawal -> causes/increase -> behavioural strategy,2,2,1.0
+non-AI external aid | not_stated -> associates/decrease -> task performance,2,2,1.0
+non-AI external aid | availability -> not_stated/not_stated -> task performance,2,2,1.0
+not_applicable | not_applicable -> no_relation/not_applicable -> task performance,2,2,1.0
+not_applicable | not_applicable -> not_stated/decrease -> behavioural strategy,2,2,1.0
+none (observational) | not_applicable -> causes/increase -> behavioural strategy,2,2,1.0
+none (observational) | not_applicable -> causes/increase -> cognitive process,2,2,1.0
+generative AI assistant | use -> not_stated/not_applicable -> behavioural strategy,2,2,1.0
+generative AI assistant | use -> not_stated/non_monotonic -> subjective experience,3,2,1.5
+not_stated | availability -> associates/decrease -> task performance,2,2,1.0
+none (observational) | not_applicable -> causes/increase -> disposition or attitude,2,2,1.0
+none (observational) | not_applicable -> causes/increase -> subjective experience,2,2,1.0
+not_stated | availability -> associates/increase -> cognitive process,2,2,1.0
+generative AI assistant | use -> not_stated/decrease -> not_stated,2,2,1.0
+generative AI assistant | use -> no_relation/not_applicable -> task performance,2,2,1.0
+generative AI assistant | use -> no_relation/not_applicable -> disposition or attitude,2,2,1.0
+none (observational) | not_applicable -> mediates/decrease -> task performance,2,2,1.0
+not_stated | availability -> causes/decrease -> behavioural strategy,2,2,1.0
+generative AI assistant | use -> no_relation/no_change -> behavioural strategy,2,2,1.0
+not_applicable | not_applicable -> associates/decrease -> subjective experience,2,2,1.0
+none (observational) | not_applicable -> causes/decrease -> not_stated,2,2,1.0
+non-AI external aid | availability -> associates/increase -> behavioural strategy,2,2,1.0
+non-AI external aid | availability -> associates/increase -> disposition or attitude,2,2,1.0
+none (observational) | not_applicable -> associates/non_monotonic -> behavioural strategy,2,2,1.0
+not_applicable | not_applicable -> not_stated/decrease -> subjective experience,2,2,1.0
+non-AI external aid | availability -> no_relation/no_change -> behavioural strategy,2,2,1.0
+non-AI external aid | availability -> moderates/not_stated -> task performance,3,2,1.5
+not_applicable | not_applicable -> not_stated/increase -> behavioural strategy,2,2,1.0
+non-AI external aid | availability -> moderates/decrease -> task performance,2,2,1.0
+not_applicable | not_applicable -> not_stated/increase -> task performance,2,2,1.0
+non-AI external aid | availability -> mediates/increase -> behavioural strategy,2,2,1.0
+non-AI external aid | availability -> associates/not_stated -> cognitive process,2,2,1.0
+none (observational) | not_applicable -> associates/non_monotonic -> cognitive process,2,2,1.0
+non-AI external aid | availability -> causes/no_change -> task performance,2,2,1.0
+none (observational) | not_applicable -> associates/not_stated -> cognitive process,2,2,1.0
+none (observational) | not_applicable -> associates/not_stated -> disposition or attitude,2,2,1.0
+non-AI external aid | availability -> causes/increase -> not_stated,2,2,1.0
+none (observational) | not_applicable -> causes/decrease -> behavioural strategy,2,2,1.0
+non-AI external aid | availability -> causes/not_stated -> cognitive process,2,2,1.0
+not_stated | not_applicable -> associates/decrease -> subjective experience,2,2,1.0
+not_stated | not_stated -> mediates/not_stated -> not_stated,2,2,1.0
+not_stated | not_stated -> associates/non_monotonic -> not_stated,2,2,1.0
+not_stated | not_applicable -> not_stated/decrease -> cognitive process,2,2,1.0
+not_stated | not_applicable -> not_stated/no_change -> not_stated,2,2,1.0
+generative AI assistant | not_applicable -> no_relation/not_applicable -> cognitive process,2,2,1.0
+not_stated | not_applicable -> not_stated/no_change -> task performance,2,2,1.0
+not_stated | not_applicable -> not_stated/not_stated -> behavioural strategy,2,2,1.0
+generative AI assistant | availability -> not_stated/decrease -> not_stated,2,2,1.0
+generative AI assistant | availability -> no_relation/not_applicable -> not_stated,2,2,1.0
+generative AI assistant | availability -> no_relation/no_change -> subjective experience,2,2,1.0
+not_stated | not_stated -> associates/decrease -> cognitive process,2,2,1.0
+not_stated | not_stated -> associates/decrease -> subjective experience,2,2,1.0
+not_stated | not_stated -> associates/increase -> behavioural strategy,2,2,1.0
+generative AI assistant | availability -> moderates/not_stated -> task performance,2,2,1.0
+generative AI assistant | availability -> moderates/no_change -> cognitive process,2,2,1.0
+not_stated | not_stated -> associates/increase -> not_stated,2,2,1.0
+generative AI assistant | availability -> moderates/increase -> disposition or attitude,2,2,1.0
+generative AI assistant | availability -> mediates/not_stated -> task performance,3,2,1.5
+generative AI assistant | availability -> mediates/not_stated -> cognitive process,3,2,1.5
+generative AI assistant | not_stated -> associates/decrease -> cognitive process,3,2,1.5
+automation or autopilot | not_stated -> causes/decrease -> cognitive process,2,2,1.0
+generative AI assistant | not_stated -> associates/decrease -> subjective experience,2,2,1.0
+not_stated | not_applicable -> moderates/increase -> subjective experience,2,2,1.0
+generative AI assistant | not_stated -> no_relation/not_stated -> task performance,2,2,1.0
+generative AI assistant | not_stated -> no_relation/not_applicable -> not_stated,2,2,1.0
+generative AI assistant | not_stated -> no_relation/no_change -> not_stated,3,2,1.5
+generative AI assistant | not_stated -> no_relation/no_change -> cognitive process,2,2,1.0
+generative AI assistant | not_stated -> moderates/not_stated -> disposition or attitude,2,2,1.0
+not_stated | not_applicable -> mediates/not_stated -> task performance,2,2,1.0
+generative AI assistant | not_stated -> moderates/increase -> task performance,2,2,1.0
+automation or autopilot | availability -> not_stated/not_stated -> not_stated,2,2,1.0
+generative AI assistant | not_stated -> associates/decrease -> task performance,2,2,1.0
+generative AI assistant | not_stated -> mediates/not_stated -> disposition or attitude,3,2,1.5
+generative AI assistant | not_stated -> mediates/increase -> disposition or attitude,2,2,1.0
+generative AI assistant | not_stated -> mediates/increase -> cognitive process,4,2,2.0
+not_stated | not_applicable -> no_relation/no_change -> disposition or attitude,2,2,1.0
+generative AI assistant | not_stated -> causes/decrease -> task performance,2,2,1.0
+generative AI assistant | not_stated -> associates/not_stated -> cognitive process,2,2,1.0
+not_stated | not_applicable -> no_relation/not_applicable -> not_stated,2,2,1.0
+generative AI assistant | availability -> mediates/increase -> task performance,2,2,1.0
+not_stated | use -> causes/no_change -> task performance,2,2,1.0
+not_stated | not_applicable -> mediates/not_stated -> cognitive process,2,2,1.0
+generative AI assistant | availability -> causes/not_stated -> cognitive process,2,2,1.0
+behavioural strategy | use -> causes/increase -> cognitive process,3,2,1.5
+decision support system | use -> causes/decrease -> cognitive process,2,2,1.0
+not_stated | removal or withdrawal -> causes/increase -> task performance,2,2,1.0
+decision support system | removal or withdrawal -> mediates/decrease -> task performance,2,2,1.0
+decision support system | reliance -> causes/decrease -> cognitive process,2,2,1.0
+not_stated | not_stated -> no_relation/no_change -> disposition or attitude,2,2,1.0
+calculator or single-purpose tool | use -> causes/increase -> task performance,2,2,1.0
+not_stated | not_stated -> not_stated/decrease -> cognitive process,2,2,1.0
+decision support system | availability -> no_relation/no_change -> task performance,3,2,1.5
+decision support system | availability -> no_relation/no_change -> disposition or attitude,2,2,1.0
+decision support system | availability -> no_relation/no_change -> cognitive process,2,2,1.0
+not_stated | not_stated -> not_stated/increase -> cognitive process,2,2,1.0
+not_stated | not_stated -> not_stated/increase -> subjective experience,2,2,1.0
+decision support system | availability -> associates/not_stated -> task performance,2,2,1.0
+decision support system | availability -> causes/decrease -> behavioural strategy,2,2,1.0
+decision support system | availability -> causes/decrease -> cognitive process,2,2,1.0
+decision support system | availability -> causes/no_change -> task performance,2,2,1.0
+behavioural strategy | use -> causes/increase -> behavioural strategy,2,2,1.0
+behavioural strategy | use -> causes/decrease -> task performance,2,2,1.0
+decision support system | use -> causes/decrease -> physiological,2,2,1.0
+generative AI assistant | availability -> associates/not_stated -> not_stated,2,2,1.0
+generative AI assistant | availability -> causes/non_monotonic -> cognitive process,2,2,1.0
+generative AI assistant | availability -> causes/no_change -> subjective experience,2,2,1.0
+generative AI assistant | availability -> causes/no_change -> not_stated,2,2,1.0
+automation or autopilot | use -> causes/increase -> behavioural strategy,2,2,1.0
+not_stated | not_stated -> causes/decrease -> disposition or attitude,2,2,1.0
+automation or autopilot | use -> causes/increase -> cognitive process,2,2,1.0
+not_stated | not_stated -> causes/decrease -> task performance,2,2,1.0
+not_stated | not_stated -> causes/not_stated -> not_stated,2,2,1.0
+decision support system | use -> causes/no_change -> behavioural strategy,2,2,1.0
+not_stated | use -> causes/decrease -> behavioural strategy,2,2,1.0
+not_stated | use -> associates/increase -> subjective experience,2,2,1.0
+decision support system | use -> not_stated/increase -> task performance,2,2,1.0
+not_stated | use -> associates/increase -> cognitive process,2,2,1.0
+behavioural strategy | use -> associates/increase -> cognitive process,3,2,1.5
+decision support system | use -> causes/no_change -> task performance,2,2,1.0
+behavioural strategy | use -> causes/decrease -> cognitive process,2,2,1.0
+generative AI assistant | not_stated -> not_stated/increase -> cognitive process,2,2,1.0
+not_stated | use -> not_stated/not_stated -> task performance,2,2,1.0
+generative AI assistant | not_stated -> not_stated/no_change -> cognitive process,2,2,1.0
+generative AI assistant | use -> associates/non_monotonic -> task performance,2,2,1.0
+generative AI assistant | reliance -> causes/decrease -> disposition or attitude,3,2,1.5
+generative AI assistant | reliance -> causes/decrease -> subjective experience,2,2,1.0
+search or retrieval system | use -> causes/increase -> cognitive process,2,2,1.0
+generative AI assistant | use -> associates/not_stated -> task performance,2,2,1.0
+automation or autopilot | availability -> mediates/increase -> cognitive process,2,2,1.0
+not_stated | not_applicable -> associates/not_stated -> subjective experience,2,2,1.0
+generative AI assistant | reliance -> causes/increase -> task performance,2,2,1.0
+generative AI assistant | reliance -> mediates/decrease -> disposition or attitude,2,2,1.0
+generative AI assistant | reliance -> mediates/increase -> cognitive process,2,2,1.0
+automation or autopilot | availability -> mediates/decrease -> cognitive process,2,2,1.0
+not_stated | not_applicable -> associates/not_stated -> disposition or attitude,3,2,1.5
+generative AI assistant | reliance -> moderates/decrease -> cognitive process,2,2,1.0
+not_stated | not_applicable -> associates/not_stated -> cognitive process,2,2,1.0
+not_stated | availability -> not_stated/not_applicable -> not_stated,2,2,1.0
+not_stated | not_applicable -> causes/decrease -> task performance,2,2,1.0
+not_stated | not_applicable -> associates/increase -> subjective experience,2,2,1.0
+generative AI assistant | use -> associates/non_monotonic -> disposition or attitude,2,2,1.0
+not_stated | not_applicable -> associates/increase -> physiological,2,2,1.0
+generative AI assistant | not_stated -> not_stated/no_change -> disposition or attitude,2,2,1.0
+not_stated | not_applicable -> associates/decrease -> task performance,2,2,1.0
+automation or autopilot | availability -> causes/increase -> disposition or attitude,2,2,1.0
+not_stated | not_applicable -> associates/decrease -> not_stated,2,2,1.0
+not_stated | not_applicable -> associates/decrease -> disposition or attitude,2,2,1.0
+generative AI assistant | use -> associates/non_monotonic -> cognitive process,2,2,1.0
+generative AI assistant | removal or withdrawal -> causes/increase -> task performance,3,2,1.5
+generative AI assistant | removal or withdrawal -> no_relation/no_change -> not_stated,2,2,1.0
+search or retrieval system | use -> causes/increase -> task performance,3,2,1.5
+not_stated | availability -> not_stated/not_stated -> subjective experience,2,2,1.0
+automation or autopilot | availability -> causes/decrease -> subjective experience,2,2,1.0
+generative AI assistant | reliance -> causes/decrease -> not_stated,2,2,1.0
+generative AI assistant | not_stated -> not_stated/not_applicable -> disposition or attitude,2,2,1.0
+generative AI assistant | reliance -> associates/increase -> cognitive process,3,2,1.5
+generative AI assistant | use -> causes/not_stated -> behavioural strategy,3,2,1.5
+automation or autopilot | availability -> associates/increase -> not_stated,2,2,1.0
+not_stated | not_applicable -> mediates/increase -> task performance,2,2,1.0
+automation or autopilot | availability -> causes/decrease -> behavioural strategy,2,2,1.0
+generative AI assistant | not_stated -> not_stated/non_monotonic -> cognitive process,2,2,1.0
+not_stated | not_applicable -> mediates/increase -> cognitive process,2,2,1.0
+generative AI assistant | use -> causes/non_monotonic -> disposition or attitude,2,2,1.0
+generative AI assistant | use -> causes/non_monotonic -> cognitive process,2,2,1.0
+generative AI assistant | use -> causes/no_change -> subjective experience,2,2,1.0
+not_stated | not_applicable -> causes/increase -> subjective experience,2,2,1.0
+not_stated | not_applicable -> causes/increase -> disposition or attitude,2,2,1.0
+generative AI assistant | reliance -> associates/increase -> behavioural strategy,2,2,1.0
+generative AI assistant | use -> associates/no_change -> disposition or attitude,2,2,1.0
+generative AI assistant | use -> causes/increase -> physiological,2,2,1.0
+generative AI assistant | reliance -> associates/increase -> task performance,2,2,1.0
+not_stated | reliance -> causes/decrease -> behavioural strategy,1,1,1.0
+not_stated | reliance -> not_stated/decrease -> behavioural strategy,1,1,1.0
+search or retrieval system | use -> causes/no_change -> task performance,1,1,1.0
+not_applicable | not_applicable -> causes/decrease -> task performance,1,1,1.0
+none (observational) | not_stated -> no_relation/no_change -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> not_stated/not_stated -> subjective experience,1,1,1.0
+not_stated | use -> associates/decrease -> subjective experience,1,1,1.0
+search or retrieval system | use -> moderates/decrease -> subjective experience,1,1,1.0
+not_stated | not_stated -> not_stated/not_stated -> physiological,1,1,1.0
+not_applicable | not_applicable -> mediates/decrease -> cognitive process,1,1,1.0
+none (observational) | participation -> associates/increase -> task performance,1,1,1.0
+not_stated | reliance -> moderates/not_stated -> not_stated,2,1,2.0
+not_applicable | not_applicable -> associates/no_change -> task performance,1,1,1.0
+not_stated | reliance -> mediates/not_stated -> disposition or attitude,1,1,1.0
+not_stated | use -> associates/decrease -> task performance,1,1,1.0
+not_stated | reliance -> mediates/decrease -> cognitive process,1,1,1.0
+not_stated | use -> associates/increase -> not_stated,1,1,1.0
+none (observational) | not_stated -> moderates/increase -> behavioural strategy,1,1,1.0
+search or retrieval system | use -> causes/increase -> subjective experience,1,1,1.0
+not_applicable | not_applicable -> causes/not_stated -> task performance,1,1,1.0
+not_stated | use -> associates/decrease -> not_stated,1,1,1.0
+not_stated | removal or withdrawal -> causes/decrease -> task performance,1,1,1.0
+none (observational) | reliance -> moderates/no_change -> cognitive process,1,1,1.0
+not_applicable | not_applicable -> causes/decrease -> disposition or attitude,1,1,1.0
+not_stated | reliance -> associates/not_stated -> disposition or attitude,1,1,1.0
+not_stated | use -> associates/no_change -> not_stated,1,1,1.0
+not_stated | removal or withdrawal -> causes/no_change -> task performance,1,1,1.0
+not_stated | removal or withdrawal -> causes/decrease -> disposition or attitude,1,1,1.0
+not_stated | reliance -> associates/decrease -> disposition or attitude,1,1,1.0
+none (observational) | not_stated -> no_relation/not_applicable -> not_stated,1,1,1.0
+not_stated | removal or withdrawal -> no_relation/no_change -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> causes/not_stated -> behavioural strategy,1,1,1.0
+none (observational) | reliance -> associates/decrease -> task performance,1,1,1.0
+not_applicable | not_applicable -> causes/not_stated -> cognitive process,1,1,1.0
+not_stated | removal or withdrawal -> causes/decrease -> cognitive process,1,1,1.0
+none (observational) | not_stated -> not_stated/no_change -> behavioural strategy,1,1,1.0
+not_stated | removal or withdrawal -> not_stated/not_stated -> subjective experience,1,1,1.0
+not_stated | use -> associates/decrease -> cognitive process,1,1,1.0
+not_stated | removal or withdrawal -> associates/decrease -> cognitive process,1,1,1.0
+none (observational) | reliance -> associates/increase -> task performance,1,1,1.0
+not_stated | reliance -> causes/decrease -> not_stated,1,1,1.0
+search or retrieval system | use -> causes/increase -> disposition or attitude,1,1,1.0
+not_stated | use -> associates/no_change -> task performance,1,1,1.0
+search or retrieval system | availability -> not_stated/not_stated -> behavioural strategy,1,1,1.0
+none (observational) | use -> causes/increase -> behavioural strategy,1,1,1.0
+not_stated | use -> not_stated/not_stated -> subjective experience,1,1,1.0
+search or retrieval system | use -> causes/decrease -> cognitive process,1,1,1.0
+none (observational) | use -> causes/increase -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> not_stated/non_monotonic -> not_stated,1,1,1.0
+search or retrieval system | use -> associates/not_stated -> task performance,1,1,1.0
+removal or withdrawal | removal or withdrawal -> causes/decrease -> physiological,1,1,1.0
+search or retrieval system | use -> associates/increase -> physiological,1,1,1.0
+not_applicable | not_applicable -> associates/decrease -> physiological,1,1,1.0
+search or retrieval system | availability -> associates/increase -> task performance,1,1,1.0
+search or retrieval system | availability -> associates/non_monotonic -> task performance,1,1,1.0
+search or retrieval system | availability -> causes/increase -> behavioural strategy,1,1,1.0
+search or retrieval system | availability -> no_relation/decrease -> task performance,1,1,1.0
+not_stated | use -> associates/not_stated -> subjective experience,1,1,1.0
+none (observational) | use -> causes/increase -> task performance,1,1,1.0
+search or retrieval system | availability -> causes/increase -> disposition or attitude,1,1,1.0
+search or retrieval system | availability -> mediates/increase -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> associates/decrease -> behavioural strategy,1,1,1.0
+not_applicable | availability -> mediates/increase -> cognitive process,1,1,1.0
+not_applicable | availability -> causes/increase -> task performance,1,1,1.0
+none (observational) | use -> causes/no_change -> task performance,1,1,1.0
+search or retrieval system | availability -> moderates/increase -> disposition or attitude,1,1,1.0
+none (observational) | use -> mediates/increase -> cognitive process,1,1,1.0
+not_applicable | availability -> causes/increase -> physiological,1,1,1.0
+none (observational) | use -> mediates/not_stated -> task performance,1,1,1.0
+not_applicable | availability -> causes/increase -> disposition or attitude,1,1,1.0
+none (observational) | use -> causes/decrease -> subjective experience,1,1,1.0
+not_stated | use -> not_stated/not_stated -> not_stated,2,1,2.0
+not_stated | use -> not_stated/not_stated -> cognitive process,1,1,1.0
+not_stated | use -> not_stated/not_stated -> behavioural strategy,1,1,1.0
+none (observational) | removal or withdrawal -> moderates/increase -> cognitive process,1,1,1.0
+not_stated | use -> causes/decrease -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> associates/no_change -> behavioural strategy,1,1,1.0
+not_stated | use -> causes/decrease -> not_stated,1,1,1.0
+none (observational) | use -> associates/decrease -> cognitive process,2,1,2.0
+none (observational) | use -> associates/increase -> behavioural strategy,1,1,1.0
+none (observational) | use -> associates/increase -> cognitive process,1,1,1.0
+not_stated | use -> causes/increase -> physiological,3,1,3.0
+not_stated | use -> causes/not_stated -> cognitive process,1,1,1.0
+not_stated | use -> causes/not_stated -> disposition or attitude,1,1,1.0
+not_stated | use -> mediates/increase -> behavioural strategy,1,1,1.0
+not_stated | use -> mediates/increase -> not_stated,1,1,1.0
+none (observational) | use -> associates/increase -> disposition or attitude,1,1,1.0
+not_stated | use -> moderates/not_stated -> task performance,1,1,1.0
+not_stated | use -> no_relation/no_change -> cognitive process,1,1,1.0
+not_stated | use -> no_relation/no_change -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> associates/increase -> physiological,1,1,1.0
+not_stated | use -> no_relation/no_change -> not_stated,1,1,1.0
+not_stated | use -> no_relation/not_applicable -> task performance,1,1,1.0
+not_stated | use -> not_stated/increase -> behavioural strategy,1,1,1.0
+not_stated | use -> not_stated/increase -> cognitive process,1,1,1.0
+not_stated | use -> not_stated/increase -> disposition or attitude,1,1,1.0
+not_stated | use -> not_stated/increase -> task performance,1,1,1.0
+not_stated | use -> not_stated/not_applicable -> not_stated,1,1,1.0
+none (observational) | use -> causes/decrease -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> not_stated/non_monotonic -> task performance,1,1,1.0
+not_stated | availability -> moderates/decrease -> cognitive process,1,1,1.0
+not_stated | not_stated -> not_stated/no_change -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> mediates/increase -> subjective experience,2,1,2.0
+not_stated | not_applicable -> causes/increase -> not_stated,1,1,1.0
+not_stated | not_applicable -> causes/not_stated -> task performance,1,1,1.0
+not_stated | not_applicable -> mediates/increase -> behavioural strategy,1,1,1.0
+not_applicable | use -> causes/increase -> disposition or attitude,1,1,1.0
+not_applicable | removal or withdrawal -> not_stated/not_stated -> subjective experience,1,1,1.0
+not_stated | not_applicable -> mediates/not_applicable -> cognitive process,1,1,1.0
+not_applicable | removal or withdrawal -> causes/decrease -> task performance,1,1,1.0
+not_applicable | removal or withdrawal -> causes/decrease -> not_stated,1,1,1.0
+not_stated | not_applicable -> mediates/not_stated -> subjective experience,1,1,1.0
+not_stated | not_applicable -> moderates/decrease -> disposition or attitude,1,1,1.0
+not_applicable | removal or withdrawal -> causes/decrease -> cognitive process,1,1,1.0
+not_stated | not_applicable -> moderates/increase -> behavioural strategy,1,1,1.0
+not_stated | not_applicable -> moderates/increase -> not_stated,1,1,1.0
+not_applicable | not_applicable -> not_stated/not_stated -> physiological,1,1,1.0
+not_stated | not_applicable -> moderates/non_monotonic -> not_stated,1,1,1.0
+not_stated | not_applicable -> moderates/not_stated -> cognitive process,1,1,1.0
+not_stated | not_applicable -> moderates/not_stated -> disposition or attitude,1,1,1.0
+not_stated | not_applicable -> moderates/not_stated -> subjective experience,1,1,1.0
+not_stated | not_applicable -> no_relation/no_change -> not_stated,1,1,1.0
+not_stated | not_applicable -> no_relation/not_stated -> task performance,1,1,1.0
+not_applicable | not_applicable -> not_stated/not_applicable -> task performance,2,1,2.0
+not_stated | not_applicable -> not_stated/decrease -> behavioural strategy,1,1,1.0
+not_stated | not_applicable -> not_stated/increase -> behavioural strategy,1,1,1.0
+not_applicable | not_applicable -> not_stated/non_monotonic -> not_stated,1,1,1.0
+not_applicable | not_applicable -> not_stated/no_change -> physiological,1,1,1.0
+not_stated | not_applicable -> not_stated/non_monotonic -> task performance,1,1,1.0
+not_applicable | not_applicable -> not_stated/no_change -> disposition or attitude,1,1,1.0
+not_stated | not_applicable -> not_stated/not_stated -> cognitive process,1,1,1.0
+not_applicable | not_applicable -> not_stated/increase -> subjective experience,1,1,1.0
+not_stated | not_applicable -> causes/increase -> cognitive process,1,1,1.0
+not_stated | availability -> associates/no_change -> cognitive process,1,1,1.0
+not_stated | availability -> associates/no_change -> task performance,1,1,1.0
+not_stated | availability -> causes/not_stated -> subjective experience,1,1,1.0
+not_stated | availability -> moderates/not_stated -> not_stated,1,1,1.0
+not_stated | availability -> no_relation/no_change -> behavioural strategy,1,1,1.0
+not_stated | availability -> mediates/non_monotonic -> behavioural strategy,1,1,1.0
+not_stated | availability -> no_relation/no_change -> task performance,2,1,2.0
+not_stated | availability -> not_stated/decrease -> cognitive process,1,1,1.0
+not_stated | availability -> not_stated/decrease -> not_stated,1,1,1.0
+not_stated | availability -> not_stated/increase -> subjective experience,1,1,1.0
+not_stated | availability -> mediates/increase -> task performance,1,1,1.0
+not_stated | availability -> mediates/increase -> not_stated,1,1,1.0
+not_stated | availability -> mediates/increase -> disposition or attitude,1,1,1.0
+not_stated | availability -> not_stated/no_change -> not_stated,1,1,1.0
+not_stated | availability -> not_stated/not_applicable -> disposition or attitude,1,1,1.0
+not_stated | availability -> mediates/increase -> behavioural strategy,2,1,2.0
+not_stated | availability -> causes/not_stated -> cognitive process,1,1,1.0
+not_stated | not_applicable -> causes/decrease -> disposition or attitude,1,1,1.0
+not_stated | availability -> not_stated/not_stated -> cognitive process,1,1,1.0
+not_stated | availability -> not_stated/not_stated -> disposition or attitude,1,1,1.0
+not_stated | availability -> not_stated/not_stated -> task performance,1,1,1.0
+not_stated | not_applicable -> associates/decrease -> behavioural strategy,1,1,1.0
+none (observational) | not_stated -> mediates/decrease -> task performance,1,1,1.0
+not_stated | not_applicable -> associates/increase -> behavioural strategy,1,1,1.0
+not_stated | not_applicable -> associates/not_stated -> behavioural strategy,1,1,1.0
+not_stated | availability -> causes/decrease -> subjective experience,1,1,1.0
+not_stated | not_applicable -> associates/not_stated -> task performance,1,1,1.0
+not_stated | not_applicable -> causes/decrease -> behavioural strategy,1,1,1.0
+not_stated | availability -> causes/decrease -> cognitive process,1,1,1.0
+not_stated | not_applicable -> causes/decrease -> cognitive process,1,1,1.0
+not_stated | availability -> associates/not_stated -> not_stated,1,1,1.0
+not_applicable | not_applicable -> not_stated/increase -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> associates/decrease -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> associates/increase -> cognitive process,1,1,1.0
+not_stated | not_stated -> no_relation/no_change -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> moderates/increase -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> moderates/increase -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> moderates/increase -> task performance,1,1,1.0
+not_applicable | not_applicable -> moderates/decrease -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> moderates/non_monotonic -> cognitive process,1,1,1.0
+not_stated | not_stated -> moderates/not_stated -> behavioural strategy,1,1,1.0
+not_applicable | not_applicable -> moderates/decrease -> cognitive process,1,1,1.0
+not_stated | not_stated -> moderates/not_stated -> cognitive process,1,1,1.0
+not_applicable | not_applicable -> moderates/decrease -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> moderates/not_stated -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> no_relation/decrease -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> no_relation/increase -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> no_relation/increase -> task performance,1,1,1.0
+not_stated | not_stated -> no_relation/no_change -> not_stated,1,1,1.0
+not_applicable | not_applicable -> moderates/decrease -> task performance,1,1,1.0
+not_stated | not_stated -> no_relation/no_change -> subjective experience,1,1,1.0
+not_stated | not_stated -> no_relation/not_applicable -> cognitive process,1,1,1.0
+not_stated | not_stated -> no_relation/not_stated -> not_stated,1,1,1.0
+not_stated | not_stated -> no_relation/not_stated -> task performance,1,1,1.0
+not_stated | not_stated -> not_stated/decrease -> not_stated,1,1,1.0
+not_stated | not_stated -> not_stated/decrease -> task performance,1,1,1.0
+not_stated | not_stated -> not_stated/increase -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> not_stated/increase -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> not_stated/increase -> task performance,2,1,2.0
+not_applicable | not_applicable -> mediates/non_monotonic -> subjective experience,1,1,1.0
+not_applicable | not_applicable -> mediates/non_monotonic -> cognitive process,1,1,1.0
+not_stated | not_stated -> not_stated/no_change -> cognitive process,1,1,1.0
+not_applicable | not_applicable -> mediates/no_change -> task performance,1,1,1.0
+not_applicable | not_applicable -> moderates/decrease -> subjective experience,1,1,1.0
+not_stated | not_stated -> moderates/decrease -> cognitive process,1,1,1.0
+not_stated | not_stated -> associates/increase -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> causes/not_stated -> disposition or attitude,1,1,1.0
+not_stated | not_stated -> associates/no_change -> cognitive process,1,1,1.0
+not_applicable | not_applicable -> no_relation/not_stated -> not_stated,1,1,1.0
+not_applicable | not_applicable -> no_relation/not_applicable -> subjective experience,1,1,1.0
+not_stated | not_stated -> associates/non_monotonic -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> associates/non_monotonic -> cognitive process,1,1,1.0
+not_applicable | not_applicable -> no_relation/not_applicable -> cognitive process,1,1,1.0
+not_applicable | not_applicable -> no_relation/not_applicable -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> associates/not_stated -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> no_relation/no_change -> not_stated,1,1,1.0
+not_stated | not_stated -> associates/not_stated -> subjective experience,1,1,1.0
+not_applicable | not_applicable -> no_relation/no_change -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> causes/decrease -> subjective experience,1,1,1.0
+not_stated | not_stated -> causes/increase -> physiological,1,1,1.0
+not_applicable | not_applicable -> moderates/not_stated -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> moderates/increase -> cognitive process,1,1,1.0
+not_stated | not_stated -> causes/not_stated -> subjective experience,1,1,1.0
+not_applicable | not_applicable -> moderates/not_applicable -> not_stated,1,1,1.0
+not_stated | not_stated -> mediates/decrease -> subjective experience,1,1,1.0
+not_stated | not_stated -> mediates/increase -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> moderates/non_monotonic -> disposition or attitude,1,1,1.0
+not_applicable | not_applicable -> moderates/no_change -> not_stated,1,1,1.0
+not_stated | not_stated -> mediates/non_monotonic -> not_stated,1,1,1.0
+not_stated | not_stated -> mediates/not_stated -> behavioural strategy,1,1,1.0
+not_stated | not_stated -> mediates/not_stated -> cognitive process,1,1,1.0
+not_stated | availability -> moderates/increase -> cognitive process,1,1,1.0
+not_applicable | not_applicable -> moderates/increase -> subjective experience,1,1,1.0
+not_stated | not_stated -> mediates/not_stated -> task performance,1,1,1.0
+not_applicable | not_applicable -> moderates/increase -> disposition or attitude,1,1,1.0
+none (observational) | not_stated -> mediates/not_stated -> cognitive process,1,1,1.0
+automation or autopilot | availability -> associates/decrease -> disposition or attitude,1,1,1.0
+none (observational) | not_stated -> mediates/decrease -> cognitive process,1,1,1.0
+generative AI assistant | availability -> causes/no_change -> disposition or attitude,1,1,1.0
+generative AI assistant | availability -> associates/decrease -> task performance,1,1,1.0
+generative AI assistant | availability -> associates/no_change -> disposition or attitude,1,1,1.0
+generative AI assistant | availability -> associates/no_change -> subjective experience,1,1,1.0
+generative AI assistant | availability -> associates/no_change -> task performance,1,1,1.0
+generative AI assistant | availability -> associates/non_monotonic -> behavioural strategy,1,1,1.0
+generative AI assistant | availability -> associates/non_monotonic -> cognitive process,1,1,1.0
+generative AI assistant | availability -> associates/not_stated -> cognitive process,1,1,1.0
+generative AI assistant | availability -> associates/not_stated -> subjective experience,1,1,1.0
+generative AI assistant | availability -> causes/increase -> mixed or multiple,1,1,1.0
+generative AI assistant | availability -> causes/increase -> physiological,1,1,1.0
+generative AI assistant | availability -> causes/no_change -> behavioural strategy,1,1,1.0
+generative AI assistant | availability -> causes/non_monotonic -> disposition or attitude,1,1,1.0
+generative AI assistant | availability -> no_relation/decrease -> behavioural strategy,1,1,1.0
+generative AI assistant | availability -> causes/non_monotonic -> not_stated,1,1,1.0
+generative AI assistant | availability -> mediates/decrease -> disposition or attitude,1,1,1.0
+generative AI assistant | availability -> mediates/decrease -> not_stated,1,1,1.0
+generative AI assistant | availability -> mediates/decrease -> task performance,1,1,1.0
+generative AI assistant | availability -> mediates/increase -> not_stated,1,1,1.0
+generative AI assistant | availability -> mediates/not_applicable -> not_stated,1,1,1.0
+generative AI assistant | availability -> mediates/not_stated -> not_stated,1,1,1.0
+generative AI assistant | availability -> moderates/decrease -> behavioural strategy,1,1,1.0
+generative AI assistant | availability -> moderates/increase -> cognitive process,1,1,1.0
+generative AI assistant | availability -> moderates/increase -> not_stated,1,1,1.0
+generative AI assistant | availability -> moderates/increase -> task performance,1,1,1.0
+generative AI assistant | availability -> associates/decrease -> behavioural strategy,1,1,1.0
+decision support system | use -> not_stated/not_stated -> task performance,1,1,1.0
+decision support system | use -> not_stated/not_stated -> cognitive process,1,1,1.0
+decision support system | use -> not_stated/no_change -> disposition or attitude,1,1,1.0
+decision support system | not_stated -> not_stated/not_stated -> not_stated,2,1,2.0
+decision support system | reliance -> causes/decrease -> behavioural strategy,1,1,1.0
+decision support system | reliance -> causes/not_stated -> cognitive process,1,1,1.0
+decision support system | reliance -> mediates/increase -> task performance,1,1,1.0
+decision support system | reliance -> moderates/increase -> disposition or attitude,1,1,1.0
+decision support system | reliance -> no_relation/no_change -> behavioural strategy,1,1,1.0
+decision support system | removal or withdrawal -> causes/decrease -> task performance,1,1,1.0
+decision support system | removal or withdrawal -> causes/no_change -> task performance,1,1,1.0
+decision support system | use -> associates/decrease -> disposition or attitude,1,1,1.0
+decision support system | use -> associates/decrease -> task performance,1,1,1.0
+decision support system | use -> associates/increase -> behavioural strategy,1,1,1.0
+decision support system | use -> associates/increase -> cognitive process,1,1,1.0
+decision support system | use -> associates/increase -> disposition or attitude,1,1,1.0
+decision support system | use -> associates/increase -> subjective experience,1,1,1.0
+decision support system | use -> associates/non_monotonic -> behavioural strategy,1,1,1.0
+decision support system | use -> causes/decrease -> disposition or attitude,1,1,1.0
+decision support system | use -> causes/decrease -> not_stated,1,1,1.0
+decision support system | use -> causes/no_change -> disposition or attitude,1,1,1.0
+decision support system | use -> causes/not_stated -> task performance,1,1,1.0
+decision support system | use -> mediates/decrease -> disposition or attitude,1,1,1.0
+decision support system | use -> mediates/increase -> disposition or attitude,1,1,1.0
+decision support system | use -> moderates/not_stated -> cognitive process,1,1,1.0
+decision support system | use -> no_relation/no_change -> cognitive process,1,1,1.0
+generative AI assistant | availability -> moderates/non_monotonic -> subjective experience,1,1,1.0
+generative AI assistant | availability -> no_relation/decrease -> cognitive process,1,1,1.0
+none (observational) | not_stated -> causes/not_stated -> physiological,1,1,1.0
+generative AI assistant | not_stated -> not_stated/decrease -> task performance,1,1,1.0
+generative AI assistant | not_stated -> causes/not_stated -> task performance,1,1,1.0
+generative AI assistant | not_stated -> mediates/not_applicable -> not_stated,1,1,1.0
+generative AI assistant | not_stated -> moderates/decrease -> task performance,1,1,1.0
+generative AI assistant | not_stated -> moderates/increase -> cognitive process,1,1,1.0
+generative AI assistant | not_stated -> moderates/increase -> subjective experience,1,1,1.0
+generative AI assistant | not_stated -> moderates/no_change -> task performance,1,1,1.0
+generative AI assistant | not_stated -> moderates/non_monotonic -> task performance,1,1,1.0
+generative AI assistant | not_stated -> moderates/not_applicable -> not_stated,1,1,1.0
+generative AI assistant | not_stated -> moderates/not_stated -> behavioural strategy,1,1,1.0
+generative AI assistant | not_stated -> moderates/not_stated -> subjective experience,1,1,1.0
+generative AI assistant | not_stated -> no_relation/not_applicable -> task performance,1,1,1.0
+generative AI assistant | not_stated -> not_stated/increase -> subjective experience,1,1,1.0
+generative AI assistant | availability -> no_relation/decrease -> disposition or attitude,1,1,1.0
+generative AI assistant | not_stated -> not_stated/no_change -> not_stated,1,1,1.0
+generative AI assistant | not_stated -> not_stated/no_change -> subjective experience,1,1,1.0
+generative AI assistant | not_stated -> not_stated/non_monotonic -> not_stated,1,1,1.0
+generative AI assistant | not_stated -> not_stated/non_monotonic -> subjective experience,1,1,1.0
+generative AI assistant | not_stated -> not_stated/non_monotonic -> task performance,1,1,1.0
+generative AI assistant | not_stated -> not_stated/not_applicable -> cognitive process,1,1,1.0
+generative AI assistant | not_stated -> not_stated/not_stated -> behavioural strategy,1,1,1.0
+generative AI assistant | reliance -> associates/decrease -> disposition or attitude,1,1,1.0
+generative AI assistant | reliance -> associates/decrease -> not_stated,1,1,1.0
+generative AI assistant | reliance -> associates/decrease -> subjective experience,1,1,1.0
+generative AI assistant | reliance -> associates/increase -> subjective experience,1,1,1.0
+generative AI assistant | not_stated -> causes/not_stated -> subjective experience,1,1,1.0
+generative AI assistant | not_stated -> causes/not_stated -> cognitive process,1,1,1.0
+generative AI assistant | not_stated -> causes/not_stated -> behavioural strategy,1,1,1.0
+generative AI assistant | not_stated -> causes/no_change -> disposition or attitude,1,1,1.0
+generative AI assistant | availability -> no_relation/decrease -> subjective experience,1,1,1.0
+generative AI assistant | availability -> no_relation/decrease -> task performance,1,1,1.0
+generative AI assistant | availability -> no_relation/no_change -> behavioural strategy,1,1,1.0
+generative AI assistant | availability -> no_relation/no_change -> disposition or attitude,1,1,1.0
+generative AI assistant | availability -> no_relation/not_applicable -> behavioural strategy,1,1,1.0
+generative AI assistant | availability -> no_relation/not_stated -> not_stated,1,1,1.0
+generative AI assistant | availability -> no_relation/not_stated -> subjective experience,1,1,1.0
+generative AI assistant | availability -> not_stated/increase -> task performance,1,1,1.0
+generative AI assistant | availability -> not_stated/no_change -> not_stated,1,1,1.0
+generative AI assistant | availability -> not_stated/no_change -> subjective experience,1,1,1.0
+generative AI assistant | availability -> not_stated/not_applicable -> task performance,3,1,3.0
+generative AI assistant | not_applicable -> no_relation/not_applicable -> disposition or attitude,1,1,1.0
+generative AI assistant | not_applicable -> not_stated/decrease -> not_stated,1,1,1.0
+generative AI assistant | not_applicable -> not_stated/non_monotonic -> not_stated,1,1,1.0
+generative AI assistant | not_applicable -> not_stated/non_monotonic -> task performance,1,1,1.0
+generative AI assistant | not_applicable -> not_stated/not_applicable -> task performance,1,1,1.0
+generative AI assistant | not_applicable -> not_stated/not_stated -> subjective experience,1,1,1.0
+generative AI assistant | not_stated -> associates/decrease -> behavioural strategy,1,1,1.0
+generative AI assistant | not_stated -> associates/decrease -> disposition or attitude,1,1,1.0
+generative AI assistant | not_stated -> associates/increase -> behavioural strategy,1,1,1.0
+generative AI assistant | not_stated -> associates/no_change -> disposition or attitude,1,1,1.0
+generative AI assistant | not_stated -> associates/non_monotonic -> cognitive process,1,1,1.0
+generative AI assistant | not_stated -> associates/not_stated -> subjective experience,1,1,1.0
+decision support system | not_stated -> no_relation/no_change -> task performance,1,1,1.0
+decision support system | not_stated -> no_relation/no_change -> not_stated,1,1,1.0
+decision support system | not_stated -> mediates/not_stated -> not_stated,1,1,1.0
+automation or autopilot | removal or withdrawal -> no_relation/no_change -> disposition or attitude,1,1,1.0
+automation or autopilot | not_stated -> no_relation/not_stated -> task performance,1,1,1.0
+automation or autopilot | not_stated -> not_stated/decrease -> not_stated,1,1,1.0
+automation or autopilot | not_stated -> not_stated/not_stated -> cognitive process,1,1,1.0
+automation or autopilot | not_stated -> not_stated/not_stated -> not_stated,1,1,1.0
+automation or autopilot | reliance -> associates/decrease -> cognitive process,1,1,1.0
+automation or autopilot | reliance -> causes/decrease -> task performance,1,1,1.0
+automation or autopilot | reliance -> causes/increase -> disposition or attitude,1,1,1.0
+automation or autopilot | reliance -> mediates/decrease -> behavioural strategy,1,1,1.0
+automation or autopilot | reliance -> mediates/increase -> cognitive process,1,1,1.0
+automation or autopilot | reliance -> mediates/increase -> task performance,1,1,1.0
+automation or autopilot | removal or withdrawal -> causes/decrease -> task performance,1,1,1.0
+automation or autopilot | use -> associates/decrease -> cognitive process,1,1,1.0
+decision support system | not_stated -> mediates/decrease -> disposition or attitude,1,1,1.0
+automation or autopilot | use -> associates/increase -> cognitive process,1,1,1.0
+automation or autopilot | use -> associates/increase -> disposition or attitude,1,1,1.0
+automation or autopilot | use -> causes/decrease -> disposition or attitude,1,1,1.0
+automation or autopilot | use -> causes/decrease -> not_stated,1,1,1.0
+automation or autopilot | use -> causes/decrease -> physiological,1,1,1.0
+automation or autopilot | use -> causes/increase -> disposition or attitude,2,1,2.0
+automation or autopilot | use -> causes/increase -> physiological,1,1,1.0
+automation or autopilot | use -> causes/no_change -> behavioural strategy,1,1,1.0
+automation or autopilot | use -> mediates/decrease -> cognitive process,1,1,1.0
+automation or autopilot | use -> mediates/increase -> cognitive process,1,1,1.0
+automation or autopilot | use -> mediates/increase -> subjective experience,1,1,1.0
+automation or autopilot | not_stated -> moderates/not_stated -> cognitive process,1,1,1.0
+automation or autopilot | not_stated -> moderates/not_applicable -> cognitive process,1,1,1.0
+automation or autopilot | not_stated -> moderates/non_monotonic -> cognitive process,1,1,1.0
+automation or autopilot | not_stated -> moderates/increase -> not_stated,1,1,1.0
+automation or autopilot | availability -> causes/decrease -> disposition or attitude,1,1,1.0
+automation or autopilot | availability -> causes/decrease -> task performance,1,1,1.0
+automation or autopilot | availability -> causes/increase -> not_stated,1,1,1.0
+automation or autopilot | availability -> causes/increase -> subjective experience,1,1,1.0
+automation or autopilot | availability -> causes/not_stated -> task performance,1,1,1.0
+automation or autopilot | availability -> mediates/increase -> not_stated,1,1,1.0
+automation or autopilot | availability -> mediates/increase -> task performance,1,1,1.0
+automation or autopilot | availability -> mediates/not_stated -> cognitive process,1,1,1.0
+automation or autopilot | availability -> mediates/not_stated -> subjective experience,1,1,1.0
+automation or autopilot | availability -> no_relation/decrease -> cognitive process,1,1,1.0
+automation or autopilot | availability -> no_relation/decrease -> disposition or attitude,1,1,1.0
+automation or autopilot | availability -> no_relation/no_change -> not_stated,1,1,1.0
+automation or autopilot | availability -> no_relation/no_change -> task performance,1,1,1.0
+automation or autopilot | availability -> not_stated/no_change -> behavioural strategy,1,1,1.0
+automation or autopilot | availability -> not_stated/not_stated -> subjective experience,1,1,1.0
+automation or autopilot | not_stated -> associates/increase -> behavioural strategy,1,1,1.0
+automation or autopilot | not_stated -> associates/no_change -> cognitive process,1,1,1.0
+automation or autopilot | not_stated -> associates/non_monotonic -> task performance,1,1,1.0
+automation or autopilot | not_stated -> causes/decrease -> task performance,1,1,1.0
+automation or autopilot | not_stated -> causes/increase -> not_stated,1,1,1.0
+automation or autopilot | not_stated -> contested/non_monotonic -> not_stated,1,1,1.0
+automation or autopilot | not_stated -> mediates/not_stated -> task performance,1,1,1.0
+automation or autopilot | not_stated -> moderates/decrease -> cognitive process,1,1,1.0
+automation or autopilot | use -> moderates/decrease -> task performance,1,1,1.0
+automation or autopilot | use -> no_relation/no_change -> task performance,1,1,1.0
+automation or autopilot | use -> no_relation/not_stated -> task performance,1,1,1.0
+calculator or single-purpose tool | use -> not_stated/not_stated -> task performance,1,1,1.0
+decision support system | availability -> associates/increase -> cognitive process,1,1,1.0
+decision support system | availability -> associates/increase -> physiological,1,1,1.0
+decision support system | availability -> associates/increase -> subjective experience,1,1,1.0
+decision support system | availability -> associates/non_monotonic -> behavioural strategy,1,1,1.0
+decision support system | availability -> associates/not_stated -> disposition or attitude,1,1,1.0
+decision support system | availability -> causes/decrease -> disposition or attitude,1,1,1.0
+decision support system | availability -> causes/decrease -> task performance,2,1,2.0
+decision support system | availability -> causes/no_change -> behavioural strategy,1,1,1.0
+decision support system | availability -> causes/no_change -> cognitive process,1,1,1.0
+decision support system | availability -> causes/no_change -> disposition or attitude,1,1,1.0
+decision support system | availability -> causes/not_stated -> behavioural strategy,1,1,1.0
+decision support system | availability -> mediates/decrease -> physiological,1,1,1.0
+decision support system | availability -> mediates/increase -> disposition or attitude,1,1,1.0
+decision support system | availability -> mediates/increase -> subjective experience,1,1,1.0
+decision support system | availability -> mediates/increase -> task performance,1,1,1.0
+decision support system | availability -> mediates/not_stated -> cognitive process,1,1,1.0
+decision support system | availability -> moderates/not_stated -> behavioural strategy,1,1,1.0
+decision support system | availability -> no_relation/not_applicable -> task performance,1,1,1.0
+decision support system | availability -> not_stated/not_applicable -> behavioural strategy,1,1,1.0
+decision support system | availability -> not_stated/not_applicable -> not_stated,1,1,1.0
+decision support system | availability -> not_stated/not_stated -> subjective experience,1,1,1.0
+decision support system | not_stated -> associates/no_change -> not_stated,1,1,1.0
+decision support system | not_stated -> causes/increase -> not_stated,1,1,1.0
+decision support system | availability -> associates/increase -> behavioural strategy,1,1,1.0
+calculator or single-purpose tool | use -> no_relation/no_change -> not_stated,1,1,1.0
+behavioural strategy | availability -> associates/increase -> task performance,1,1,1.0
+calculator or single-purpose tool | use -> no_relation/decrease -> cognitive process,1,1,1.0
+behavioural strategy | availability -> causes/decrease -> cognitive process,1,1,1.0
+behavioural strategy | not_stated -> associates/decrease -> behavioural strategy,1,1,1.0
+behavioural strategy | not_stated -> associates/decrease -> task performance,1,1,1.0
+behavioural strategy | not_stated -> associates/increase -> disposition or attitude,1,1,1.0
+behavioural strategy | not_stated -> associates/no_change -> cognitive process,1,1,1.0
+behavioural strategy | not_stated -> mediates/not_stated -> cognitive process,2,1,2.0
+behavioural strategy | reliance -> moderates/no_change -> cognitive process,1,1,1.0
+behavioural strategy | use -> associates/increase -> disposition or attitude,1,1,1.0
+behavioural strategy | use -> causes/decrease -> disposition or attitude,1,1,1.0
+behavioural strategy | use -> causes/increase -> subjective experience,1,1,1.0
+behavioural strategy | use -> moderates/decrease -> cognitive process,1,1,1.0
+calculator or single-purpose tool | availability -> causes/increase -> cognitive process,1,1,1.0
+calculator or single-purpose tool | availability -> causes/increase -> disposition or attitude,1,1,1.0
+calculator or single-purpose tool | availability -> causes/increase -> task performance,1,1,1.0
+calculator or single-purpose tool | availability -> mediates/increase -> task performance,1,1,1.0
+calculator or single-purpose tool | availability -> moderates/increase -> task performance,1,1,1.0
+calculator or single-purpose tool | use -> associates/decrease -> behavioural strategy,1,1,1.0
+calculator or single-purpose tool | use -> associates/increase -> behavioural strategy,1,1,1.0
+calculator or single-purpose tool | use -> associates/increase -> task performance,1,1,1.0
+calculator or single-purpose tool | use -> associates/no_change -> task performance,1,1,1.0
+calculator or single-purpose tool | use -> causes/decrease -> subjective experience,1,1,1.0
+calculator or single-purpose tool | use -> causes/increase -> cognitive process,1,1,1.0
+calculator or single-purpose tool | use -> causes/increase -> subjective experience,1,1,1.0
+generative AI assistant | reliance -> associates/no_change -> behavioural strategy,1,1,1.0
+generative AI assistant | reliance -> associates/not_stated -> disposition or attitude,1,1,1.0
+generative AI assistant | reliance -> associates/not_stated -> not_stated,1,1,1.0
+non-AI external aid | use -> moderates/not_stated -> task performance,1,1,1.0
+non-AI external aid | use -> mediates/not_stated -> behavioural strategy,1,1,1.0
+non-AI external aid | use -> mediates/not_stated -> disposition or attitude,1,1,1.0
+non-AI external aid | use -> moderates/decrease -> behavioural strategy,1,1,1.0
+non-AI external aid | use -> moderates/decrease -> cognitive process,1,1,1.0
+non-AI external aid | use -> moderates/decrease -> task performance,1,1,1.0
+non-AI external aid | use -> moderates/increase -> disposition or attitude,1,1,1.0
+non-AI external aid | use -> moderates/no_change -> behavioural strategy,1,1,1.0
+non-AI external aid | use -> moderates/no_change -> not_stated,1,1,1.0
+non-AI external aid | use -> moderates/non_monotonic -> not_stated,1,1,1.0
+non-AI external aid | use -> moderates/not_stated -> cognitive process,1,1,1.0
+non-AI external aid | use -> moderates/not_stated -> not_stated,1,1,1.0
+non-AI external aid | use -> no_relation/non_monotonic -> cognitive process,1,1,1.0
+non-AI external aid | not_stated -> mediates/increase -> disposition or attitude,1,1,1.0
+non-AI external aid | use -> no_relation/not_stated -> cognitive process,1,1,1.0
+non-AI external aid | use -> not_stated/decrease -> behavioural strategy,1,1,1.0
+non-AI external aid | use -> not_stated/increase -> cognitive process,1,1,1.0
+non-AI external aid | use -> not_stated/increase -> not_stated,1,1,1.0
+non-AI external aid | use -> not_stated/increase -> task performance,1,1,1.0
+non-AI external aid | use -> not_stated/no_change -> behavioural strategy,1,1,1.0
+non-AI external aid | use -> not_stated/no_change -> subjective experience,1,1,1.0
+non-AI external aid | use -> not_stated/not_stated -> behavioural strategy,1,1,1.0
+non-AI external aid | use -> not_stated/not_stated -> not_stated,1,1,1.0
+non-AI external aid | use -> not_stated/not_stated -> physiological,1,1,1.0
+none (observational) | availability -> associates/decrease -> task performance,1,1,1.0
+non-AI external aid | use -> mediates/increase -> subjective experience,1,1,1.0
+non-AI external aid | use -> mediates/increase -> not_stated,1,1,1.0
+non-AI external aid | use -> causes/not_stated -> task performance,1,1,1.0
+non-AI external aid | use -> causes/not_stated -> not_stated,1,1,1.0
+non-AI external aid | not_stated -> mediates/not_stated -> disposition or attitude,1,1,1.0
+non-AI external aid | not_stated -> moderates/decrease -> cognitive process,1,1,1.0
+non-AI external aid | not_stated -> moderates/increase -> behavioural strategy,1,1,1.0
+non-AI external aid | not_stated -> no_relation/no_change -> cognitive process,1,1,1.0
+non-AI external aid | not_stated -> no_relation/not_applicable -> task performance,1,1,1.0
+non-AI external aid | not_stated -> no_relation/not_stated -> disposition or attitude,1,1,1.0
+non-AI external aid | not_stated -> not_stated/increase -> not_stated,1,1,1.0
+non-AI external aid | not_stated -> not_stated/not_applicable -> not_stated,1,1,1.0
+non-AI external aid | reliance -> associates/decrease -> subjective experience,1,1,1.0
+non-AI external aid | reliance -> not_stated/not_stated -> behavioural strategy,1,1,1.0
+non-AI external aid | reliance -> not_stated/not_stated -> not_stated,1,1,1.0
+non-AI external aid | removal or withdrawal -> causes/increase -> cognitive process,1,1,1.0
+non-AI external aid | removal or withdrawal -> no_relation/no_change -> cognitive process,1,1,1.0
+non-AI external aid | use -> associates/decrease -> cognitive process,1,1,1.0
+non-AI external aid | use -> associates/decrease -> disposition or attitude,1,1,1.0
+non-AI external aid | use -> associates/decrease -> subjective experience,1,1,1.0
+non-AI external aid | use -> associates/increase -> disposition or attitude,1,1,1.0
+non-AI external aid | use -> associates/increase -> not_stated,1,1,1.0
+non-AI external aid | use -> associates/no_change -> not_stated,1,1,1.0
+non-AI external aid | use -> associates/non_monotonic -> behavioural strategy,1,1,1.0
+non-AI external aid | use -> causes/decrease -> not_stated,1,1,1.0
+non-AI external aid | use -> causes/non_monotonic -> subjective experience,1,1,1.0
+non-AI external aid | use -> causes/not_stated -> cognitive process,1,1,1.0
+none (observational) | availability -> associates/increase -> behavioural strategy,1,1,1.0
+none (observational) | availability -> associates/increase -> disposition or attitude,1,1,1.0
+none (observational) | availability -> associates/increase -> not_stated,1,1,1.0
+none (observational) | not_applicable -> moderates/not_stated -> task performance,1,1,1.0
+none (observational) | not_applicable -> no_relation/no_change -> cognitive process,1,1,1.0
+none (observational) | not_applicable -> no_relation/not_applicable -> task performance,1,1,1.0
+none (observational) | not_applicable -> no_relation/not_stated -> disposition or attitude,1,1,1.0
+none (observational) | not_applicable -> no_relation/not_stated -> not_stated,1,1,1.0
+none (observational) | not_applicable -> not_stated/decrease -> cognitive process,1,1,1.0
+none (observational) | not_applicable -> not_stated/decrease -> task performance,1,1,1.0
+none (observational) | not_applicable -> not_stated/no_change -> behavioural strategy,1,1,1.0
+none (observational) | not_applicable -> not_stated/not_applicable -> behavioural strategy,1,1,1.0
+none (observational) | not_applicable -> not_stated/not_stated -> cognitive process,1,1,1.0
+none (observational) | not_applicable -> not_stated/not_stated -> disposition or attitude,1,1,1.0
+none (observational) | not_applicable -> not_stated/not_stated -> not_stated,1,1,1.0
+none (observational) | not_applicable -> not_stated/not_stated -> subjective experience,1,1,1.0
+none (observational) | not_stated -> associates/decrease -> disposition or attitude,1,1,1.0
+none (observational) | not_stated -> associates/no_change -> behavioural strategy,1,1,1.0
+none (observational) | not_stated -> associates/no_change -> task performance,1,1,1.0
+none (observational) | not_stated -> associates/not_stated -> behavioural strategy,1,1,1.0
+none (observational) | not_stated -> associates/not_stated -> disposition or attitude,1,1,1.0
+none (observational) | not_stated -> causes/decrease -> cognitive process,1,1,1.0
+none (observational) | not_stated -> causes/decrease -> not_stated,1,1,1.0
+none (observational) | not_stated -> causes/decrease -> task performance,1,1,1.0
+none (observational) | not_stated -> causes/increase -> behavioural strategy,1,1,1.0
+none (observational) | not_stated -> causes/not_stated -> cognitive process,1,1,1.0
+none (observational) | not_stated -> causes/not_stated -> disposition or attitude,1,1,1.0
+none (observational) | not_applicable -> no_relation/increase -> task performance,1,1,1.0
+none (observational) | not_applicable -> moderates/not_stated -> subjective experience,1,1,1.0
+none (observational) | availability -> causes/increase -> behavioural strategy,1,1,1.0
+none (observational) | not_applicable -> moderates/not_stated -> not_stated,1,1,1.0
+none (observational) | availability -> causes/increase -> cognitive process,1,1,1.0
+none (observational) | availability -> causes/increase -> task performance,1,1,1.0
+none (observational) | availability -> moderates/no_change -> cognitive process,1,1,1.0
+none (observational) | not_applicable -> associates/decrease -> subjective experience,1,1,1.0
+none (observational) | not_applicable -> associates/increase -> physiological,1,1,1.0
+none (observational) | not_applicable -> associates/no_change -> subjective experience,1,1,1.0
+none (observational) | not_applicable -> associates/no_change -> task performance,1,1,1.0
+none (observational) | not_applicable -> associates/not_stated -> subjective experience,1,1,1.0
+none (observational) | not_applicable -> causes/decrease -> task performance,1,1,1.0
+none (observational) | not_applicable -> causes/not_stated -> task performance,1,1,1.0
+none (observational) | not_applicable -> mediates/decrease -> behavioural strategy,1,1,1.0
+none (observational) | not_applicable -> mediates/decrease -> cognitive process,1,1,1.0
+none (observational) | not_applicable -> mediates/decrease -> disposition or attitude,1,1,1.0
+none (observational) | not_applicable -> mediates/increase -> behavioural strategy,1,1,1.0
+none (observational) | not_applicable -> mediates/increase -> disposition or attitude,1,1,1.0
+none (observational) | not_applicable -> mediates/not_applicable -> behavioural strategy,1,1,1.0
+none (observational) | not_applicable -> mediates/not_stated -> not_stated,1,1,1.0
+none (observational) | not_applicable -> mediates/not_stated -> task performance,1,1,1.0
+none (observational) | not_applicable -> moderates/decrease -> disposition or attitude,1,1,1.0
+none (observational) | not_applicable -> moderates/decrease -> not_stated,1,1,1.0
+none (observational) | not_applicable -> moderates/decrease -> subjective experience,1,1,1.0
+none (observational) | not_applicable -> moderates/increase -> disposition or attitude,1,1,1.0
+none (observational) | not_applicable -> moderates/not_stated -> cognitive process,1,1,1.0
+non-AI external aid | not_stated -> mediates/not_stated -> cognitive process,1,1,1.0
+non-AI external aid | not_stated -> causes/not_stated -> task performance,1,1,1.0
+generative AI assistant | reliance -> causes/decrease -> behavioural strategy,1,1,1.0
+generative AI assistant | use -> moderates/decrease -> behavioural strategy,1,1,1.0
+generative AI assistant | use -> causes/no_change -> behavioural strategy,1,1,1.0
+generative AI assistant | use -> causes/non_monotonic -> not_stated,1,1,1.0
+generative AI assistant | use -> causes/non_monotonic -> subjective experience,1,1,1.0
+generative AI assistant | use -> causes/non_monotonic -> task performance,1,1,1.0
+generative AI assistant | use -> causes/not_stated -> not_stated,1,1,1.0
+generative AI assistant | use -> causes/not_stated -> physiological,1,1,1.0
+generative AI assistant | use -> causes/not_stated -> task performance,1,1,1.0
+generative AI assistant | use -> mediates/decrease -> physiological,1,1,1.0
+generative AI assistant | use -> mediates/non_monotonic -> behavioural strategy,1,1,1.0
+generative AI assistant | use -> mediates/non_monotonic -> subjective experience,1,1,1.0
+generative AI assistant | use -> mediates/not_stated -> disposition or attitude,1,1,1.0
+generative AI assistant | use -> moderates/decrease -> disposition or attitude,1,1,1.0
+non-AI external aid | not_stated -> causes/decrease -> not_stated,1,1,1.0
+generative AI assistant | use -> moderates/decrease -> subjective experience,1,1,1.0
+generative AI assistant | use -> moderates/increase -> behavioural strategy,1,1,1.0
+generative AI assistant | use -> moderates/no_change -> cognitive process,1,1,1.0
+generative AI assistant | use -> moderates/no_change -> task performance,1,1,1.0
+generative AI assistant | use -> moderates/non_monotonic -> cognitive process,1,1,1.0
+generative AI assistant | use -> moderates/non_monotonic -> not_stated,1,1,1.0
+generative AI assistant | use -> moderates/not_applicable -> not_stated,1,1,1.0
+generative AI assistant | use -> moderates/not_stated -> disposition or attitude,1,1,1.0
+generative AI assistant | use -> no_relation/decrease -> behavioural strategy,1,1,1.0
+generative AI assistant | use -> no_relation/decrease -> cognitive process,1,1,1.0
+generative AI assistant | use -> no_relation/decrease -> disposition or attitude,1,1,1.0
+generative AI assistant | use -> causes/increase -> mixed or multiple,1,1,1.0
+generative AI assistant | use -> associates/not_stated -> not_stated,1,1,1.0
+generative AI assistant | use -> associates/non_monotonic -> subjective experience,1,1,1.0
+generative AI assistant | use -> associates/non_monotonic -> not_stated,1,1,1.0
+generative AI assistant | reliance -> causes/decrease -> task performance,1,1,1.0
+generative AI assistant | reliance -> causes/increase -> disposition or attitude,1,1,1.0
+generative AI assistant | reliance -> causes/increase -> not_stated,1,1,1.0
+generative AI assistant | reliance -> causes/no_change -> disposition or attitude,1,1,1.0
+generative AI assistant | reliance -> mediates/increase -> disposition or attitude,1,1,1.0
+generative AI assistant | reliance -> moderates/decrease -> task performance,1,1,1.0
+generative AI assistant | reliance -> moderates/increase -> cognitive process,1,1,1.0
+generative AI assistant | reliance -> moderates/not_stated -> disposition or attitude,1,1,1.0
+generative AI assistant | reliance -> not_stated/increase -> disposition or attitude,1,1,1.0
+generative AI assistant | reliance -> not_stated/increase -> subjective experience,1,1,1.0
+generative AI assistant | reliance -> not_stated/not_stated -> behavioural strategy,1,1,1.0
+generative AI assistant | reliance -> not_stated/not_stated -> disposition or attitude,1,1,1.0
+generative AI assistant | reliance -> not_stated/not_stated -> subjective experience,1,1,1.0
+generative AI assistant | removal or withdrawal -> associates/decrease -> not_stated,1,1,1.0
+generative AI assistant | removal or withdrawal -> associates/decrease -> task performance,1,1,1.0
+generative AI assistant | removal or withdrawal -> associates/increase -> behavioural strategy,1,1,1.0
+generative AI assistant | removal or withdrawal -> associates/increase -> task performance,1,1,1.0
+generative AI assistant | removal or withdrawal -> causes/decrease -> cognitive process,1,1,1.0
+generative AI assistant | removal or withdrawal -> causes/increase -> behavioural strategy,1,1,1.0
+generative AI assistant | removal or withdrawal -> not_stated/no_change -> behavioural strategy,1,1,1.0
+generative AI assistant | use -> associates/increase -> mixed or multiple,1,1,1.0
+generative AI assistant | use -> associates/increase -> physiological,1,1,1.0
+generative AI assistant | use -> associates/no_change -> physiological,1,1,1.0
+generative AI assistant | use -> no_relation/decrease -> subjective experience,1,1,1.0
+generative AI assistant | use -> no_relation/non_monotonic -> not_stated,1,1,1.0
+generative AI assistant | use -> no_relation/not_applicable -> cognitive process,1,1,1.0
+non-AI external aid | availability -> mediates/decrease -> not_stated,1,1,1.0
+non-AI external aid | availability -> mediates/increase -> not_stated,1,1,1.0
+non-AI external aid | availability -> mediates/not_stated -> disposition or attitude,1,1,1.0
+non-AI external aid | availability -> mediates/not_stated -> not_stated,1,1,1.0
+non-AI external aid | availability -> moderates/decrease -> behavioural strategy,1,1,1.0
+non-AI external aid | availability -> moderates/decrease -> not_stated,1,1,1.0
+non-AI external aid | availability -> moderates/increase -> behavioural strategy,1,1,1.0
+non-AI external aid | availability -> moderates/increase -> cognitive process,1,1,1.0
+non-AI external aid | availability -> no_relation/no_change -> disposition or attitude,1,1,1.0
+non-AI external aid | availability -> no_relation/not_applicable -> task performance,1,1,1.0
+non-AI external aid | availability -> no_relation/not_stated -> task performance,1,1,1.0
+non-AI external aid | availability -> not_stated/increase -> cognitive process,1,1,1.0
+non-AI external aid | availability -> not_stated/increase -> subjective experience,1,1,1.0
+non-AI external aid | availability -> not_stated/non_monotonic -> subjective experience,1,1,1.0
+non-AI external aid | availability -> not_stated/not_applicable -> behavioural strategy,1,1,1.0
+automation or autopilot | availability -> associates/increase -> disposition or attitude,1,1,1.0
+non-AI external aid | availability -> not_stated/not_stated -> subjective experience,1,1,1.0
+non-AI external aid | not_applicable -> mediates/increase -> disposition or attitude,1,1,1.0
+non-AI external aid | not_applicable -> moderates/increase -> disposition or attitude,1,1,1.0
+non-AI external aid | not_stated -> associates/decrease -> not_stated,1,1,1.0
+non-AI external aid | not_stated -> associates/increase -> not_stated,1,1,1.0
+non-AI external aid | not_stated -> associates/increase -> subjective experience,1,1,1.0
+non-AI external aid | not_stated -> associates/increase -> task performance,1,1,1.0
+non-AI external aid | not_stated -> associates/no_change -> not_stated,1,1,1.0
+non-AI external aid | availability -> mediates/increase -> disposition or attitude,1,1,1.0
+non-AI external aid | availability -> mediates/decrease -> disposition or attitude,1,1,1.0
+generative AI assistant | use -> no_relation/not_applicable -> not_stated,1,1,1.0
+non-AI external aid | availability -> causes/not_stated -> subjective experience,1,1,1.0
+generative AI assistant | use -> no_relation/not_stated -> behavioural strategy,1,1,1.0
+generative AI assistant | use -> no_relation/not_stated -> disposition or attitude,1,1,1.0
+generative AI assistant | use -> no_relation/not_stated -> not_stated,1,1,1.0
+generative AI assistant | use -> not_stated/decrease -> cognitive process,1,1,1.0
+generative AI assistant | use -> not_stated/decrease -> subjective experience,1,1,1.0
+generative AI assistant | use -> not_stated/increase -> cognitive process,1,1,1.0
+generative AI assistant | use -> not_stated/no_change -> disposition or attitude,1,1,1.0
+generative AI assistant | use -> not_stated/no_change -> physiological,1,1,1.0
+generative AI assistant | use -> not_stated/non_monotonic -> cognitive process,1,1,1.0
+generative AI assistant | use -> not_stated/non_monotonic -> task performance,1,1,1.0
+generative AI assistant | use -> not_stated/not_applicable -> subjective experience,1,1,1.0
+non-AI external aid | availability -> associates/decrease -> task performance,1,1,1.0
+non-AI external aid | availability -> associates/no_change -> behavioural strategy,1,1,1.0
+non-AI external aid | availability -> associates/no_change -> cognitive process,1,1,1.0
+non-AI external aid | availability -> associates/no_change -> subjective experience,1,1,1.0
+non-AI external aid | availability -> associates/non_monotonic -> subjective experience,1,1,1.0
+non-AI external aid | availability -> associates/not_stated -> not_stated,1,1,1.0
+non-AI external aid | availability -> associates/not_stated -> physiological,1,1,1.0
+non-AI external aid | availability -> associates/not_stated -> task performance,1,1,1.0
+non-AI external aid | availability -> causes/increase -> physiological,1,1,1.0
+non-AI external aid | availability -> causes/no_change -> behavioural strategy,1,1,1.0
+non-AI external aid | availability -> causes/no_change -> cognitive process,1,1,1.0
+non-AI external aid | availability -> causes/no_change -> not_stated,1,1,1.0
+search or retrieval system | use -> moderates/increase -> cognitive process,1,1,1.0

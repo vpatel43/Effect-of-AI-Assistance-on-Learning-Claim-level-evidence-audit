@@ -1,0 +1,26 @@
+object_type,measurement_horizon,population_setting,claims,harm_share,tested_all,benefit_claims,benefit_tested
+behavioural strategy,not stated,education,58,0.328,0.052,39.0,0.077
+behavioural strategy,not stated,not stated,90,0.467,0.067,48.0,0.104
+cognitive process,delayed,education,31,0.065,0.516,29.0,0.552
+cognitive process,delayed,not stated,26,0.346,0.346,17.0,0.471
+cognitive process,longitudinal,not stated,25,0.36,0.28,16.0,0.438
+cognitive process,not stated,clinical,49,0.204,0.122,39.0,0.154
+cognitive process,not stated,education,336,0.119,0.113,296.0,0.122
+cognitive process,not stated,not stated,617,0.251,0.13,462.0,0.16
+disposition or attitude,not stated,education,150,0.12,0.213,132.0,0.235
+disposition or attitude,not stated,not stated,215,0.284,0.228,154.0,0.286
+not stated,not stated,clinical,22,0.273,0.045,16.0,0.062
+not stated,not stated,education,160,0.269,0.069,117.0,0.094
+not stated,not stated,not stated,137,0.285,0.029,98.0,0.041
+subjective experience,immediate,education,31,0.161,0.548,26.0,0.538
+subjective experience,not stated,education,169,0.065,0.16,158.0,0.171
+subjective experience,not stated,not stated,184,0.19,0.158,149.0,0.181
+task performance,delayed,education,95,0.084,0.568,87.0,0.575
+task performance,delayed,not stated,48,0.188,0.312,39.0,0.308
+task performance,immediate,clinical,56,0.143,0.75,48.0,0.812
+task performance,immediate,education,65,0.077,0.738,60.0,0.783
+task performance,immediate,laboratory,34,0.265,0.235,25.0,0.28
+task performance,immediate,not stated,46,0.174,0.457,38.0,0.447
+task performance,not stated,clinical,77,0.13,0.286,67.0,0.313
+task performance,not stated,education,336,0.057,0.304,317.0,0.319
+task performance,not stated,not stated,406,0.128,0.271,354.0,0.297

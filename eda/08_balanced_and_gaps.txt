@@ -1,0 +1,441 @@
+
+========================================================================================================
+weighting schemes
+========================================================================================================
+          total weight
+raw             6063.0
+paper-wt        1402.0
+balanced        1402.0
+
+evidence_type share of total weight:
+                raw  paper-wt  balanced
+evidence_type                          
+D              60.2      60.8      33.3
+M              10.1       9.1      33.3
+T              29.6      30.1      33.3
+
+========================================================================================================
+STANDARDISED — valence (stated claims only)
+========================================================================================================
+            raw_%  paper_wt_%  balanced_%  shift_pp
+valence                                            
+beneficial   62.2        62.9        67.1       4.9
+neutral      21.1        20.7        18.5      -2.6
+harmful      14.8        14.4        12.4      -2.3
+contested     1.9         2.0         2.0       0.1
+
+========================================================================================================
+STANDARDISED — relation (stated claims only)
+========================================================================================================
+             raw_%  paper_wt_%  balanced_%  shift_pp
+relation                                            
+causes        59.4        60.5        64.1       4.7
+associates    18.9        18.3        16.2      -2.7
+mediates       9.4         9.1        10.0       0.5
+moderates      6.6         6.5         5.9      -0.7
+no relation    5.6         5.5         3.8      -1.8
+contested      0.0         0.0         0.0       0.0
+
+========================================================================================================
+STANDARDISED — direction (stated claims only)
+========================================================================================================
+               raw_%  paper_wt_%  balanced_%  shift_pp
+direction                                             
+increase        71.1        72.0        75.2       4.1
+decrease        19.1        18.1        17.1      -2.0
+no change        7.8         7.7         5.5      -2.3
+non monotonic    2.0         2.2         2.2       0.2
+
+========================================================================================================
+STANDARDISED — object_type (stated claims only)
+========================================================================================================
+                         raw_%  paper_wt_%  balanced_%  shift_pp
+object_type                                                     
+task performance          33.4        34.7        41.8       8.4
+cognitive process         30.0        30.8        26.7      -3.4
+subjective experience     12.3        11.9        12.4       0.1
+disposition or attitude   13.5        12.3        10.2      -3.3
+behavioural strategy       9.8         9.5         8.1      -1.8
+physiological              0.8         0.6         0.7      -0.1
+mixed                      0.0         0.1         0.0       0.0
+behavioral strategy        0.0         0.0         0.0      -0.0
+mixed or multiple          0.0         0.0         0.0      -0.0
+
+========================================================================================================
+STANDARDISED — subject_type (stated claims only)
+========================================================================================================
+                                   raw_%  paper_wt_%  balanced_%  shift_pp
+subject_type                                                              
+generative ai assistant             68.1        66.3        67.9      -0.2
+non ai external aid                 16.0        16.5        15.6      -0.5
+decision support system              6.3         7.4         8.0       1.6
+none (observational)                 5.6         5.4         4.3      -1.3
+automation or autopilot              2.6         3.0         2.9       0.3
+search or retrieval system           0.4         0.5         0.6       0.1
+calculator or single purpose tool    0.3         0.4         0.4       0.1
+behavioural strategy                 0.6         0.5         0.4      -0.2
+removal or withdrawal                0.0         0.0         0.0      -0.0
+
+========================================================================================================
+STANDARDISED — subject_mode (stated claims only)
+========================================================================================================
+                        raw_%  paper_wt_%  balanced_%  shift_pp
+subject_mode                                                   
+use                      66.6        67.2        70.3       3.7
+availability             28.9        28.4        25.9      -3.0
+reliance                  3.3         3.2         2.7      -0.6
+removal or withdrawal     1.1         1.0         0.9      -0.2
+participation             0.0         0.0         0.1       0.1
+replacement or removal    0.0         0.0         0.0      -0.0
+
+========================================================================================================
+STANDARDISED — population_setting (stated claims only)
+========================================================================================================
+                          raw_%  paper_wt_%  balanced_%  shift_pp
+population_setting                                               
+education                  75.8        77.7        75.1      -0.7
+clinical                   14.3        12.6        16.9       2.6
+laboratory                  4.8         4.9         3.6      -1.3
+workplace                   4.0         3.7         3.5      -0.5
+everyday or naturalistic    0.9         1.0         0.9      -0.0
+mixed or multiple           0.1         0.1         0.0      -0.1
+
+========================================================================================================
+STANDARDISED — population_role (stated claims only)
+========================================================================================================
+                             raw_%  paper_wt_%  balanced_%  shift_pp
+population_role                                                     
+students                      77.7        79.3        77.3      -0.4
+clinicians or professionals   14.0        12.7        15.6       1.6
+children                       2.7         2.8         2.5      -0.2
+workers                        3.1         2.8         2.4      -0.7
+general adults                 1.5         1.3         1.1      -0.3
+mixed or multiple              0.8         1.0         0.9       0.1
+patients                       0.1         0.1         0.1       0.0
+older adults                   0.1         0.1         0.1      -0.0
+
+========================================================================================================
+STANDARDISED — measurement_horizon (stated claims only)
+========================================================================================================
+                     raw_%  paper_wt_%  balanced_%  shift_pp
+measurement_horizon                                         
+immediate             45.0        44.3        47.9       3.0
+delayed               36.7        37.7        39.5       2.8
+longitudinal          18.3        18.0        12.5      -5.8
+
+========================================================================================================
+STANDARDISED — statistical_marking (stated claims only)
+========================================================================================================
+                     raw_%  paper_wt_%  balanced_%  shift_pp
+statistical_marking                                         
+significant           84.6        85.1        92.8       8.2
+not significant       15.4        14.9         7.2      -8.2
+
+========================================================================================================
+STANDARDISED — epistemic_strength (stated claims only)
+========================================================================================================
+                    raw_%  paper_wt_%  balanced_%  shift_pp
+epistemic_strength                                         
+asserted             84.6        82.9        86.0       1.4
+hedged                9.6        10.3         8.4      -1.2
+speculative           5.9         6.9         5.7      -0.2
+
+========================================================================================================
+STANDARDISED — share of claims with each field stated
+========================================================================================================
+                     raw_%  paper_wt_%  balanced_%  shift_pp
+relation              86.2        85.8        84.6      -1.6
+direction             80.7        80.7        79.5      -1.3
+valence               83.1        83.5        82.1      -1.0
+object_type           85.0        85.0        85.8       0.7
+population_setting    44.6        47.2        49.4       4.8
+measurement_horizon   15.9        16.1        21.5       5.6
+statistical_marking   19.9        19.6        29.0       9.1
+
+========================================================================================================
+gap analysis sample
+========================================================================================================
+2102 claims (34.7%) from 981 papers state all three of subject_type, object_type, population_setting
+cell space: 8 x 9 x 6 = 432 cells
+
+========================================================================================================
+HIDDEN GAPS — expected >= 3 claims, observed/expected <= 0.4, ranked by the shortfall (expected - observed)
+========================================================================================================
+                                                                          obs_claims  obs_papers  expected_claims  ratio  pct_directional  pct_taxonomic  n_sig_marked  shortfall
+subject_type            object_type             population_setting                                                                                                               
+generative ai assistant task performance        laboratory                         9           9             32.2   0.28             67.0           11.0             2       23.2
+                        cognitive process       laboratory                         1           1             20.2   0.05            100.0            0.0             0       19.2
+                        subjective experience   clinical                          10           9             27.5   0.36             90.0            0.0             3       17.5
+                        disposition or attitude clinical                           8           7             23.7   0.34             88.0            0.0             0       15.7
+decision support system disposition or attitude education                          6           6             15.2   0.39             83.0           17.0             2        9.2
+generative ai assistant disposition or attitude laboratory                         1           1              8.3   0.12            100.0            0.0             0        7.3
+                        subjective experience   laboratory                         3           3              9.6   0.31             67.0            0.0             1        6.6
+automation or autopilot cognitive process       education                          4           4             10.5   0.38             75.0           25.0             1        6.5
+generative ai assistant physiological           education                          2           2              8.0   0.25             50.0           50.0             0        6.0
+                        subjective experience   workplace                          2           2              7.3   0.27             50.0            0.0             0        5.3
+                        task performance        everyday or naturalistic           1           1              6.0   0.17              0.0          100.0             0        5.0
+                        behavioural strategy    laboratory                         1           1              5.8   0.17            100.0            0.0             0        4.8
+non ai external aid     disposition or attitude clinical                           1           1              5.7   0.18            100.0            0.0             0        4.7
+                        behavioural strategy    clinical                           1           1              4.0   0.25              0.0            0.0             1        3.0
+generative ai assistant cognitive process       everyday or naturalistic           1           1              3.8   0.26              0.0          100.0             0        2.8
+decision support system subjective experience   clinical                           1           1              3.7   0.27              0.0            0.0             0        2.7
+automation or autopilot behavioural strategy    education                          1           1              3.0   0.33            100.0            0.0             0        2.0
+
+========================================================================================================
+EMPTY CELLS with the largest marginal promise (observed 0)
+========================================================================================================
+                                                                        obs_claims  obs_papers  expected_claims  ratio  pct_directional  pct_taxonomic  n_sig_marked
+subject_type            object_type           population_setting                                                                                                    
+decision support system cognitive process     workplace                          0           0              2.0    0.0              NaN            NaN             0
+generative ai assistant subjective experience everyday or naturalistic           0           0              1.8    0.0              NaN            NaN             0
+
+========================================================================================================
+THIN CELLS — <=2 papers but non-trivial marginal promise (expected >= 3)
+========================================================================================================
+                                                                          obs_claims  obs_papers  expected_claims  ratio  pct_directional  pct_taxonomic  n_sig_marked
+subject_type            object_type             population_setting                                                                                                    
+generative ai assistant cognitive process       laboratory                         1           1             20.2   0.05            100.0            0.0             0
+                        disposition or attitude laboratory                         1           1              8.3   0.12            100.0            0.0             0
+                        physiological           education                          2           2              8.0   0.25             50.0           50.0             0
+                        subjective experience   workplace                          2           2              7.3   0.27             50.0            0.0             0
+                        task performance        everyday or naturalistic           1           1              6.0   0.17              0.0          100.0             0
+                        behavioural strategy    laboratory                         1           1              5.8   0.17            100.0            0.0             0
+non ai external aid     disposition or attitude clinical                           1           1              5.7   0.18            100.0            0.0             0
+automation or autopilot disposition or attitude education                          2           1              4.3   0.47            100.0            0.0             0
+non ai external aid     behavioural strategy    clinical                           1           1              4.0   0.25              0.0            0.0             1
+generative ai assistant cognitive process       everyday or naturalistic           1           1              3.8   0.26              0.0          100.0             0
+decision support system subjective experience   clinical                           1           1              3.7   0.27              0.0            0.0             0
+automation or autopilot behavioural strategy    education                          1           1              3.0   0.33            100.0            0.0             0
+
+========================================================================================================
+EVIDENCE-THIN CELLS — >=8 claims, >=3 papers, but 0 significance-marked
+========================================================================================================
+                                                                    obs_claims  obs_papers  expected_claims  ratio  pct_directional  pct_taxonomic  n_sig_marked
+subject_type            object_type             population_setting                                                                                              
+non ai external aid     behavioural strategy    education                   17          14             19.2   0.89             59.0           29.0             0
+none (observational)    cognitive process       education                   10           9             13.3   0.75             50.0           50.0             0
+generative ai assistant disposition or attitude workplace                    9           7              6.3   1.43             78.0           22.0             0
+                                                clinical                     8           7             23.7   0.34             88.0            0.0             0
+non ai external aid     cognitive process       workplace                    8           7              3.7   2.16             50.0           50.0             0
+decision support system cognitive process       clinical                     8           7              7.7   1.04             50.0           38.0             0
+
+========================================================================================================
+TAXONOMIC-HEAVY CELLS — >=8 claims, >=40% taxonomic claims
+========================================================================================================
+                                                                 obs_claims  obs_papers  expected_claims  ratio  pct_directional  pct_taxonomic  n_sig_marked
+subject_type            object_type          population_setting                                                                                              
+generative ai assistant behavioural strategy education                   68          64             79.5   0.86             44.0           50.0             2
+decision support system cognitive process    education                   28          25             37.1   0.75             46.0           50.0             5
+                        behavioural strategy education                   15          13             10.6   1.42             47.0           40.0             3
+generative ai assistant cognitive process    workplace                   10           9             15.4   0.65             60.0           40.0             1
+none (observational)    cognitive process    education                   10           9             13.3   0.75             50.0           50.0             0
+non ai external aid     cognitive process    workplace                    8           7              3.7   2.16             50.0           50.0             0
+
+========================================================================================================
+the populated core, for contrast (top 20 cells by papers)
+========================================================================================================
+                                                                    obs_claims  obs_papers  expected_claims  ratio  pct_directional  pct_taxonomic  n_sig_marked
+subject_type            object_type             population_setting                                                                                              
+generative ai assistant task performance        education                  425         307            443.0   0.96             66.0           14.0           156
+                        cognitive process       education                  317         250            278.6   1.14             61.0           32.0            46
+                        subjective experience   education                  201         154            132.3   1.52             67.0           17.0            36
+                        disposition or attitude education                  148         120            114.2   1.30             71.0           24.0            32
+non ai external aid     task performance        education                   87          77            107.0   0.81             68.0            9.0            25
+generative ai assistant task performance        clinical                   111          65             92.0   1.21             54.0           15.0            40
+                        behavioural strategy    education                   68          64             79.5   0.86             44.0           50.0             2
+non ai external aid     cognitive process       education                   64          55             67.3   0.95             58.0           39.0             5
+decision support system task performance        education                   54          40             58.9   0.92             72.0           13.0            14
+generative ai assistant cognitive process       clinical                    45          38             57.8   0.78             62.0           31.0             9
+decision support system task performance        clinical                    47          29             12.2   3.85             47.0            9.0            22
+non ai external aid     disposition or attitude education                   32          28             27.6   1.16             75.0           25.0             4
+                        task performance        laboratory                  31          25              7.8   3.97             90.0            0.0             7
+decision support system cognitive process       education                   28          25             37.1   0.75             46.0           50.0             5
+non ai external aid     subjective experience   education                   21          20             32.0   0.66             62.0           29.0             6
+                        task performance        clinical                    21          17             22.2   0.95             57.0           19.0             9
+generative ai assistant task performance        workplace                   24          16             24.5   0.98             67.0           12.0             3
+non ai external aid     behavioural strategy    education                   17          14             19.2   0.89             59.0           29.0             0
+decision support system behavioural strategy    education                   15          13             10.6   1.42             47.0           40.0             3
+none (observational)    task performance        education                   11          11             21.1   0.52             64.0           27.0             2
+
+========================================================================================================
+object_type x measurement_horizon — unique papers
+========================================================================================================
+measurement_horizon      delayed  immediate  longitudinal
+object_type                                              
+behavioral strategy            0          0             1
+behavioural strategy          22         37            19
+cognitive process             67         41            54
+disposition or attitude       28         19            16
+physiological                  2          9             3
+subjective experience         14         56             8
+task performance             154        179            44
+
+========================================================================================================
+object_type x measurement_horizon — observed/expected claims (<0.5 = hidden gap)
+========================================================================================================
+measurement_horizon      delayed  immediate  longitudinal
+object_type                                              
+behavioral strategy         0.00       0.00          5.75
+behavioural strategy        0.79       1.03          1.37
+cognitive process           1.15       0.52          1.94
+disposition or attitude     1.26       0.65          1.35
+physiological               0.30       1.60          0.96
+subjective experience       0.42       1.57          0.77
+task performance            1.08       1.10          0.56
+
+========================================================================================================
+object_type x population_role — unique papers
+========================================================================================================
+population_role          children  clinicians or professionals  general adults  mixed or multiple  older adults  patients  students  workers
+object_type                                                                                                                                 
+behavioral strategy             0                            0               0                  0             0         0         1        0
+behavioural strategy           13                           27               8                  1             1         0       130       10
+cognitive process              17                           58              11                  3             1         0       359       17
+disposition or attitude         4                           26               3                  4             0         0       205        9
+mixed                           0                            0               0                  0             0         0         1        0
+mixed or multiple               0                            0               0                  0             0         0         1        0
+physiological                   1                            5               0                  0             0         0         1        0
+subjective experience           3                           16               5                  1             0         1       248        3
+task performance               11                          111               6                  8             0         1       434       23
+
+========================================================================================================
+object_type x population_role — observed/expected claims (<0.5 = hidden gap)
+========================================================================================================
+population_role          children  clinicians or professionals  general adults  mixed or multiple  older adults  patients  students  workers
+object_type                                                                                                                                 
+behavioral strategy          0.00                         0.00            0.00               0.00          0.00      0.00      1.29     0.00
+behavioural strategy         3.15                         0.91            2.25               0.59          6.68      0.00      0.90     1.28
+cognitive process            1.21                         0.81            1.34               0.68          1.28      0.00      1.02     1.08
+disposition or attitude      0.75                         0.68            0.56               1.77          0.00      0.00      1.06     1.16
+mixed                        0.00                         0.00            0.00               0.00          0.00      0.00      1.29     0.00
+mixed or multiple            0.00                         0.00            0.00               0.00          0.00      0.00      1.29     0.00
+physiological                5.07                         5.21            0.00               0.00          0.00      0.00      0.18     0.00
+subjective experience        0.30                         0.39            0.88               0.41          0.00      2.33      1.17     0.27
+task performance             0.59                         1.49            0.62               1.31          0.00      1.85      0.93     1.10
+
+========================================================================================================
+subject_type x measurement_horizon — unique papers
+========================================================================================================
+measurement_horizon                delayed  immediate  longitudinal
+subject_type                                                       
+automation or autopilot                  3         17             6
+behavioural strategy                     2          3             1
+calculator or single purpose tool        2          2             1
+decision support system                 20         35            11
+generative ai assistant                146        141            66
+non ai external aid                     60         80            23
+none (observational)                    15         18            16
+removal or withdrawal                    0          1             0
+search or retrieval system               1          2             0
+
+========================================================================================================
+subject_type x measurement_horizon — observed/expected claims (<0.5 = hidden gap)
+========================================================================================================
+measurement_horizon                delayed  immediate  longitudinal
+subject_type                                                       
+automation or autopilot               0.38       1.31          1.55
+behavioural strategy                  1.15       0.92          0.89
+calculator or single purpose tool     0.89       1.08          1.03
+decision support system               0.68       1.30          0.86
+generative ai assistant               1.09       0.92          1.00
+non ai external aid                   1.04       1.06          0.73
+none (observational)                  0.86       0.77          1.99
+removal or withdrawal                 0.00       2.15          0.00
+search or retrieval system            0.67       1.62          0.00
+
+========================================================================================================
+population_setting x measurement_horizon — unique papers
+========================================================================================================
+measurement_horizon       delayed  immediate  longitudinal
+population_setting                                        
+clinical                       25         48            17
+education                     137        107            39
+everyday or naturalistic        2          2             3
+laboratory                     16         64             5
+workplace                       6          4             5
+
+========================================================================================================
+population_setting x measurement_horizon — observed/expected claims (<0.5 = hidden gap)
+========================================================================================================
+measurement_horizon       delayed  immediate  longitudinal
+population_setting                                        
+clinical                     0.70       1.17          1.21
+education                    1.26       0.81          0.99
+everyday or naturalistic     0.76       0.57          3.44
+laboratory                   0.48       1.54          0.38
+workplace                    1.17       0.50          2.51
+
+========================================================================================================
+horizon cube sample
+========================================================================================================
+530 claims (8.7%) from 344 papers state outcome, population AND horizon
+
+========================================================================================================
+horizon cube — every cell with expected >= 2, sorted by shortfall
+========================================================================================================
+                                                                         obs_claims  obs_papers  expected  ratio  shortfall
+object_type             population_role             measurement_horizon                                                    
+task performance        students                    immediate                    77          64      93.9   0.82       16.9
+cognitive process       students                    immediate                    12          11      27.9   0.43       15.9
+task performance        students                    longitudinal                 14          14      26.9   0.52       12.9
+subjective experience   students                    delayed                       8           8      16.0   0.50        8.0
+task performance        clinicians or professionals delayed                      18          13      25.5   0.71        7.5
+behavioural strategy    students                    delayed                       8           7      13.3   0.60        5.3
+cognitive process       clinicians or professionals immediate                     4           4       9.2   0.43        5.2
+disposition or attitude students                    immediate                     8           8      12.7   0.63        4.7
+subjective experience   clinicians or professionals delayed                       1           1       5.3   0.19        4.3
+behavioural strategy    clinicians or professionals immediate                     2           2       5.4   0.37        3.4
+subjective experience   clinicians or professionals immediate                     3           3       6.4   0.47        3.4
+task performance        children                    delayed                       1           1       3.8   0.26        2.8
+subjective experience   students                    longitudinal                  3           3       5.6   0.54        2.6
+behavioural strategy    clinicians or professionals delayed                       2           2       4.4   0.45        2.4
+disposition or attitude clinicians or professionals immediate                     2           2       4.2   0.48        2.2
+task performance        children                    immediate                     3           3       4.7   0.64        1.7
+disposition or attitude clinicians or professionals delayed                       2           2       3.4   0.59        1.4
+task performance        workers                     delayed                       2           2       2.8   0.71        0.8
+                                                    immediate                     3           3       3.4   0.88        0.4
+                        clinicians or professionals longitudinal                  9           9       8.9   1.01       -0.1
+cognitive process       clinicians or professionals delayed                       8           7       7.6   1.05       -0.4
+behavioural strategy    students                    immediate                    17          14      16.2   1.05       -0.8
+task performance        general adults              immediate                     4           3       2.3   1.74       -1.7
+behavioural strategy    students                    longitudinal                  7           7       4.7   1.49       -2.3
+cognitive process       students                    longitudinal                 11          10       8.0   1.38       -3.0
+                        clinicians or professionals longitudinal                  7           5       2.7   2.59       -4.3
+disposition or attitude students                    longitudinal                  8           8       3.6   2.22       -4.4
+                                                    delayed                      17          14      10.4   1.63       -6.6
+cognitive process       students                    delayed                      34          29      22.9   1.48      -11.1
+task performance        students                    delayed                      95          85      77.1   1.23      -17.9
+
+========================================================================================================
+horizon cube — what IS covered (>= 3 papers)
+========================================================================================================
+                                                                         obs_claims  obs_papers  expected  ratio
+object_type             population_role             measurement_horizon                                         
+task performance        students                    delayed                      95          85      77.1   1.23
+                                                    immediate                    77          64      93.9   0.82
+                        clinicians or professionals immediate                    55          41      31.0   1.77
+subjective experience   students                    immediate                    42          38      19.5   2.15
+cognitive process       students                    delayed                      34          29      22.9   1.48
+task performance        students                    longitudinal                 14          14      26.9   0.52
+disposition or attitude students                    delayed                      17          14      10.4   1.63
+behavioural strategy    students                    immediate                    17          14      16.2   1.05
+task performance        clinicians or professionals delayed                      18          13      25.5   0.71
+cognitive process       students                    immediate                    12          11      27.9   0.43
+                                                    longitudinal                 11          10       8.0   1.38
+task performance        clinicians or professionals longitudinal                  9           9       8.9   1.01
+disposition or attitude students                    immediate                     8           8      12.7   0.63
+subjective experience   students                    delayed                       8           8      16.0   0.50
+disposition or attitude students                    longitudinal                  8           8       3.6   2.22
+behavioural strategy    students                    delayed                       8           7      13.3   0.60
+                                                    longitudinal                  7           7       4.7   1.49
+cognitive process       clinicians or professionals delayed                       8           7       7.6   1.05
+                                                    longitudinal                  7           5       2.7   2.59
+                                                    immediate                     4           4       9.2   0.43
+task performance        mixed or multiple           immediate                     4           4       1.0   4.00
+cognitive process       workers                     longitudinal                  3           3       0.3  10.00
+subjective experience   students                    longitudinal                  3           3       5.6   0.54
+                        clinicians or professionals immediate                     3           3       6.4   0.47
+task performance        general adults              immediate                     4           3       2.3   1.74
+behavioural strategy    children                    longitudinal                  3           3       0.2  15.00
+task performance        workers                     immediate                     3           3       3.4   0.88
+                        children                    immediate                     3           3       4.7   0.64

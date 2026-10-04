@@ -1,0 +1,101 @@
+facet,term,odds_ratio,p,separated
+subject_type,"C(evidence_type, Treatment('D'))[T.M]",0.89,0.5406,False
+subject_type,"C(evidence_type, Treatment('D'))[T.T]",1.27,0.049,False
+subject_type,C(claim_role)[T.signature],2.34,0.0,False
+subject_type,"C(work_type_c, Treatment('article'))[T.conference]",1.32,0.2084,False
+subject_type,"C(work_type_c, Treatment('article'))[T.other]",0.34,0.0665,False
+subject_type,"C(work_type_c, Treatment('article'))[T.preprint]",0.95,0.7302,False
+subject_type,"C(work_type_c, Treatment('article'))[T.rct]",10.55,0.0243,False
+subject_type,"C(work_type_c, Treatment('article'))[T.review]",1.46,0.0229,False
+subject_type,"C(work_type_c, Treatment('article'))[T.synthesis]",0.53,0.1879,False
+subject_type,year_c,1.04,0.0428,False
+subject_mode,"C(evidence_type, Treatment('D'))[T.M]",,,True
+subject_mode,"C(evidence_type, Treatment('D'))[T.T]",,,True
+subject_mode,C(claim_role)[T.signature],,,True
+subject_mode,"C(work_type_c, Treatment('article'))[T.conference]",,,True
+subject_mode,"C(work_type_c, Treatment('article'))[T.other]",,,True
+subject_mode,"C(work_type_c, Treatment('article'))[T.preprint]",,,True
+subject_mode,"C(work_type_c, Treatment('article'))[T.rct]",,,True
+subject_mode,"C(work_type_c, Treatment('article'))[T.review]",,,True
+subject_mode,"C(work_type_c, Treatment('article'))[T.synthesis]",,,True
+subject_mode,year_c,,,True
+object_type,"C(evidence_type, Treatment('D'))[T.M]",2.5,0.0051,False
+object_type,"C(evidence_type, Treatment('D'))[T.T]",0.21,0.0,False
+object_type,C(claim_role)[T.signature],0.72,0.0068,False
+object_type,"C(work_type_c, Treatment('article'))[T.conference]",1.97,0.0136,False
+object_type,"C(work_type_c, Treatment('article'))[T.other]",0.08,0.0068,False
+object_type,"C(work_type_c, Treatment('article'))[T.preprint]",0.87,0.3497,False
+object_type,"C(work_type_c, Treatment('article'))[T.rct]",1.26,0.651,False
+object_type,"C(work_type_c, Treatment('article'))[T.review]",0.38,0.0,False
+object_type,"C(work_type_c, Treatment('article'))[T.synthesis]",0.34,0.0426,False
+object_type,year_c,0.95,0.084,False
+relation,"C(evidence_type, Treatment('D'))[T.M]",0.64,0.0365,False
+relation,"C(evidence_type, Treatment('D'))[T.T]",0.08,0.0,False
+relation,C(claim_role)[T.signature],0.22,0.0,False
+relation,"C(work_type_c, Treatment('article'))[T.conference]",1.36,0.2513,False
+relation,"C(work_type_c, Treatment('article'))[T.other]",1.12,0.8963,False
+relation,"C(work_type_c, Treatment('article'))[T.preprint]",0.91,0.5626,False
+relation,"C(work_type_c, Treatment('article'))[T.rct]",2.8,0.1615,False
+relation,"C(work_type_c, Treatment('article'))[T.review]",0.62,0.0018,False
+relation,"C(work_type_c, Treatment('article'))[T.synthesis]",0.78,0.2142,False
+relation,year_c,0.96,0.1095,False
+direction,"C(evidence_type, Treatment('D'))[T.M]",0.75,0.1637,False
+direction,"C(evidence_type, Treatment('D'))[T.T]",0.13,0.0,False
+direction,C(claim_role)[T.signature],0.82,0.0805,False
+direction,"C(work_type_c, Treatment('article'))[T.conference]",0.95,0.8004,False
+direction,"C(work_type_c, Treatment('article'))[T.other]",1.37,0.7504,False
+direction,"C(work_type_c, Treatment('article'))[T.preprint]",0.97,0.8446,False
+direction,"C(work_type_c, Treatment('article'))[T.rct]",4.57,0.0358,False
+direction,"C(work_type_c, Treatment('article'))[T.review]",0.66,0.0016,False
+direction,"C(work_type_c, Treatment('article'))[T.synthesis]",2.94,0.0142,False
+direction,year_c,0.96,0.0572,False
+valence,"C(evidence_type, Treatment('D'))[T.M]",0.65,0.0344,False
+valence,"C(evidence_type, Treatment('D'))[T.T]",0.17,0.0,False
+valence,C(claim_role)[T.signature],1.06,0.6075,False
+valence,"C(work_type_c, Treatment('article'))[T.conference]",1.07,0.76,False
+valence,"C(work_type_c, Treatment('article'))[T.other]",1.13,0.9046,False
+valence,"C(work_type_c, Treatment('article'))[T.preprint]",0.95,0.7151,False
+valence,"C(work_type_c, Treatment('article'))[T.rct]",8.91,0.0307,False
+valence,"C(work_type_c, Treatment('article'))[T.review]",0.96,0.7657,False
+valence,"C(work_type_c, Treatment('article'))[T.synthesis]",4.07,0.0046,False
+valence,year_c,0.95,0.0283,False
+population_role,"C(evidence_type, Treatment('D'))[T.M]",1.14,0.2582,False
+population_role,"C(evidence_type, Treatment('D'))[T.T]",1.07,0.44,False
+population_role,C(claim_role)[T.signature],1.72,0.0,False
+population_role,"C(work_type_c, Treatment('article'))[T.conference]",1.23,0.3393,False
+population_role,"C(work_type_c, Treatment('article'))[T.other]",1.15,0.8822,False
+population_role,"C(work_type_c, Treatment('article'))[T.preprint]",0.8,0.0778,False
+population_role,"C(work_type_c, Treatment('article'))[T.rct]",1.88,0.0325,False
+population_role,"C(work_type_c, Treatment('article'))[T.review]",0.78,0.0503,False
+population_role,"C(work_type_c, Treatment('article'))[T.synthesis]",0.68,0.4279,False
+population_role,year_c,1.05,0.0135,False
+population_setting,"C(evidence_type, Treatment('D'))[T.M]",1.38,0.0048,False
+population_setting,"C(evidence_type, Treatment('D'))[T.T]",1.14,0.1257,False
+population_setting,C(claim_role)[T.signature],1.47,0.0,False
+population_setting,"C(work_type_c, Treatment('article'))[T.conference]",0.9,0.5626,False
+population_setting,"C(work_type_c, Treatment('article'))[T.other]",1.12,0.7657,False
+population_setting,"C(work_type_c, Treatment('article'))[T.preprint]",0.69,0.0019,False
+population_setting,"C(work_type_c, Treatment('article'))[T.rct]",2.75,0.0252,False
+population_setting,"C(work_type_c, Treatment('article'))[T.review]",1.22,0.1011,False
+population_setting,"C(work_type_c, Treatment('article'))[T.synthesis]",0.91,0.8835,False
+population_setting,year_c,0.98,0.2479,False
+measurement_horizon,"C(evidence_type, Treatment('D'))[T.M]",3.0,0.0,False
+measurement_horizon,"C(evidence_type, Treatment('D'))[T.T]",0.42,0.0,False
+measurement_horizon,C(claim_role)[T.signature],1.34,0.0139,False
+measurement_horizon,"C(work_type_c, Treatment('article'))[T.conference]",1.03,0.9009,False
+measurement_horizon,"C(work_type_c, Treatment('article'))[T.other]",1.34,0.6357,False
+measurement_horizon,"C(work_type_c, Treatment('article'))[T.preprint]",1.15,0.3496,False
+measurement_horizon,"C(work_type_c, Treatment('article'))[T.rct]",2.87,0.0042,False
+measurement_horizon,"C(work_type_c, Treatment('article'))[T.review]",0.28,0.0,False
+measurement_horizon,"C(work_type_c, Treatment('article'))[T.synthesis]",0.23,0.1484,False
+measurement_horizon,year_c,0.91,0.0,False
+statistical_marking,"C(evidence_type, Treatment('D'))[T.M]",5.33,0.0,False
+statistical_marking,"C(evidence_type, Treatment('D'))[T.T]",0.16,0.0,False
+statistical_marking,C(claim_role)[T.signature],1.36,0.0195,False
+statistical_marking,"C(work_type_c, Treatment('article'))[T.conference]",0.63,0.0348,False
+statistical_marking,"C(work_type_c, Treatment('article'))[T.other]",,,True
+statistical_marking,"C(work_type_c, Treatment('article'))[T.preprint]",0.53,0.001,False
+statistical_marking,"C(work_type_c, Treatment('article'))[T.rct]",5.88,0.0,False
+statistical_marking,"C(work_type_c, Treatment('article'))[T.review]",0.63,0.007,False
+statistical_marking,"C(work_type_c, Treatment('article'))[T.synthesis]",1.12,0.8099,False
+statistical_marking,year_c,1.02,0.3626,False

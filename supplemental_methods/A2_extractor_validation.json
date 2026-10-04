@@ -1,0 +1,10 @@
+{
+  "description": "Validation of the evidence-type rule on the 241-claim purposive-sample extraction that preceded the corpus-wide pass. Inter-model agreement, not accuracy against a hand-read standard.",
+  "kappa_original_definitions_vague_validator": -0.207,
+  "kappa_revised_definitions_same_validator": 0.634,
+  "kappa_revised_definitions_shared_codebook": 0.667,
+  "gap_between_revised_figures": 0.033,
+  "quote_supports_claim": "39/40",
+  "interpretation": "The two revised figures are near-identical, which establishes that the gain came from sharpening the extractor's definitions rather than from aligning the two coders' rules.",
+  "reported_in": "Paper Section 2.5 (Claim schema) and Appendix A.2 (Coding reliability)"
+}

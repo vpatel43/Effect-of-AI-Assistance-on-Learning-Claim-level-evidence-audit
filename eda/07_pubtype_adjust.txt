@@ -1,0 +1,108 @@
+
+============================================================================================
+how much design information work_type actually carries
+============================================================================================
+                   claims  papers
+design                           
+not_reported         5306    1236
+narrative_review      643     145
+rct                    51      11
+systematic_review      27       4
+meta_analysis          17       3
+observational          19       3
+
+============================================================================================
+format
+============================================================================================
+                 claims  papers
+format                         
+article            4482    1028
+preprint            754     171
+review_crossref     576     128
+conference          242      73
+report                9       2
+
+============================================================================================
+evidence_type — the one evidential variable that is complete
+============================================================================================
+               claims  papers
+evidence_type                
+D                3652    1259
+M                 614     277
+T                1797    1017
+
+============================================================================================
+analysis sample
+============================================================================================
+3879 beneficial-or-harmful claims from 1286 papers
+papers containing BOTH valences (usable by the fixed-effects model): 312
+
+============================================================================================
+is publication type associated with valence at all? (row % harmful)
+============================================================================================
+               harm_%     n
+evidence_type              
+D                18.9  2555
+M                 9.2   459
+T                25.3   865
+
+============================================================================================
+...by format
+============================================================================================
+                 harm_%     n
+format                       
+article            18.1  2892
+conference         23.8   172
+preprint           27.6   434
+report              0.0     6
+review_crossref    15.7   375
+<env>/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+<env>/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+<env>/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+
+============================================================================================
+OR for harmful vs beneficial, under four adjustments
+============================================================================================
+                 outcome  M0_unadj       p0  M1_evtype       p1  M2_ev_fmt       p2  M3_paperFE       p3  FE_papers  FE_claims
+0            associative      2.27  4.6e-10       2.27  5.0e-10       2.27  4.7e-10        1.61  1.2e-02        116        479
+1  hedged_or_speculative      2.44  2.7e-17       2.17  2.0e-12       2.17  3.2e-12        2.02  4.9e-06        178        734
+2    significance_marked      0.21  3.4e-21       0.23  2.0e-15       0.23  4.6e-15        0.14  2.6e-09         81        377
+3      carries_magnitude      0.43  3.1e-04       1.00  1.0e+00       0.98  9.4e-01        0.67  2.1e-01         39        174
+<env>/site-packages/statsmodels/base/model.py:607: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+
+============================================================================================
+stratified by claim specificity (T=taxonomic, D=directional, M=magnitude)
+============================================================================================
+evidence_type             D     M     T
+outcome                                
+associative            2.03  2.41  3.21
+carries_magnitude      0.66  2.18  0.00
+hedged_or_speculative  2.45  1.25  1.75
+significance_marked    0.22  0.25  0.42
+
+============================================================================================
+...stratum n
+============================================================================================
+evidence_type             D    M    T
+outcome                              
+associative            2555  459  865
+carries_magnitude      2555  459  865
+hedged_or_speculative  2555  459  865
+significance_marked    2555  459  865
+
+============================================================================================
+post-stratified rates (g-computation over evidence_type)
+============================================================================================
+                 outcome standardised_to  beneficial_pct  harmful_pct  ratio
+0            associative    observed mix             9.4         19.0   2.02
+1            associative       equal mix             8.2         16.8   2.05
+2  hedged_or_speculative    observed mix            15.7         27.9   1.78
+3  hedged_or_speculative       equal mix            14.4         25.0   1.73
+4    significance_marked    observed mix            23.6          8.6   0.37
+5    significance_marked       equal mix            32.0         14.6   0.46
+6      carries_magnitude    observed mix            11.5         11.5   1.00
+7      carries_magnitude       equal mix            30.6         30.6   1.00

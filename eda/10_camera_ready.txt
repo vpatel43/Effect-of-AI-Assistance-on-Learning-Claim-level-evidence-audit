@@ -1,0 +1,115 @@
+
+====================================================================================================
+A1  Table 2 with 95% CIs (M0-M2 cluster-robust by paper; M3 conditional logit)
+====================================================================================================
+  subset                outcome claims/papers                 M0                 M1                 M2                 M3 M3 papers/claims     M3 p
+0    all    Associative framing     3879/1286  2.27 [1.75, 2.94]  2.27 [1.75, 2.94]  2.27 [1.75, 2.94]  1.61 [1.11, 2.33]          116/479  1.2e-02
+1    all  Hedged or speculative     3879/1286  2.44 [1.99, 3.01]  2.17 [1.75, 2.69]  2.17 [1.75, 2.71]  2.02 [1.49, 2.72]          178/734  4.9e-06
+2    all    Significance-marked     3879/1286  0.21 [0.15, 0.29]  0.23 [0.16, 0.33]  0.23 [0.16, 0.34]  0.14 [0.08, 0.27]           81/377  2.6e-09
+3    all    Carries a magnitude     3879/1286  0.43 [0.27, 0.68]  1.00 [0.54, 1.86]  0.98 [0.54, 1.77]  0.67 [0.36, 1.26]           39/174  2.1e-01
+
+====================================================================================================
+A2  subgroup restrictions (n/e = not estimable: fewer than 5 papers with within-paper variation, or separation)
+====================================================================================================
+                      subset                outcome claims/papers                 M0                   M1                   M2                 M3 M3 papers/claims     M3 p
+0              generative AI    Associative framing      2408/873  3.00 [2.15, 4.20]    2.94 [2.09, 4.14]    2.91 [2.06, 4.10]  1.30 [0.80, 2.11]           66/267  3.0e-01
+1              generative AI  Hedged or speculative      2408/873  2.69 [2.06, 3.51]    2.36 [1.79, 3.12]    2.43 [1.83, 3.21]  2.31 [1.57, 3.42]          108/433  2.6e-05
+2              generative AI    Significance-marked      2408/873  0.18 [0.12, 0.27]    0.20 [0.13, 0.32]    0.21 [0.13, 0.33]  0.08 [0.03, 0.20]           49/213  1.4e-07
+3              generative AI    Carries a magnitude      2408/873  0.41 [0.24, 0.71]    0.84 [0.38, 1.85]    0.79 [0.37, 1.68]  0.60 [0.26, 1.41]            22/90  2.4e-01
+4       generative AI, 2023+    Associative framing      2329/836  3.00 [2.13, 4.21]    2.95 [2.09, 4.16]    2.91 [2.06, 4.11]  1.26 [0.77, 2.06]           65/265  3.5e-01
+5       generative AI, 2023+  Hedged or speculative      2329/836  2.75 [2.10, 3.61]    2.45 [1.85, 3.23]    2.53 [1.91, 3.36]  2.57 [1.72, 3.84]          104/422  4.5e-06
+6       generative AI, 2023+    Significance-marked      2329/836  0.18 [0.11, 0.27]    0.20 [0.12, 0.32]    0.20 [0.13, 0.33]  0.08 [0.03, 0.20]           49/213  1.4e-07
+7       generative AI, 2023+    Carries a magnitude      2329/836  0.44 [0.25, 0.76]    0.89 [0.40, 1.94]    0.85 [0.40, 1.79]  0.60 [0.26, 1.41]            22/90  2.4e-01
+8                   clinical    Associative framing       352/193  2.00 [0.74, 5.42]    1.99 [0.73, 5.45]    2.16 [0.77, 6.03]                n/e             4/11      n/e
+9                   clinical  Hedged or speculative       352/193  3.11 [1.70, 5.68]    2.27 [1.14, 4.51]    2.33 [1.16, 4.68]                n/e              3/8      n/e
+10                  clinical    Significance-marked       352/193  0.20 [0.09, 0.47]    0.18 [0.04, 0.71]    0.17 [0.04, 0.71]                n/e             4/11      n/e
+11                  clinical    Carries a magnitude       352/193  0.57 [0.21, 1.49]                  n/e  7.01 [0.49, 101.05]                n/e              2/4      n/e
+12  generative AI x clinical    Associative framing       203/125  1.74 [0.46, 6.52]    1.90 [0.46, 7.76]    2.22 [0.53, 9.23]                n/e              1/3      n/e
+13  generative AI x clinical  Hedged or speculative       203/125  2.37 [0.95, 5.94]                  n/e   2.39 [0.45, 12.61]                n/e              0/0      n/e
+14  generative AI x clinical    Significance-marked       203/125  0.14 [0.03, 0.59]    0.05 [0.00, 0.54]    0.05 [0.00, 0.57]                n/e              1/3      n/e
+15  generative AI x clinical    Carries a magnitude       203/125  0.97 [0.32, 2.98]  7.30 [0.46, 116.07]  6.76 [0.36, 125.75]                n/e              0/0      n/e
+
+====================================================================================================
+A3  papers that can contribute to the within-paper model vs the rest
+====================================================================================================
+                      single valence (excluded from M3)  both valences (contribute to M3)
+papers                                            974.0                             312.0
+median year                                      2025.0                            2025.0
+% 2025-26                                          56.0                              62.5
+% direct search                                    17.7                              25.0
+% preprint                                         11.5                              14.4
+% generative AI                                    66.0                              73.7
+mean claims/paper                                   4.2                               5.3
+% taxonomic claims                                 28.5                              30.7
+% directional claims                               60.7                              63.8
+% magnitude claims                                 10.7                               5.5
+
+====================================================================================================
+A4  median OR when a share of valence labels is flipped at random (20 replicates per rate; 0.0 = observed)
+====================================================================================================
+                         M0                      M3                  
+flip_rate              0.00  0.05  0.10  0.20  0.00  0.05  0.10  0.20
+outcome                                                              
+Associative framing    2.27  2.02  1.75  1.49  1.61  1.39  1.38  1.22
+Carries a magnitude    0.43  0.52  0.61  0.71  0.67  0.71  0.87  0.83
+Hedged or speculative  2.44  2.08  1.92  1.52  2.02  1.71  1.60  1.35
+Significance-marked    0.21  0.31  0.41  0.59  0.14  0.34  0.49  0.68
+
+====================================================================================================
+A5  by retrieval route
+====================================================================================================
+             subset                outcome claims/papers                 M0                 M1                 M2                 M3 M3 papers/claims     M3 p
+0     direct search    Associative framing       789/250  2.68 [1.59, 4.52]  2.68 [1.60, 4.49]  2.62 [1.55, 4.43]  2.10 [0.94, 4.68]           26/106  7.0e-02
+1     direct search  Hedged or speculative       789/250  2.40 [1.62, 3.56]  2.07 [1.39, 3.07]  2.05 [1.38, 3.05]  1.70 [0.99, 2.93]           50/216  5.7e-02
+2     direct search    Significance-marked       789/250  0.30 [0.17, 0.55]  0.38 [0.20, 0.72]  0.39 [0.21, 0.74]  0.27 [0.10, 0.72]           24/107  8.2e-03
+3     direct search    Carries a magnitude       789/250  0.35 [0.17, 0.74]  0.33 [0.10, 1.09]  0.35 [0.13, 0.96]  0.53 [0.18, 1.57]            12/56  2.5e-01
+4  citation chasing    Associative framing     3090/1036  2.24 [1.67, 3.02]  2.24 [1.66, 3.02]  2.23 [1.66, 3.01]  1.49 [0.98, 2.27]           90/373  6.1e-02
+5  citation chasing  Hedged or speculative     3090/1036  2.42 [1.89, 3.09]  2.16 [1.67, 2.80]  2.18 [1.68, 2.83]  2.17 [1.51, 3.11]          128/518  2.6e-05
+6  citation chasing    Significance-marked     3090/1036  0.18 [0.12, 0.27]  0.20 [0.13, 0.31]  0.19 [0.12, 0.30]  0.09 [0.04, 0.23]           57/270  1.8e-07
+7  citation chasing    Carries a magnitude     3090/1036  0.44 [0.24, 0.79]  1.39 [0.65, 2.99]  1.41 [0.67, 2.95]  0.75 [0.35, 1.62]           27/118  4.7e-01
+
+====================================================================================================
+A5  harm share by channel
+====================================================================================================
+              claims  papers  harm_pct
+channel                               
+c1               789     250      25.9
+cc_d1           2128     699      16.3
+cc_d1_capfix     962     337      20.2
+
+====================================================================================================
+A6  harm share vs share of benefit claims reporting a statistical test, across outcome x horizon x setting cells (>=20 claims, >=10 benefit claims); 95% CI from 1,000 paper-clustered bootstrap replicates
+====================================================================================================
+                                     0
+cells                          25.0000
+claims_covered               3463.0000
+claims_total                 3879.0000
+spearman_rho_benefit_tested    -0.4630
+p                               0.0197
+boot_ci_lo                     -0.5900
+boot_ci_hi                     -0.1130
+boot_reps                    1000.0000
+spearman_rho_all_tested        -0.5060
+p_all                           0.0098
+
+====================================================================================================
+A6  by object_type (levels with >=50 claims)
+====================================================================================================
+                         claims  harm_pct  benefit_tested_pct
+object_type                                                  
+behavioural strategy        206      39.8                10.5
+not stated                  351      29.6                 6.9
+disposition or attitude     422      22.3                26.8
+cognitive process          1184      22.0                17.1
+subjective experience       434      12.4                21.3
+task performance           1259      11.8                38.0
+
+====================================================================================================
+A6  by measurement_horizon (levels with >=50 claims)
+====================================================================================================
+                     claims  harm_pct  benefit_tested_pct
+measurement_horizon                                      
+longitudinal            107      37.4                26.9
+not stated             3137      18.9                19.9
+delayed                 297      16.5                46.8
+immediate               325      15.7                51.8

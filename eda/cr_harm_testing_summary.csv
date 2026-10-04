@@ -1,0 +1,2 @@
+cells,claims_covered,claims_total,spearman_rho_benefit_tested,p,boot_ci_lo,boot_ci_hi,boot_reps,spearman_rho_all_tested,p_all
+25,3463,3879,-0.463,0.0197,-0.59,-0.113,1000,-0.506,0.0098

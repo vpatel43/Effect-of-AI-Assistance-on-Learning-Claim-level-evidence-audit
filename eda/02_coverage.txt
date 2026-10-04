@@ -1,0 +1,338 @@
+
+==============================================================================
+MARGINAL  subject_type
+==============================================================================
+                                   claims  papers  claims_per_paper
+subject_type                                                       
+generative AI assistant              3382     967              3.50
+not_stated                            667     435              1.53
+non-AI external aid                   797     396              2.01
+not_applicable                        429     283              1.52
+none (observational)                  278     194              1.43
+decision support system               314     173              1.82
+automation or autopilot               129      81              1.59
+behavioural strategy                   28      22              1.27
+calculator or single-purpose tool      17      16              1.06
+search or retrieval system             21      11              1.91
+removal or withdrawal                   1       1              1.00
+
+==============================================================================
+MARGINAL  subject_mode
+==============================================================================
+                       claims  papers  claims_per_paper
+subject_mode                                           
+use                      3045    1162              2.62
+availability             1320     720              1.83
+not_stated                676     455              1.49
+not_applicable            818     441              1.85
+reliance                  151      99              1.53
+removal or withdrawal      52      42              1.24
+participation               1       1              1.00
+
+==============================================================================
+MARGINAL  object_type
+==============================================================================
+                         claims  papers  claims_per_paper
+object_type                                              
+task performance           1724     863              2.00
+cognitive process          1548     818              1.89
+not_stated                  908     553              1.64
+subjective experience       634     427              1.48
+disposition or attitude     695     415              1.67
+behavioural strategy        508     337              1.51
+physiological                43      29              1.48
+mixed or multiple             3       3              1.00
+
+==============================================================================
+MARGINAL  relation
+==============================================================================
+             claims  papers  claims_per_paper
+relation                                     
+causes         3105    1188              2.61
+associates      987     587              1.68
+not_stated      839     499              1.68
+mediates        492     378              1.30
+moderates       347     261              1.33
+no_relation     292     226              1.29
+contested         1       1              1.00
+
+==============================================================================
+MARGINAL  direction
+==============================================================================
+                claims  papers  claims_per_paper
+direction                                       
+increase          3479    1261              2.76
+not_stated        1024     634              1.62
+decrease           936     541              1.73
+no_change          380     288              1.32
+not_applicable     144     126              1.14
+non_monotonic      100      91              1.10
+
+==============================================================================
+MARGINAL  valence
+==============================================================================
+                claims  papers  claims_per_paper
+valence                                         
+beneficial        3135    1175              2.67
+neutral           1065     644              1.65
+not_stated         942     590              1.60
+harmful            744     423              1.76
+contested           96      85              1.13
+not_applicable      81      70              1.16
+
+==============================================================================
+MARGINAL  population_role
+==============================================================================
+                             claims  papers  claims_per_paper
+population_role                                              
+not_stated                     3296    1121              2.94
+students                       2129     889              2.39
+clinicians or professionals     385     195              1.97
+workers                          84      45              1.87
+children                         74      35              2.11
+general adults                   40      26              1.54
+not_applicable                   26      25              1.04
+mixed or multiple                23      22              1.05
+older adults                      3       2              1.50
+patients                          3       1              3.00
+
+==============================================================================
+MARGINAL  population_setting
+==============================================================================
+                          claims  papers  claims_per_paper
+population_setting                                        
+not_stated                  3330    1124              2.96
+education                   2053     895              2.29
+clinical                     387     167              2.32
+laboratory                   131      95              1.38
+workplace                    108      59              1.83
+not_applicable                26      25              1.04
+everyday or naturalistic      25      19              1.32
+mixed or multiple              3       2              1.50
+
+==============================================================================
+MARGINAL  measurement_horizon
+==============================================================================
+                     claims  papers  claims_per_paper
+measurement_horizon                                  
+not_stated             4981    1361              3.66
+immediate               434     295              1.47
+delayed                 354     250              1.42
+longitudinal            177     143              1.24
+not_applicable          117      94              1.24
+
+==============================================================================
+MARGINAL  statistical_marking
+==============================================================================
+                     claims  papers  claims_per_paper
+statistical_marking                                  
+not_stated             4182    1308              3.20
+significant            1021     544              1.88
+not_applicable          674     428              1.57
+not_significant         186     139              1.34
+
+==============================================================================
+MARGINAL  epistemic_strength
+==============================================================================
+                    claims  papers  claims_per_paper
+epistemic_strength                                  
+asserted              5100    1361              3.75
+hedged                 578     441              1.31
+speculative            353     293              1.20
+not_stated              29      28              1.04
+not_applicable           3       3              1.00
+
+==============================================================================
+object_type x valence  (papers)
+==============================================================================
+valence                  beneficial  contested  harmful  neutral  not_applicable  not_stated
+object_type                                                                                 
+behavioural strategy            102          9       72      153               7          70
+cognitive process               582         17      191      135               6         141
+disposition or attitude         236         16       75      116               4          91
+mixed or multiple                 3          0        0        0               0           0
+not_stated                      207         24       91      118              38         275
+physiological                    17          0        2       16               0           3
+subjective experience           288         10       47       91               7          64
+task performance                666         14      115      239              10         105
+
+==============================================================================
+object_type x direction  (papers)
+==============================================================================
+direction                decrease  increase  no_change  non_monotonic  not_applicable  not_stated
+object_type                                                                                      
+behavioural strategy           82       218         38             16              10          61
+cognitive process             217       596         64             19               8         154
+disposition or attitude        69       315         43              8              13          75
+mixed or multiple               0         3          0              0               0           0
+not_stated                     86       200         41             24              82         303
+physiological                  11        14          3              0               0           6
+subjective experience          98       294         18             13               6          80
+task performance              174       682        130             15              13         132
+
+==============================================================================
+subject_type x object_type  (papers)
+==============================================================================
+object_type                        behavioural strategy  cognitive process  disposition or attitude  mixed or multiple  not_stated  physiological  subjective experience  task performance
+subject_type                                                                                                                                                                              
+automation or autopilot                              11                 35                        8                  0          13              2                      5                36
+behavioural strategy                                  3                 11                        3                  0           0              0                      1                 7
+calculator or single-purpose tool                     2                  3                        1                  0           1              0                      2                 8
+decision support system                              32                 55                       22                  0          18              3                     16                95
+generative AI assistant                             158                524                      268                  3         326             12                    298               517
+non-AI external aid                                  69                175                       58                  0          45              6                     55               187
+none (observational)                                 49                 57                       30                  0          24              2                     14                63
+not_applicable                                       41                 56                       48                  0         112              5                     34                56
+not_stated                                           53                108                       69                  0         139              5                     60               137
+removal or withdrawal                                 0                  0                        0                  0           0              1                      0                 0
+search or retrieval system                            2                  4                        2                  0           0              1                      2                 5
+
+==============================================================================
+population_setting x object_type  (papers)
+==============================================================================
+object_type               behavioural strategy  cognitive process  disposition or attitude  mixed or multiple  not_stated  physiological  subjective experience  task performance
+population_setting                                                                                                                                                               
+clinical                                    17                 60                       13                  0          27              8                     14               112
+education                                   97                341                      175                  2         251              3                    208               437
+everyday or naturalistic                     3                 10                        1                  0           2              0                      0                 5
+laboratory                                  20                 21                        7                  0           0              4                      7                54
+mixed or multiple                            0                  0                        0                  0           0              0                      0                 2
+not_applicable                               0                  2                        0                  0          21              0                      0                 2
+not_stated                                 235                539                      273                  1         353             17                    252               497
+workplace                                   12                 21                       12                  0          12              0                      3                24
+
+==============================================================================
+measurement_horizon x object_type  (papers)
+==============================================================================
+object_type          behavioural strategy  cognitive process  disposition or attitude  mixed or multiple  not_stated  physiological  subjective experience  task performance
+measurement_horizon                                                                                                                                                         
+delayed                                22                 67                       28                  0           4              2                     14               154
+immediate                              37                 41                       19                  0          10              9                     56               179
+longitudinal                           20                 54                       16                  0          13              3                      8                44
+not_applicable                          6                 10                        2                  0          76              0                      3                 0
+not_stated                            292                754                      384                  3         509             19                    378               728
+
+==============================================================================
+measurement_horizon x valence  (papers)
+==============================================================================
+valence              beneficial  contested  harmful  neutral  not_applicable  not_stated
+measurement_horizon                                                                     
+delayed                     184          2       41       43               0           7
+immediate                   199          2       45       84               1          10
+longitudinal                 59          3       34       46               0          19
+not_applicable                2          0       10       10              28          54
+not_stated                 1078         78      364      557              43         540
+
+==============================================================================
+CELL-SPACE OCCUPANCY
+==============================================================================
+                                                                                                                                                           facets    possible  occupied  pct_occupied  cells_for_50pct  cells_for_90pct  top10_share
+0                                                                                                                                        subject_typexobject_type          88        68          77.3                7               28         63.9
+1                                                                                                                                      relationxdirectionxvalence         252       131          52.0                7               40         60.8
+2                                                                                                                           subject_typexsubject_modexobject_type         616       219          35.6               15               74         41.4
+3                                                                                                              object_typexpopulation_settingxmeasurement_horizon         320       137          42.8                7               37         66.2
+4                                                                                                                     subject_typexobject_typexrelationxdirection        3696       741          20.0               35              340         30.6
+5  subject_typexsubject_modexobject_typexrelationxdirectionxvalencexpopulation_rolexpopulation_settingxmeasurement_horizonxstatistical_markingxepistemic_strength  1241856000      3955           0.0             1036             3372          6.8
+
+==============================================================================
+TOP 25 CLAIM SIGNATURES (by papers)
+==============================================================================
+                                                                                      claims  papers  claims_per_paper
+signature                                                                                                             
+generative AI assistant | use -> causes/increase -> task performance                     471     324              1.45
+generative AI assistant | use -> causes/increase -> cognitive process                    351     263              1.33
+generative AI assistant | use -> causes/increase -> disposition or attitude              128     105              1.22
+generative AI assistant | use -> causes/increase -> subjective experience                116      98              1.18
+non-AI external aid | use -> causes/increase -> task performance                         101      85              1.19
+non-AI external aid | use -> causes/increase -> cognitive process                         98      84              1.17
+generative AI assistant | availability -> causes/increase -> cognitive process            88      79              1.11
+generative AI assistant | availability -> not_stated/not_stated -> not_stated             82      66              1.24
+generative AI assistant | use -> causes/decrease -> task performance                      67      58              1.16
+generative AI assistant | use -> causes/decrease -> cognitive process                     59      56              1.05
+generative AI assistant | availability -> causes/increase -> task performance             63      56              1.12
+decision support system | use -> causes/increase -> task performance                      66      54              1.22
+generative AI assistant | use -> mediates/increase -> cognitive process                   62      52              1.19
+generative AI assistant | use -> associates/increase -> subjective experience             55      48              1.15
+generative AI assistant | not_stated -> not_stated/not_stated -> not_stated               52      45              1.16
+generative AI assistant | availability -> causes/increase -> disposition or attitude      54      45              1.20
+generative AI assistant | use -> not_stated/not_stated -> not_stated                      43      41              1.05
+non-AI external aid | availability -> causes/increase -> task performance                 45      41              1.10
+generative AI assistant | use -> causes/increase -> behavioural strategy                  46      40              1.15
+not_applicable | not_applicable -> not_stated/not_stated -> not_stated                    38      36              1.06
+non-AI external aid | availability -> causes/increase -> cognitive process                41      35              1.17
+generative AI assistant | use -> no_relation/no_change -> task performance                39      34              1.15
+generative AI assistant | use -> causes/increase -> not_stated                            37      34              1.09
+generative AI assistant | use -> causes/decrease -> subjective experience                 37      34              1.09
+generative AI assistant | availability -> causes/increase -> subjective experience        36      32              1.12
+
+==============================================================================
+SIGNATURE TAIL
+==============================================================================
+666 signatures appear in exactly 1 paper, out of 1294 distinct signatures
+
+==============================================================================
+FULLY-SPECIFIED CORE CLAIMS
+==============================================================================
+3503 claims (57.8%) from 1226 papers have all 6 core facets stated
+
+==============================================================================
+...their signatures (top 20)
+==============================================================================
+                                                                                      claims  papers
+signature                                                                                           
+generative AI assistant | use -> causes/increase -> task performance                     470     324
+generative AI assistant | use -> causes/increase -> cognitive process                    350     262
+generative AI assistant | use -> causes/increase -> disposition or attitude              127     104
+generative AI assistant | use -> causes/increase -> subjective experience                116      98
+non-AI external aid | use -> causes/increase -> task performance                         101      85
+non-AI external aid | use -> causes/increase -> cognitive process                         98      84
+generative AI assistant | availability -> causes/increase -> cognitive process            88      79
+generative AI assistant | use -> causes/decrease -> task performance                      67      58
+generative AI assistant | use -> causes/decrease -> cognitive process                     59      56
+generative AI assistant | availability -> causes/increase -> task performance             63      56
+decision support system | use -> causes/increase -> task performance                      66      54
+generative AI assistant | use -> mediates/increase -> cognitive process                   62      52
+generative AI assistant | use -> associates/increase -> subjective experience             55      48
+generative AI assistant | availability -> causes/increase -> disposition or attitude      52      43
+non-AI external aid | availability -> causes/increase -> task performance                 45      41
+generative AI assistant | use -> causes/increase -> behavioural strategy                  44      38
+non-AI external aid | availability -> causes/increase -> cognitive process                41      35
+generative AI assistant | use -> no_relation/no_change -> task performance                39      34
+generative AI assistant | use -> causes/decrease -> subjective experience                 37      34
+generative AI assistant | availability -> causes/increase -> subjective experience        36      32
+
+==============================================================================
+valence x year (claim share within year)
+==============================================================================
+valence  beneficial  contested  harmful  neutral  not_applicable  not_stated
+year                                                                        
+2015           27.8        0.0     22.2     30.6             0.0        19.4
+2016           49.3        0.0     13.4     25.4             1.5        10.4
+2017           63.3        0.0      6.7     26.7             3.3         0.0
+2018           57.1        0.0      8.9     19.6             0.0        14.3
+2019           40.0        1.7     16.5     25.2             0.0        16.5
+2020           54.8        0.7      8.2     21.2             3.4        11.6
+2021           59.1        1.1      9.7     21.0             1.6         7.5
+2022           49.2        0.4      9.5     29.8             1.7         9.5
+2023           49.9        1.1     15.4     18.1             1.8        13.6
+2024           54.0        1.6     11.9     16.3             1.2        14.9
+2025           54.1        1.8     11.3     14.0             1.5        17.3
+2026           48.2        2.0     13.5     18.9             0.9        16.6
+
+==============================================================================
+object_type x year (claim share within year)
+==============================================================================
+object_type  behavioural strategy  cognitive process  disposition or attitude  mixed or multiple  not_stated  physiological  subjective experience  task performance
+year                                                                                                                                                                
+2015                          2.8               25.0                      8.3                0.0        19.4            0.0                    2.8              41.7
+2016                          3.0               20.9                      9.0                0.0         7.5            7.5                    7.5              44.8
+2017                          6.7               26.7                      3.3                0.0        10.0            0.0                    6.7              46.7
+2018                         12.5               30.4                      1.8                0.0        16.1            1.8                    1.8              35.7
+2019                         20.9               26.1                      3.5                0.0         9.6            1.7                    3.5              34.8
+2020                         12.3               19.9                      8.9                0.0        10.3            0.7                    6.8              41.1
+2021                          5.4               24.2                     11.3                0.0        12.9            2.2                   11.3              32.8
+2022                         10.7               23.1                      7.4                0.0         9.5            2.9                    5.0              41.3
+2023                         11.6               26.0                     12.3                0.0        13.9            1.1                    5.6              29.5
+2024                          9.0               22.3                     12.2                0.0        14.5            0.3                   12.1              29.5
+2025                          6.4               26.9                     12.2                0.1        15.7            0.4                   12.3              26.2
+2026                          8.7               26.6                     11.9                0.1        16.7            0.4                   10.6              25.0

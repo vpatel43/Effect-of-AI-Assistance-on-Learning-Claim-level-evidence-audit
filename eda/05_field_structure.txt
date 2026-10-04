@@ -1,0 +1,270 @@
+
+====================================================================================================
+THE 19 FIELDS AS THE DATA PRESENTS THEM
+====================================================================================================
+                     levels  modal_share_%  sentinel_%
+subject_type             11           55.8        18.1
+subject_mode              8           50.2        24.6
+object_type              10           28.4        15.0
+relation                  7           51.2        13.8
+direction                 6           57.4        19.3
+valence                   6           51.7        16.9
+population_role          10           54.4        54.8
+population_setting        8           54.9        55.4
+measurement_horizon       6           82.1        84.1
+statistical_marking       4           69.0        80.1
+epistemic_strength        5           84.1         0.5
+subject_entity         3204            4.1         0.8
+object_entity          4576            1.6         0.0
+mediator                601           89.1        89.1
+moderator               566           89.8        89.9
+magnitude_value          11           89.7        89.7
+magnitude_unit          147           86.9        89.8
+n_reported               10           99.0        99.0
+evidence_span          5922            0.1         0.0
+
+====================================================================================================
+ADJUSTED MUTUAL INFORMATION between all 19 fields
+====================================================================================================
+                     subject_type  subject_mode  object_type  relation  direction  valence  population_role  population_setting  measurement_horizon  statistical_marking  epistemic_strength  subject_entity  object_entity  mediator  moderator  magnitude_value  magnitude_unit  n_reported  evidence_span
+subject_type                1.000         0.244        0.022     0.051      0.024    0.051            0.032               0.044                0.015                0.008               0.004           0.134          0.013     0.006      0.015            0.003           0.012       0.001          0.004
+subject_mode                0.244         1.000        0.034     0.084      0.065    0.102            0.025               0.032                0.029                0.032               0.015           0.062          0.011     0.008      0.009            0.012           0.024       0.005          0.004
+object_type                 0.022         0.034        1.000     0.065      0.051    0.052            0.022               0.024                0.051                0.064               0.011           0.023          0.081    -0.001      0.001            0.029           0.031       0.003          0.005
+relation                    0.051         0.084        0.065     1.000      0.245    0.198            0.017               0.021                0.050                0.143               0.016           0.036          0.011     0.139      0.119            0.022           0.029       0.002          0.004
+direction                   0.024         0.065        0.051     0.245      1.000    0.400            0.022               0.021                0.058                0.142               0.016           0.020          0.018    -0.007      0.029            0.020           0.026       0.004          0.004
+valence                     0.051         0.102        0.052     0.198      0.400    1.000            0.020               0.028                0.045                0.103               0.027           0.030          0.018    -0.001      0.018            0.013           0.021       0.005          0.005
+population_role             0.032         0.025        0.022     0.017      0.022    0.020            1.000               0.332                0.027                0.012               0.001           0.030          0.025    -0.004      0.014            0.006           0.012       0.004          0.004
+population_setting          0.044         0.032        0.024     0.021      0.021    0.028            0.332               1.000                0.061                0.015               0.003           0.032          0.023    -0.001      0.012            0.013           0.021       0.005          0.003
+measurement_horizon         0.015         0.029        0.051     0.050      0.058    0.045            0.027               0.061                1.000                0.074               0.011           0.019          0.018    -0.027     -0.009            0.036           0.053       0.009          0.002
+statistical_marking         0.008         0.032        0.064     0.143      0.142    0.103            0.012               0.015                0.074                1.000               0.056           0.022          0.012    -0.020     -0.029            0.083           0.087       0.007          0.003
+epistemic_strength          0.004         0.015        0.011     0.016      0.016    0.027            0.001               0.003                0.011                0.056               1.000           0.009          0.007     0.033      0.003            0.021           0.000      -0.000          0.002
+subject_entity              0.134         0.062        0.023     0.036      0.020    0.030            0.030               0.032                0.019                0.022               0.009           1.000          0.045     0.007      0.005            0.010           0.014       0.002          0.027
+object_entity               0.013         0.011        0.081     0.011      0.018    0.018            0.025               0.023                0.018                0.012               0.007           0.045          1.000    -0.011     -0.003            0.002           0.003       0.001          0.046
+mediator                    0.006         0.008       -0.001     0.139     -0.007   -0.001           -0.004              -0.001               -0.027               -0.020               0.033           0.007         -0.011     1.000     -0.067           -0.046          -0.049      -0.010          0.001
+moderator                   0.015         0.009        0.001     0.119      0.029    0.018            0.014               0.012               -0.009               -0.029               0.003           0.005         -0.003    -0.067      1.000           -0.033          -0.045      -0.009          0.001
+magnitude_value             0.003         0.012        0.029     0.022      0.020    0.013            0.006               0.013                0.036                0.083               0.021           0.010          0.002    -0.046     -0.033            1.000           0.638       0.059          0.001
+magnitude_unit              0.012         0.024        0.031     0.029      0.026    0.021            0.012               0.021                0.053                0.087               0.000           0.014          0.003    -0.049     -0.045            0.638           1.000       0.050          0.001
+n_reported                  0.001         0.005        0.003     0.002      0.004    0.005            0.004               0.005                0.009                0.007              -0.000           0.002          0.001    -0.010     -0.009            0.059           0.050       1.000          0.000
+evidence_span               0.004         0.004        0.005     0.004      0.004    0.005            0.004               0.003                0.002                0.003               0.002           0.027          0.046     0.001      0.001            0.001           0.001       0.000          1.000
+
+====================================================================================================
+strongest 25 field pairs
+====================================================================================================
+magnitude_value      magnitude_unit         0.638
+direction            valence                0.400
+population_role      population_setting     0.332
+relation             direction              0.245
+subject_type         subject_mode           0.244
+relation             valence                0.198
+                     statistical_marking    0.143
+direction            statistical_marking    0.142
+relation             mediator               0.139
+subject_type         subject_entity         0.134
+relation             moderator              0.119
+valence              statistical_marking    0.103
+subject_mode         valence                0.102
+statistical_marking  magnitude_unit         0.087
+subject_mode         relation               0.084
+statistical_marking  magnitude_value        0.083
+object_type          object_entity          0.081
+measurement_horizon  statistical_marking    0.074
+subject_mode         direction              0.065
+object_type          relation               0.065
+                     statistical_marking    0.064
+subject_mode         subject_entity         0.062
+population_setting   measurement_horizon    0.061
+magnitude_value      n_reported             0.059
+direction            measurement_horizon    0.058
+
+====================================================================================================
+weakest 15 field pairs
+====================================================================================================
+object_entity        moderator         -0.003
+population_role      mediator          -0.004
+direction            mediator          -0.007
+moderator            n_reported        -0.009
+measurement_horizon  moderator         -0.009
+mediator             n_reported        -0.010
+object_entity        mediator          -0.011
+statistical_marking  mediator          -0.020
+measurement_horizon  mediator          -0.027
+statistical_marking  moderator         -0.029
+moderator            magnitude_value   -0.033
+                     magnitude_unit    -0.045
+mediator             magnitude_value   -0.046
+                     magnitude_unit    -0.049
+                     moderator         -0.067
+
+====================================================================================================
+FIELD CLUSTERS at k=2
+====================================================================================================
+  G1: epistemic_strength, mediator
+  G2: subject_type, subject_mode, object_type, relation, direction, valence, population_role, population_setting, measurement_horizon, statistical_marking, subject_entity, object_entity, moderator, magnitude_value, magnitude_unit, n_reported, evidence_span
+
+====================================================================================================
+FIELD CLUSTERS at k=3
+====================================================================================================
+  G1: epistemic_strength, mediator
+  G2: subject_type, subject_mode, object_type, relation, direction, valence, population_role, population_setting, measurement_horizon, statistical_marking, subject_entity, object_entity, magnitude_value, magnitude_unit, n_reported, evidence_span
+  G3: moderator
+
+====================================================================================================
+FIELD CLUSTERS at k=4
+====================================================================================================
+  G1: epistemic_strength, mediator
+  G2: subject_type, subject_mode, object_type, relation, direction, valence, population_role, population_setting, measurement_horizon, statistical_marking, subject_entity, object_entity, magnitude_value, magnitude_unit, n_reported
+  G3: evidence_span
+  G4: moderator
+
+====================================================================================================
+FIELD CLUSTERS at k=5
+====================================================================================================
+  G1: epistemic_strength, mediator
+  G2: magnitude_value, magnitude_unit, n_reported
+  G3: subject_type, subject_mode, object_type, relation, direction, valence, population_role, population_setting, measurement_horizon, statistical_marking, subject_entity, object_entity
+  G4: evidence_span
+  G5: moderator
+
+====================================================================================================
+FIELD CLUSTERS at k=6
+====================================================================================================
+  G1: epistemic_strength, mediator
+  G2: magnitude_value, magnitude_unit, n_reported
+  G3: population_role, population_setting
+  G4: subject_type, subject_mode, object_type, relation, direction, valence, measurement_horizon, statistical_marking, subject_entity, object_entity
+  G5: evidence_span
+  G6: moderator
+
+====================================================================================================
+FIELD CLUSTERS at k=7
+====================================================================================================
+  G1: epistemic_strength, mediator
+  G2: magnitude_value, magnitude_unit, n_reported
+  G3: population_role, population_setting
+  G4: object_type, object_entity
+  G5: subject_type, subject_mode, relation, direction, valence, measurement_horizon, statistical_marking, subject_entity
+  G6: evidence_span
+  G7: moderator
+
+====================================================================================================
+field order along the dendrogram
+====================================================================================================
+epistemic_strength -> mediator -> moderator -> evidence_span -> n_reported -> magnitude_value -> magnitude_unit -> population_role -> population_setting -> object_type -> object_entity -> subject_entity -> subject_type -> subject_mode -> measurement_horizon -> statistical_marking -> relation -> direction -> valence
+
+====================================================================================================
+merge sequence (1 - AMI)
+====================================================================================================
+    step  distance  size                                                                                                                                                                                                                                                                                                                                          merged
+0      1     0.362     2                                                                                                                                                                                                                                                                                                              (magnitude_value + magnitude_unit)
+1      2     0.600     2                                                                                                                                                                                                                                                                                                                           (direction + valence)
+2      3     0.668     2                                                                                                                                                                                                                                                                                                          (population_role + population_setting)
+3      4     0.756     2                                                                                                                                                                                                                                                                                                                   (subject_type + subject_mode)
+4      5     0.778     3                                                                                                                                                                                                                                                                                                              (relation + (direction + valence))
+5      6     0.871     4                                                                                                                                                                                                                                                                                      (statistical_marking + (relation + (direction + valence)))
+6      7     0.902     3                                                                                                                                                                                                                                                                                                (subject_entity + (subject_type + subject_mode))
+7      8     0.919     2                                                                                                                                                                                                                                                                                                                   (object_type + object_entity)
+8      9     0.943     5                                                                                                                                                                                                                                                              (measurement_horizon + (statistical_marking + (relation + (direction + valence))))
+9     10     0.946     3                                                                                                                                                                                                                                                                                               (n_reported + (magnitude_value + magnitude_unit))
+10    11     0.961     8                                                                                                                                                                                                         ((subject_entity + (subject_type + subject_mode)) + (measurement_horizon + (statistical_marking + (relation + (direction + valence)))))
+11    12     0.967     2                                                                                                                                                                                                                                                                                                                 (epistemic_strength + mediator)
+12    13     0.968    10                                                                                                                                                                       ((object_type + object_entity) + ((subject_entity + (subject_type + subject_mode)) + (measurement_horizon + (statistical_marking + (relation + (direction + valence))))))
+13    14     0.973    12                                                                                                                            ((population_role + population_setting) + ((object_type + object_entity) + ((subject_entity + (subject_type + subject_mode)) + (measurement_horizon + (statistical_marking + (relation + (direction + valence)))))))
+14    15     0.982    15                                                                      ((n_reported + (magnitude_value + magnitude_unit)) + ((population_role + population_setting) + ((object_type + object_entity) + ((subject_entity + (subject_type + subject_mode)) + (measurement_horizon + (statistical_marking + (relation + (direction + valence))))))))
+15    16     0.992    16                                                    (evidence_span + ((n_reported + (magnitude_value + magnitude_unit)) + ((population_role + population_setting) + ((object_type + object_entity) + ((subject_entity + (subject_type + subject_mode)) + (measurement_horizon + (statistical_marking + (relation + (direction + valence)))))))))
+16    17     0.994    17                                      (moderator + (evidence_span + ((n_reported + (magnitude_value + magnitude_unit)) + ((population_role + population_setting) + ((object_type + object_entity) + ((subject_entity + (subject_type + subject_mode)) + (measurement_horizon + (statistical_marking + (relation + (direction + valence))))))))))
+17    18     0.996    19  ((epistemic_strength + mediator) + (moderator + (evidence_span + ((n_reported + (magnitude_value + magnitude_unit)) + ((population_role + population_setting) + ((object_type + object_entity) + ((subject_entity + (subject_type + subject_mode)) + (measurement_horizon + (statistical_marking + (relation + (direction + valence)))))))))))
+
+====================================================================================================
+AMI between STATED-NESS indicators only (is the structure just silence?)
+====================================================================================================
+                     subject_type  subject_mode  object_type  relation  direction  valence  population_role  population_setting  measurement_horizon  statistical_marking  epistemic_strength  subject_entity  mediator  moderator  magnitude_value  magnitude_unit  n_reported  evidence_span
+subject_type                1.000         0.244        0.025     0.022      0.033    0.051            0.025               0.030                0.007               -0.000               0.000           0.053    -0.000      0.002           -0.000          -0.000      -0.000           -0.0
+subject_mode                0.244         1.000        0.046     0.050      0.096    0.112            0.029               0.042                0.017                0.001               0.003           0.037     0.000      0.003            0.003           0.003      -0.000           -0.0
+object_type                 0.025         0.046        1.000     0.140      0.134    0.087            0.019              -0.000                0.034                0.024               0.002          -0.000     0.002      0.003            0.013           0.013      -0.000           -0.0
+relation                    0.022         0.050        0.140     1.000      0.310    0.202            0.001               0.001                0.014                0.046               0.043           0.063     0.023      0.024            0.000           0.000       0.001           -0.0
+direction                   0.033         0.096        0.134     0.310      1.000    0.553            0.008               0.005                0.038                0.018               0.029           0.002     0.000      0.002            0.005           0.004       0.000           -0.0
+valence                     0.051         0.112        0.087     0.202      0.553    1.000            0.009               0.012                0.032                0.012               0.031           0.012     0.002      0.007            0.002           0.002       0.000           -0.0
+population_role             0.025         0.029        0.019     0.001      0.008    0.009            1.000               0.203                0.007                0.002              -0.000           0.000     0.002     -0.000            0.001           0.001       0.000            0.0
+population_setting          0.030         0.042       -0.000     0.001      0.005    0.012            0.203               1.000                0.025                0.004              -0.000           0.003     0.001      0.001            0.003           0.004       0.001            0.0
+measurement_horizon         0.007         0.017        0.034     0.014      0.038    0.032            0.007               0.025                1.000                0.033               0.001          -0.000     0.008     -0.000            0.040           0.039       0.002           -0.0
+statistical_marking        -0.000         0.001        0.024     0.046      0.018    0.012            0.002               0.004                0.033                1.000               0.004          -0.000     0.017      0.005            0.105           0.106       0.003           -0.0
+epistemic_strength          0.000         0.003        0.002     0.043      0.029    0.031           -0.000              -0.000                0.001                0.004               1.000          -0.001     0.003      0.003            0.003           0.003       0.000           -0.0
+subject_entity              0.053         0.037       -0.000     0.063      0.002    0.012            0.000               0.003               -0.000               -0.000              -0.001           1.000     0.004      0.002            0.004           0.004      -0.001           -0.0
+mediator                   -0.000         0.000        0.002     0.023      0.000    0.002            0.002               0.001                0.008                0.017               0.003           0.004     1.000      0.010            0.013           0.013       0.002           -0.0
+moderator                   0.002         0.003        0.003     0.024      0.002    0.007           -0.000               0.001               -0.000                0.005               0.003           0.002     0.010      1.000            0.006           0.006       0.001           -0.0
+magnitude_value            -0.000         0.003        0.013     0.000      0.005    0.002            0.001               0.003                0.040                0.105               0.003           0.004     0.013      0.006            1.000           0.986       0.056           -0.0
+magnitude_unit             -0.000         0.003        0.013     0.000      0.004    0.002            0.001               0.004                0.039                0.106               0.003           0.004     0.013      0.006            0.986           1.000       0.056           -0.0
+n_reported                 -0.000        -0.000       -0.000     0.001      0.000    0.000            0.000               0.001                0.002                0.003               0.000          -0.001     0.002      0.001            0.056           0.056       1.000           -0.0
+evidence_span              -0.000        -0.000       -0.000    -0.000     -0.000   -0.000            0.000               0.000               -0.000               -0.000              -0.000          -0.000    -0.000     -0.000           -0.000          -0.000      -0.000            1.0
+
+====================================================================================================
+AMI on co-stated claims only (silence removed)
+====================================================================================================
+                     subject_type  subject_mode  object_type  relation  direction  valence  population_role  population_setting  measurement_horizon  statistical_marking  epistemic_strength  subject_entity  object_entity  mediator  moderator  magnitude_value  magnitude_unit  n_reported  evidence_span
+subject_type                1.000         0.021        0.014     0.034      0.005    0.029            0.048               0.079                0.008               -0.001               0.004           0.121            NaN     0.015      0.013            0.002           0.028         NaN          0.003
+subject_mode                0.021         1.000        0.013     0.008      0.030    0.067            0.013               0.015                0.024                0.011               0.022           0.035            NaN     0.006      0.008            0.021           0.025         NaN          0.003
+object_type                 0.014         0.013        1.000     0.023      0.008    0.034            0.021               0.029                0.047                0.007               0.012           0.022            NaN     0.014      0.013            0.014           0.048         NaN          0.005
+relation                    0.034         0.008        0.023     1.000      0.145    0.140            0.011               0.006                0.033                0.248               0.009           0.030            NaN     0.010      0.019            0.042           0.068         NaN          0.004
+direction                   0.005         0.030        0.008     0.145      1.000    0.288            0.027               0.035                0.011                0.464               0.009           0.015            NaN     0.008      0.011            0.057           0.047         NaN          0.003
+valence                     0.029         0.067        0.034     0.140      0.288    1.000            0.015               0.024                0.021                0.385               0.024           0.026            NaN     0.010      0.010            0.033           0.038         NaN          0.004
+population_role             0.048         0.013        0.021     0.011      0.027    0.015            1.000               0.643                0.016                0.005               0.002           0.031            NaN     0.007      0.012            0.015           0.022         NaN          0.002
+population_setting          0.079         0.015        0.029     0.006      0.035    0.024            0.643               1.000                0.044                0.015               0.007           0.039            NaN     0.004      0.020            0.037           0.037         NaN          0.002
+measurement_horizon         0.008         0.024        0.047     0.033      0.011    0.021            0.016               0.044                1.000               -0.002               0.020           0.023            NaN       NaN        NaN            0.024           0.032         NaN          0.004
+statistical_marking        -0.001         0.011        0.007     0.248      0.464    0.385            0.005               0.015               -0.002                1.000               0.012           0.016            NaN       NaN        NaN            0.047           0.013         NaN          0.002
+epistemic_strength          0.004         0.022        0.012     0.009      0.009    0.024            0.002               0.007                0.020                0.012               1.000           0.009            NaN     0.009      0.010           -0.001           0.002         NaN          0.002
+subject_entity              0.121         0.035        0.022     0.030      0.015    0.026            0.031               0.039                0.023                0.016               0.009           1.000            NaN     0.113      0.091            0.091           0.143         NaN          0.028
+object_entity                 NaN           NaN          NaN       NaN        NaN      NaN              NaN                 NaN                  NaN                  NaN                 NaN             NaN            1.0       NaN        NaN              NaN             NaN         NaN            NaN
+mediator                    0.015         0.006        0.014     0.010      0.008    0.010            0.007               0.004                  NaN                  NaN               0.009           0.113            NaN     1.000        NaN              NaN             NaN         NaN          0.272
+moderator                   0.013         0.008        0.013     0.019      0.011    0.010            0.012               0.020                  NaN                  NaN               0.010           0.091            NaN       NaN      1.000              NaN             NaN         NaN          0.173
+magnitude_value             0.002         0.021        0.014     0.042      0.057    0.033            0.015               0.037                0.024                0.047              -0.001           0.091            NaN       NaN        NaN            1.000           0.235         NaN          0.008
+magnitude_unit              0.028         0.025        0.048     0.068      0.047    0.038            0.022               0.037                0.032                0.013               0.002           0.143            NaN       NaN        NaN            0.235           1.000         NaN          0.007
+n_reported                    NaN           NaN          NaN       NaN        NaN      NaN              NaN                 NaN                  NaN                  NaN                 NaN             NaN            NaN       NaN        NaN              NaN             NaN         1.0            NaN
+evidence_span               0.003         0.003        0.005     0.004      0.003    0.004            0.002               0.002                0.004                0.002               0.002           0.028            NaN     0.272      0.173            0.008           0.007         NaN          1.000
+
+====================================================================================================
+...n of co-stated claims per pair
+====================================================================================================
+                     subject_type  subject_mode  object_type  relation  direction  valence  population_role  population_setting  measurement_horizon  statistical_marking  epistemic_strength  subject_entity  object_entity  mediator  moderator  magnitude_value  magnitude_unit  n_reported  evidence_span
+subject_type                    0          4282         4356      4399       4184     4335             2440                2429                  855                  999                4944            4967              0       539        476              506             502          50           4966
+subject_mode                 4282             0         4094      4148       4035     4151             2309                2331                  844                  950                4554            4569              0       486        420              511             507          48           4568
+object_type                  4356          4094            0      4733       4493     4534             2485                2305                  937                 1144                5133            5115              0       585        491              588             584          52           5154
+relation                     4399          4148         4733         0       4707     4716             2401                2374                  908                 1185                5223            5222              0       642        601              549             545          47           5223
+direction                    4184          4035         4493      4707          0     4779             2331                2278                  923                 1094                4894            4864              0       516        465              546             542          46           4894
+valence                      4335          4151         4534      4716       4779        0             2390                2379                  926                 1094                5038            5018              0       519        458              543             539          48           5039
+population_role              2440          2309         2485      2401       2331     2390                0                1999                  534                  611                2728            2713              0       253        271              314             314          34           2740
+population_setting           2429          2331         2305      2374       2278     2379             1999                   0                  618                  620                2694            2697              0       267        241              333             333          37           2706
+measurement_horizon           855           844          937       908        923      926              534                 618                    0                  359                 963             956              0        55         93              230             228          19            965
+statistical_marking           999           950         1144      1185       1094     1094              611                 620                  359                    0                1207            1199              0        49         75              368             367          24           1207
+epistemic_strength           4944          4554         5133      5223       4894     5038             2728                2694                  963                 1207                   0            5982              0       660        615              623             619          61           6030
+subject_entity               4967          4569         5115      5222       4864     5018             2713                2697                  956                 1199                5982               0              0       660        614              610             606          61           6013
+object_entity                   0             0            0         0          0        0                0                   0                    0                    0                   0               0              0         0          0                0               0           0              0
+mediator                      539           486          585       642        516      519              253                 267                   55                   49                 660             660              0         0         25               20              20           2            660
+moderator                     476           420          491       601        465      458              271                 241                   93                   75                 615             614              0        25          0               30              30           2            615
+magnitude_value               506           511          588       549        546      543              314                 333                  230                  368                 623             610              0        20         30                0             619          44            623
+magnitude_unit                502           507          584       545        542      539              314                 333                  228                  367                 619             606              0        20         30              619               0          44            619
+n_reported                     50            48           52        47         46       48               34                  37                   19                   24                  61              61              0         2          2               44              44           0             62
+evidence_span                4966          4568         5154      5223       4894     5039             2740                2706                  965                 1207                6030            6013              0       660        615              623             619          62              0
+
+====================================================================================================
+AMI drop when silence is removed (positive = association was silence)
+====================================================================================================
+                     subject_type  subject_mode  object_type  relation  direction  valence  population_role  population_setting  measurement_horizon  statistical_marking  epistemic_strength  subject_entity  object_entity  mediator  moderator  magnitude_value  magnitude_unit  n_reported  evidence_span
+subject_type                0.000         0.223        0.008     0.017      0.019    0.022           -0.016              -0.035                0.007                0.009               0.000           0.013            NaN    -0.009      0.002            0.001          -0.016         NaN          0.001
+subject_mode                0.223         0.000        0.021     0.076      0.035    0.035            0.012               0.017                0.005                0.021              -0.007           0.027            NaN     0.002      0.001           -0.009          -0.001         NaN          0.001
+object_type                 0.008         0.021        0.000     0.042      0.043    0.018            0.001              -0.005                0.004                0.057              -0.001           0.001            NaN    -0.015     -0.012            0.015          -0.017         NaN          0.000
+relation                    0.017         0.076        0.042     0.000      0.100    0.058            0.006               0.015                0.017               -0.105               0.007           0.006            NaN     0.129      0.100           -0.020          -0.039         NaN          0.000
+direction                   0.019         0.035        0.043     0.100      0.000    0.112           -0.005              -0.014                0.047               -0.322               0.007           0.005            NaN    -0.015      0.018           -0.037          -0.021         NaN          0.001
+valence                     0.022         0.035        0.018     0.058      0.112    0.000            0.005               0.004                0.024               -0.282               0.003           0.004            NaN    -0.011      0.008           -0.020          -0.017         NaN          0.001
+population_role            -0.016         0.012        0.001     0.006     -0.005    0.005            0.000              -0.311                0.011                0.007              -0.001          -0.001            NaN    -0.011      0.002           -0.009          -0.010         NaN          0.002
+population_setting         -0.035         0.017       -0.005     0.015     -0.014    0.004           -0.311               0.000                0.017                0.000              -0.004          -0.007            NaN    -0.005     -0.008           -0.024          -0.016         NaN          0.001
+measurement_horizon         0.007         0.005        0.004     0.017      0.047    0.024            0.011               0.017                0.000                0.076              -0.009          -0.004            NaN       NaN        NaN            0.012           0.021         NaN         -0.002
+statistical_marking         0.009         0.021        0.057    -0.105     -0.322   -0.282            0.007               0.000                0.076                0.000               0.044           0.006            NaN       NaN        NaN            0.036           0.074         NaN          0.001
+epistemic_strength          0.000        -0.007       -0.001     0.007      0.007    0.003           -0.001              -0.004               -0.009                0.044               0.000           0.000            NaN     0.024     -0.007            0.022          -0.002         NaN          0.000
+subject_entity              0.013         0.027        0.001     0.006      0.005    0.004           -0.001              -0.007               -0.004                0.006               0.000           0.000            NaN    -0.106     -0.086           -0.081          -0.129         NaN         -0.001
+object_entity                 NaN           NaN          NaN       NaN        NaN      NaN              NaN                 NaN                  NaN                  NaN                 NaN             NaN            0.0       NaN        NaN              NaN             NaN         NaN            NaN
+mediator                   -0.009         0.002       -0.015     0.129     -0.015   -0.011           -0.011              -0.005                  NaN                  NaN               0.024          -0.106            NaN     0.000        NaN              NaN             NaN         NaN         -0.271
+moderator                   0.002         0.001       -0.012     0.100      0.018    0.008            0.002              -0.008                  NaN                  NaN              -0.007          -0.086            NaN       NaN      0.000              NaN             NaN         NaN         -0.172
+magnitude_value             0.001        -0.009        0.015    -0.020     -0.037   -0.020           -0.009              -0.024                0.012                0.036               0.022          -0.081            NaN       NaN        NaN            0.000           0.403         NaN         -0.007
+magnitude_unit             -0.016        -0.001       -0.017    -0.039     -0.021   -0.017           -0.010              -0.016                0.021                0.074              -0.002          -0.129            NaN       NaN        NaN            0.403           0.000         NaN         -0.006
+n_reported                    NaN           NaN          NaN       NaN        NaN      NaN              NaN                 NaN                  NaN                  NaN                 NaN             NaN            NaN       NaN        NaN              NaN             NaN         0.0            NaN
+evidence_span               0.001         0.001        0.000     0.000      0.001    0.001            0.002               0.001               -0.002                0.001               0.000          -0.001            NaN    -0.271     -0.172           -0.007          -0.006         NaN          0.000

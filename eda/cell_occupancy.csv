@@ -1,0 +1,7 @@
+facets,possible,occupied,pct_occupied,cells_for_50pct,cells_for_90pct,top10_share
+subject_typexobject_type,88,68,77.3,7,28,63.9
+relationxdirectionxvalence,252,131,52.0,7,40,60.8
+subject_typexsubject_modexobject_type,616,219,35.6,15,74,41.4
+object_typexpopulation_settingxmeasurement_horizon,320,137,42.8,7,37,66.2
+subject_typexobject_typexrelationxdirection,3696,741,20.0,35,340,30.6
+subject_typexsubject_modexobject_typexrelationxdirectionxvalencexpopulation_rolexpopulation_settingxmeasurement_horizonxstatistical_markingxepistemic_strength,1241856000,3955,0.0,1036,3372,6.8

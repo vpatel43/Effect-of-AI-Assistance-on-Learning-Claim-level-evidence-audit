@@ -1,0 +1,169 @@
+object_type,population_role,measurement_horizon,obs_claims,obs_papers,expected,ratio
+task performance,students,immediate,77,64,93.9,0.82
+task performance,students,delayed,95,85,77.1,1.23
+task performance,students,longitudinal,14,14,26.9,0.52
+task performance,clinicians or professionals,immediate,55,41,31.0,1.77
+task performance,clinicians or professionals,delayed,18,13,25.5,0.71
+task performance,clinicians or professionals,longitudinal,9,9,8.9,1.01
+task performance,children,immediate,3,3,4.7,0.64
+task performance,children,delayed,1,1,3.8,0.26
+task performance,children,longitudinal,0,0,1.3,0.0
+task performance,workers,immediate,3,3,3.4,0.88
+task performance,workers,delayed,2,2,2.8,0.71
+task performance,workers,longitudinal,1,1,1.0,1.0
+task performance,general adults,immediate,4,3,2.3,1.74
+task performance,general adults,delayed,1,1,1.9,0.53
+task performance,general adults,longitudinal,0,0,0.7,0.0
+task performance,mixed or multiple,immediate,4,4,1.0,4.0
+task performance,mixed or multiple,delayed,0,0,0.8,0.0
+task performance,mixed or multiple,longitudinal,0,0,0.3,0.0
+task performance,patients,immediate,1,1,0.5,2.0
+task performance,patients,delayed,0,0,0.4,0.0
+task performance,patients,longitudinal,0,0,0.1,0.0
+task performance,older adults,immediate,0,0,0.3,0.0
+task performance,older adults,delayed,0,0,0.2,0.0
+task performance,older adults,longitudinal,0,0,0.1,0.0
+cognitive process,students,immediate,12,11,27.9,0.43
+cognitive process,students,delayed,34,29,22.9,1.48
+cognitive process,students,longitudinal,11,10,8.0,1.38
+cognitive process,clinicians or professionals,immediate,4,4,9.2,0.43
+cognitive process,clinicians or professionals,delayed,8,7,7.6,1.05
+cognitive process,clinicians or professionals,longitudinal,7,5,2.7,2.59
+cognitive process,children,immediate,2,1,1.4,1.43
+cognitive process,children,delayed,1,1,1.1,0.91
+cognitive process,children,longitudinal,2,2,0.4,5.0
+cognitive process,workers,immediate,1,1,1.0,1.0
+cognitive process,workers,delayed,0,0,0.8,0.0
+cognitive process,workers,longitudinal,3,3,0.3,10.0
+cognitive process,general adults,immediate,1,1,0.7,1.43
+cognitive process,general adults,delayed,0,0,0.6,0.0
+cognitive process,general adults,longitudinal,0,0,0.2,0.0
+cognitive process,mixed or multiple,immediate,0,0,0.3,0.0
+cognitive process,mixed or multiple,delayed,0,0,0.3,0.0
+cognitive process,mixed or multiple,longitudinal,0,0,0.1,0.0
+cognitive process,patients,immediate,0,0,0.2,0.0
+cognitive process,patients,delayed,0,0,0.1,0.0
+cognitive process,patients,longitudinal,0,0,0.0,
+cognitive process,older adults,immediate,0,0,0.1,0.0
+cognitive process,older adults,delayed,0,0,0.1,0.0
+cognitive process,older adults,longitudinal,0,0,0.0,
+subjective experience,students,immediate,42,38,19.5,2.15
+subjective experience,students,delayed,8,8,16.0,0.5
+subjective experience,students,longitudinal,3,3,5.6,0.54
+subjective experience,clinicians or professionals,immediate,3,3,6.4,0.47
+subjective experience,clinicians or professionals,delayed,1,1,5.3,0.19
+subjective experience,clinicians or professionals,longitudinal,0,0,1.8,0.0
+subjective experience,children,immediate,0,0,1.0,0.0
+subjective experience,children,delayed,0,0,0.8,0.0
+subjective experience,children,longitudinal,0,0,0.3,0.0
+subjective experience,workers,immediate,1,1,0.7,1.43
+subjective experience,workers,delayed,0,0,0.6,0.0
+subjective experience,workers,longitudinal,0,0,0.2,0.0
+subjective experience,general adults,immediate,1,1,0.5,2.0
+subjective experience,general adults,delayed,0,0,0.4,0.0
+subjective experience,general adults,longitudinal,0,0,0.1,0.0
+subjective experience,mixed or multiple,immediate,0,0,0.2,0.0
+subjective experience,mixed or multiple,delayed,0,0,0.2,0.0
+subjective experience,mixed or multiple,longitudinal,0,0,0.1,0.0
+subjective experience,patients,immediate,1,1,0.1,10.0
+subjective experience,patients,delayed,0,0,0.1,0.0
+subjective experience,patients,longitudinal,0,0,0.0,
+subjective experience,older adults,immediate,0,0,0.1,0.0
+subjective experience,older adults,delayed,0,0,0.0,
+subjective experience,older adults,longitudinal,0,0,0.0,
+behavioural strategy,students,immediate,17,14,16.2,1.05
+behavioural strategy,students,delayed,8,7,13.3,0.6
+behavioural strategy,students,longitudinal,7,7,4.7,1.49
+behavioural strategy,clinicians or professionals,immediate,2,2,5.4,0.37
+behavioural strategy,clinicians or professionals,delayed,2,2,4.4,0.45
+behavioural strategy,clinicians or professionals,longitudinal,2,1,1.5,1.33
+behavioural strategy,children,immediate,2,2,0.8,2.5
+behavioural strategy,children,delayed,3,2,0.7,4.29
+behavioural strategy,children,longitudinal,3,3,0.2,15.0
+behavioural strategy,workers,immediate,0,0,0.6,0.0
+behavioural strategy,workers,delayed,1,1,0.5,2.0
+behavioural strategy,workers,longitudinal,0,0,0.2,0.0
+behavioural strategy,general adults,immediate,0,0,0.4,0.0
+behavioural strategy,general adults,delayed,2,2,0.3,6.67
+behavioural strategy,general adults,longitudinal,0,0,0.1,0.0
+behavioural strategy,mixed or multiple,immediate,0,0,0.2,0.0
+behavioural strategy,mixed or multiple,delayed,0,0,0.1,0.0
+behavioural strategy,mixed or multiple,longitudinal,0,0,0.1,0.0
+behavioural strategy,patients,immediate,0,0,0.1,0.0
+behavioural strategy,patients,delayed,0,0,0.1,0.0
+behavioural strategy,patients,longitudinal,0,0,0.0,
+behavioural strategy,older adults,immediate,1,1,0.0,inf
+behavioural strategy,older adults,delayed,0,0,0.0,
+behavioural strategy,older adults,longitudinal,0,0,0.0,
+disposition or attitude,students,immediate,8,8,12.7,0.63
+disposition or attitude,students,delayed,17,14,10.4,1.63
+disposition or attitude,students,longitudinal,8,8,3.6,2.22
+disposition or attitude,clinicians or professionals,immediate,2,2,4.2,0.48
+disposition or attitude,clinicians or professionals,delayed,2,2,3.4,0.59
+disposition or attitude,clinicians or professionals,longitudinal,0,0,1.2,0.0
+disposition or attitude,children,immediate,1,1,0.6,1.67
+disposition or attitude,children,delayed,0,0,0.5,0.0
+disposition or attitude,children,longitudinal,0,0,0.2,0.0
+disposition or attitude,workers,immediate,0,0,0.5,0.0
+disposition or attitude,workers,delayed,1,1,0.4,2.5
+disposition or attitude,workers,longitudinal,0,0,0.1,0.0
+disposition or attitude,general adults,immediate,0,0,0.3,0.0
+disposition or attitude,general adults,delayed,0,0,0.3,0.0
+disposition or attitude,general adults,longitudinal,0,0,0.1,0.0
+disposition or attitude,mixed or multiple,immediate,0,0,0.1,0.0
+disposition or attitude,mixed or multiple,delayed,0,0,0.1,0.0
+disposition or attitude,mixed or multiple,longitudinal,0,0,0.0,
+disposition or attitude,patients,immediate,0,0,0.1,0.0
+disposition or attitude,patients,delayed,0,0,0.1,0.0
+disposition or attitude,patients,longitudinal,0,0,0.0,
+disposition or attitude,older adults,immediate,0,0,0.0,
+disposition or attitude,older adults,delayed,0,0,0.0,
+disposition or attitude,older adults,longitudinal,0,0,0.0,
+physiological,students,immediate,1,1,1.6,0.62
+physiological,students,delayed,0,0,1.3,0.0
+physiological,students,longitudinal,0,0,0.5,0.0
+physiological,clinicians or professionals,immediate,2,2,0.5,4.0
+physiological,clinicians or professionals,delayed,1,1,0.4,2.5
+physiological,clinicians or professionals,longitudinal,1,1,0.2,5.0
+physiological,children,immediate,0,0,0.1,0.0
+physiological,children,delayed,0,0,0.1,0.0
+physiological,children,longitudinal,0,0,0.0,
+physiological,workers,immediate,0,0,0.1,0.0
+physiological,workers,delayed,0,0,0.0,
+physiological,workers,longitudinal,0,0,0.0,
+physiological,general adults,immediate,0,0,0.0,
+physiological,general adults,delayed,0,0,0.0,
+physiological,general adults,longitudinal,0,0,0.0,
+physiological,mixed or multiple,immediate,0,0,0.0,
+physiological,mixed or multiple,delayed,0,0,0.0,
+physiological,mixed or multiple,longitudinal,0,0,0.0,
+physiological,patients,immediate,0,0,0.0,
+physiological,patients,delayed,0,0,0.0,
+physiological,patients,longitudinal,0,0,0.0,
+physiological,older adults,immediate,0,0,0.0,
+physiological,older adults,delayed,0,0,0.0,
+physiological,older adults,longitudinal,0,0,0.0,
+behavioral strategy,students,immediate,0,0,0.3,0.0
+behavioral strategy,students,delayed,0,0,0.3,0.0
+behavioral strategy,students,longitudinal,1,1,0.1,10.0
+behavioral strategy,clinicians or professionals,immediate,0,0,0.1,0.0
+behavioral strategy,clinicians or professionals,delayed,0,0,0.1,0.0
+behavioral strategy,clinicians or professionals,longitudinal,0,0,0.0,
+behavioral strategy,children,immediate,0,0,0.0,
+behavioral strategy,children,delayed,0,0,0.0,
+behavioral strategy,children,longitudinal,0,0,0.0,
+behavioral strategy,workers,immediate,0,0,0.0,
+behavioral strategy,workers,delayed,0,0,0.0,
+behavioral strategy,workers,longitudinal,0,0,0.0,
+behavioral strategy,general adults,immediate,0,0,0.0,
+behavioral strategy,general adults,delayed,0,0,0.0,
+behavioral strategy,general adults,longitudinal,0,0,0.0,
+behavioral strategy,mixed or multiple,immediate,0,0,0.0,
+behavioral strategy,mixed or multiple,delayed,0,0,0.0,
+behavioral strategy,mixed or multiple,longitudinal,0,0,0.0,
+behavioral strategy,patients,immediate,0,0,0.0,
+behavioral strategy,patients,delayed,0,0,0.0,
+behavioral strategy,patients,longitudinal,0,0,0.0,
+behavioral strategy,older adults,immediate,0,0,0.0,
+behavioral strategy,older adults,delayed,0,0,0.0,
+behavioral strategy,older adults,longitudinal,0,0,0.0,

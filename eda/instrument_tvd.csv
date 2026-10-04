@@ -1,0 +1,15 @@
+source,channel,channel,channel,extractor,extractor,extractor
+level,c1,cc_d1,cc_d1_capfix,haiku_batch,haiku_from_cache,haiku_production
+facet,,,,,,
+core_shape,0.114,0.053,0.076,0.037,0.111,0.064
+direction,0.056,0.026,0.027,0.013,0.041,0.029
+epistemic_strength,0.026,0.009,0.003,0.005,0.025,0.011
+measurement_horizon,0.029,0.008,0.027,0.006,0.03,0.016
+object_type,0.048,0.022,0.039,0.013,0.053,0.017
+population_role,0.045,0.02,0.011,0.01,0.061,0.009
+population_setting,0.055,0.029,0.028,0.011,0.062,0.029
+relation,0.039,0.014,0.029,0.007,0.043,0.015
+statistical_marking,0.03,0.025,0.035,0.002,0.024,0.007
+subject_mode,0.023,0.018,0.038,0.008,0.078,0.017
+subject_type,0.056,0.015,0.035,0.025,0.039,0.052
+valence,0.059,0.029,0.032,0.003,0.038,0.009
